@@ -31,6 +31,7 @@ FEATURES = [
     ("phone information", FLOWDROID_OUTPUT_DIR / "PHONE_INFORMATION.csv"),
     ("sms mms", FLOWDROID_OUTPUT_DIR / "SMS_MMS.csv"),
     ("content provider", INPUT_DIR / "content-provider.csv"),
+    ("permission-protected resource access", INPUT_DIR / "permission-protected-resource-access.csv"),
 ]
 
 

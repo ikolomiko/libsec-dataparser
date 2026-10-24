@@ -16,4 +16,5 @@ analysis,any-version,first-version,last-version,most-popular-version
 15_Uses_sensitive_data,5.1363%,4.1954%,4.0439%,3.7841%
 17_Dangerous_permissions,12.6641%,11.3697%,11.3100%,10.4012%
 content-provider,0.7620%,0.5646%,0.6564%,0.4756%
+permission-protected-resource-access,4.6544%,4.1219%,3.9750%,3.2465%
 FILE_INFORMATION,0.6105%,0.4544%,0.5370%,0.3722%
