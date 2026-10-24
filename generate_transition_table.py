@@ -30,6 +30,7 @@ FEATURES = [
     ("file information", FLOWDROID_OUTPUT_DIR / "FILE_INFORMATION.csv"),
     ("phone information", FLOWDROID_OUTPUT_DIR / "PHONE_INFORMATION.csv"),
     ("sms mms", FLOWDROID_OUTPUT_DIR / "SMS_MMS.csv"),
+    ("content provider", INPUT_DIR / "content-provider.csv"),
 ]
 
 
