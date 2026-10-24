@@ -8,7 +8,7 @@ output_file="$output_dir/$(basename $input_file)"
 
 echo "libid,any-version,first-version,last-version,most-popular-if-applicable" > $output_file
 
-for line in $(tail +2 versions-matrix.csv); do
+for line in $(tail -n +2 versions-matrix.csv); do
     libid="$(cut -d',' -f1 <<< "$line")"
     oldest="$(cut -d',' -f2 <<< "$line")"
     newest="$(cut -d',' -f3 <<< "$line")"

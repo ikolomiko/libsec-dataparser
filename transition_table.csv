@@ -4,13 +4,20 @@ installed package queries,247,1.13%,256,1.18%,1711,7.85%,2214,10.16%,2246,10.31%
 sensitive data access,162,0.74%,195,0.90%,719,3.30%,1076,4.94%,1119,5.14%
 javascript usage,70,0.32%,95,0.44%,592,2.72%,757,3.47%,770,3.53%
 classloader,8,0.04%,10,0.05%,45,0.21%,63,0.29%,66,0.30%
+dangerous permissions,248,1.14%,261,1.20%,2216,10.17%,2725,12.51%,2759,12.66%
+browser information,2,0.01%,1,0.00%,4,0.02%,7,0.03%,7,0.03%
+calendar information,0,0.00%,1,0.00%,1,0.00%,2,0.01%,2,0.01%
+contact information,2,0.01%,0,0.00%,3,0.01%,5,0.02%,5,0.02%
+file information,28,0.13%,10,0.05%,89,0.41%,127,0.58%,133,0.61%
+phone information,3,0.01%,0,0.00%,9,0.04%,12,0.06%,15,0.07%
+sms mms,3,0.01%,2,0.01%,10,0.05%,15,0.07%,15,0.07%
 
 notes
 metric,value,explanation
 dataset_total_libraries,21786,All percentages use this denominator.
 percentage_definition,count / 21786,Cell percentage = cell count / dataset size.
 single_version_libraries,6061,Libraries with oldest == newest are counted as persisted when the feature is present.
-excluded_invalid_versions,413,Excluded because oldest/newest was missing or invalid.
+excluded_invalid_versions,0,Excluded because oldest/newest was missing or invalid.
 absent_both_omissions,,Libraries with the feature absent in both endpoints are omitted from the cell counts.
 endpoint_total_definition,gained + removed + persisted,Feature present in at least one endpoint (oldest or newest).
 any_version_definition,feature present in any version,Also includes libraries with the feature only in non-endpoint versions.

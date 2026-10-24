@@ -9,15 +9,23 @@ from typing import Dict, Set, Tuple
 BASE_DIR = Path(__file__).resolve().parent
 VERSIONS_MATRIX = BASE_DIR / "versions-matrix.csv"
 INPUT_DIR = BASE_DIR / "input"
+FLOWDROID_OUTPUT_DIR = BASE_DIR / "flowdroid-content" / "output"
 OUTPUT_FILE = BASE_DIR / "transition_table.csv"
 DATASET_TOTAL = 21786
 
 FEATURES = [
-    ("reflection", "01_Uses_reflection.csv"),
-    ("installed package queries", "03_Read_installed_packages.csv"),
-    ("sensitive data access", "15_Uses_sensitive_data.csv"),
-    ("javascript usage", "02_Uses_javascript.csv"),
-    ("classloader", "13_Uses_classloader.csv"),
+    ("reflection", INPUT_DIR / "01_Uses_reflection.csv"),
+    ("installed package queries", INPUT_DIR / "03_Read_installed_packages.csv"),
+    ("sensitive data access", INPUT_DIR / "15_Uses_sensitive_data.csv"),
+    ("javascript usage", INPUT_DIR / "02_Uses_javascript.csv"),
+    ("classloader", INPUT_DIR / "13_Uses_classloader.csv"),
+    ("dangerous permissions", INPUT_DIR / "17_Dangerous_permissions.csv"),
+    ("browser information", FLOWDROID_OUTPUT_DIR / "BROWSER_INFORMATION.csv"),
+    ("calendar information", FLOWDROID_OUTPUT_DIR / "CALENDAR_INFORMATION.csv"),
+    ("contact information", FLOWDROID_OUTPUT_DIR / "CONTACT_INFORMATION.csv"),
+    ("file information", FLOWDROID_OUTPUT_DIR / "FILE_INFORMATION.csv"),
+    ("phone information", FLOWDROID_OUTPUT_DIR / "PHONE_INFORMATION.csv"),
+    ("sms mms", FLOWDROID_OUTPUT_DIR / "SMS_MMS.csv"),
 ]
 
 
@@ -77,9 +85,9 @@ def read_version_selection() -> VersionSelection:
     return selection
 
 
-def read_presence(filename: str) -> Dict[str, Set[str]]:
+def read_presence(path: Path) -> Dict[str, Set[str]]:
     presence: Dict[str, Set[str]] = defaultdict(set)
-    with (INPUT_DIR / filename).open(newline="") as file:
+    with path.open(newline="") as file:
         for row in csv.reader(file):
             if len(row) < 2 or row[0] == "libid":
                 continue
