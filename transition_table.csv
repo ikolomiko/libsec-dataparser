@@ -1,21 +1,16 @@
-feature,gained,gained_pct,removed,removed_pct,persisted,persisted_pct,total,total_pct
-reflection,506,2.32%,427,1.96%,2371,10.88%,3304,15.17%
-installed package queries,247,1.13%,256,1.18%,1258,5.77%,1761,8.08%
-sensitive data access,162,0.74%,195,0.90%,500,2.30%,857,3.93%
-javascript usage,70,0.32%,95,0.44%,425,1.95%,590,2.71%
-classloader,8,0.04%,10,0.05%,22,0.10%,40,0.18%
+feature,gained,gained_pct,removed,removed_pct,persisted,persisted_pct,endpoint_total,endpoint_total_pct,any_version,any_version_pct
+reflection,506,2.32%,427,1.96%,3367,15.45%,4300,19.74%,4373,20.07%
+installed package queries,247,1.13%,256,1.18%,1711,7.85%,2214,10.16%,2246,10.31%
+sensitive data access,162,0.74%,195,0.90%,719,3.30%,1076,4.94%,1119,5.14%
+javascript usage,70,0.32%,95,0.44%,592,2.72%,757,3.47%,770,3.53%
+classloader,8,0.04%,10,0.05%,45,0.21%,63,0.29%,66,0.30%
 
 notes
 metric,value,explanation
-dataset_total_libraries,21786,Distinct libraries in the analysis dataset; all percentages use this denominator.
-percentage_definition,count / 21786,Each cell percentage is the cell count divided by dataset_total_libraries.
-versions_matrix_rows,22199,Rows present in versions-matrix.csv.
-excluded_invalid_versions,413,Rows with a missing or invalid oldest/newest version; not part of the dataset.
-libraries_with_same_oldest_newest,6061,Dataset libraries where oldest == newest; they count in the denominator but cannot contribute a transition.
-libraries_with_distinct_oldest_newest,15725,"Dataset libraries with valid, distinct oldest/newest versions."
-absent_both_omissions,,Libraries with a feature absent in both oldest and newest are omitted from that feature's three transition cells.
-absent_both_reflection,12421,Dataset libraries with no reflection in either endpoint.
-absent_both_installed_package_queries,13964,Dataset libraries with no installed package queries in either endpoint.
-absent_both_sensitive_data_access,14868,Dataset libraries with no sensitive data access in either endpoint.
-absent_both_javascript_usage,15135,Dataset libraries with no javascript usage in either endpoint.
-absent_both_classloader,15685,Dataset libraries with no classloader in either endpoint.
+dataset_total_libraries,21786,All percentages use this denominator.
+percentage_definition,count / 21786,Cell percentage = cell count / dataset size.
+single_version_libraries,6061,Libraries with oldest == newest are counted as persisted when the feature is present.
+excluded_invalid_versions,413,Excluded because oldest/newest was missing or invalid.
+absent_both_omissions,,Libraries with the feature absent in both endpoints are omitted from the cell counts.
+endpoint_total_definition,gained + removed + persisted,Feature present in at least one endpoint (oldest or newest).
+any_version_definition,feature present in any version,Also includes libraries with the feature only in non-endpoint versions.

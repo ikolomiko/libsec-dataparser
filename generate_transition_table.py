@@ -10,6 +10,7 @@ BASE_DIR = Path(__file__).resolve().parent
 VERSIONS_MATRIX = BASE_DIR / "versions-matrix.csv"
 INPUT_DIR = BASE_DIR / "input"
 OUTPUT_FILE = BASE_DIR / "transition_table.csv"
+DATASET_TOTAL = 21786
 
 FEATURES = [
     ("reflection", "01_Uses_reflection.csv"),
@@ -26,9 +27,10 @@ class TransitionCounts:
     removed: int = 0
     persisted: int = 0
     absent_both: int = 0
+    any_version: int = 0
 
     @property
-    def total(self) -> int:
+    def endpoint_total(self) -> int:
         return self.gained + self.removed + self.persisted
 
 
@@ -41,7 +43,7 @@ class VersionSelection:
 
     @property
     def dataset_total(self) -> int:
-        return self.total - self.invalid
+        return DATASET_TOTAL
 
 
 def percentage(count: int, total: int) -> str:
@@ -66,9 +68,11 @@ def read_version_selection() -> VersionSelection:
 
             if oldest == newest:
                 selection.same_version += 1
-                continue
 
             selection.pairs[row["libID"]] = (oldest, newest)
+
+    if len(selection.pairs) != DATASET_TOTAL:
+        raise ValueError(f"dataset size mismatch: {len(selection.pairs)} != {DATASET_TOTAL}")
 
     return selection
 
@@ -104,6 +108,7 @@ def count_transitions(versions: Dict[str, Tuple[str, str]]) -> Dict[str, Transit
             else:
                 counts.absent_both += 1
 
+        counts.any_version = sum(1 for lib_id in versions if present.get(lib_id))
         results[feature] = counts
 
     return results
@@ -118,7 +123,8 @@ def write_csv(results: Dict[str, TransitionCounts], selection: VersionSelection)
             "gained", "gained_pct",
             "removed", "removed_pct",
             "persisted", "persisted_pct",
-            "total", "total_pct",
+            "endpoint_total", "endpoint_total_pct",
+            "any_version", "any_version_pct",
         ])
 
         for feature, _ in FEATURES:
@@ -128,7 +134,8 @@ def write_csv(results: Dict[str, TransitionCounts], selection: VersionSelection)
                 counts.gained, percentage(counts.gained, dataset_total),
                 counts.removed, percentage(counts.removed, dataset_total),
                 counts.persisted, percentage(counts.persisted, dataset_total),
-                counts.total, percentage(counts.total, dataset_total),
+                counts.endpoint_total, percentage(counts.endpoint_total, dataset_total),
+                counts.any_version, percentage(counts.any_version, dataset_total),
             ])
 
         writer.writerow([])
@@ -137,50 +144,44 @@ def write_csv(results: Dict[str, TransitionCounts], selection: VersionSelection)
         writer.writerow([
             "dataset_total_libraries",
             dataset_total,
-            "Distinct libraries in the analysis dataset; all percentages use this denominator.",
+            "All percentages use this denominator.",
         ])
         writer.writerow([
             "percentage_definition",
             f"count / {dataset_total}",
-            "Each cell percentage is the cell count divided by dataset_total_libraries.",
+            "Cell percentage = cell count / dataset size.",
         ])
         writer.writerow([
-            "versions_matrix_rows",
-            selection.total,
-            "Rows present in versions-matrix.csv.",
+            "single_version_libraries",
+            selection.same_version,
+            "Libraries with oldest == newest are counted as persisted when the feature is present.",
         ])
         writer.writerow([
             "excluded_invalid_versions",
             selection.invalid,
-            "Rows with a missing or invalid oldest/newest version; not part of the dataset.",
-        ])
-        writer.writerow([
-            "libraries_with_same_oldest_newest",
-            selection.same_version,
-            "Dataset libraries where oldest == newest; they count in the denominator but cannot contribute a transition.",
-        ])
-        writer.writerow([
-            "libraries_with_distinct_oldest_newest",
-            len(selection.pairs),
-            "Dataset libraries with valid, distinct oldest/newest versions.",
+            "Excluded because oldest/newest was missing or invalid.",
         ])
         writer.writerow([
             "absent_both_omissions",
             "",
-            "Libraries with a feature absent in both oldest and newest are omitted from that feature's three transition cells.",
+            "Libraries with the feature absent in both endpoints are omitted from the cell counts.",
         ])
-        for feature, _ in FEATURES:
-            writer.writerow([
-                f"absent_both_{feature.replace(' ', '_')}",
-                results[feature].absent_both,
-                f"Dataset libraries with no {feature} in either endpoint.",
-            ])
+        writer.writerow([
+            "endpoint_total_definition",
+            "gained + removed + persisted",
+            "Feature present in at least one endpoint (oldest or newest).",
+        ])
+        writer.writerow([
+            "any_version_definition",
+            "feature present in any version",
+            "Also includes libraries with the feature only in non-endpoint versions.",
+        ])
 
 
 def write_markdown(results: Dict[str, TransitionCounts], selection: VersionSelection) -> None:
     dataset_total = selection.dataset_total
-    print("| feature | gained (absent->present) | removed (present->absent) | persisted (present->present) | total |")
-    print("|---|---:|---:|---:|---:|")
+    print("| feature | gained (absent->present) | removed (present->absent) | persisted (present->present) | endpoint total | any version |")
+    print("|---|---:|---:|---:|---:|---:|")
 
     for feature, _ in FEATURES:
         counts = results[feature]
@@ -189,20 +190,17 @@ def write_markdown(results: Dict[str, TransitionCounts], selection: VersionSelec
             f"| {count_with_percentage(counts.gained, dataset_total)} "
             f"| {count_with_percentage(counts.removed, dataset_total)} "
             f"| {count_with_percentage(counts.persisted, dataset_total)} "
-            f"| {count_with_percentage(counts.total, dataset_total)} |"
+            f"| {count_with_percentage(counts.endpoint_total, dataset_total)} "
+            f"| {count_with_percentage(counts.any_version, dataset_total)} |"
         )
 
     print()
     print("### Notes")
-    print(f"- Dataset: {dataset_total} distinct libraries. Each percentage is the cell count divided by {dataset_total}.")
-    print(f"- `versions-matrix.csv` has {selection.total} rows.")
-    print(f"- {selection.invalid} rows were excluded because oldest/newest was missing or invalid; they are not part of the dataset.")
-    print(f"- {selection.same_version} dataset libraries have oldest == newest. They are included in the {dataset_total} denominator but cannot contribute to gained, removed, or persisted.")
-    print(f"- {len(selection.pairs)} dataset libraries have valid, distinct oldest/newest versions and can contribute to the transition cells.")
-    print("- Libraries with the feature absent in both oldest and newest are omitted from that feature's three transition cells.")
-    print("- Per-feature absent-in-both counts:")
-    for feature, _ in FEATURES:
-        print(f"  - {feature}: {results[feature].absent_both}")
+    print(f"- Dataset: {dataset_total} distinct libraries. Percentages are cell count / {dataset_total}.")
+    print(f"- {selection.same_version} libraries have only one version (oldest == newest); when the feature is present, they count as persisted.")
+    print(f"- {selection.invalid} source rows with missing or invalid versions were excluded.")
+    print("- Libraries with the feature absent in both endpoints are omitted from the cell counts.")
+    print("- `endpoint total` = gained + removed + persisted; `any version` also includes middle-only libraries.")
 
 
 def main() -> None:
