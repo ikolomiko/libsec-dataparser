@@ -22,7 +22,6 @@ a.yumi+module_demo,0.0.1,0.0.1,-
 a.yumi+module_wandroid,0.0.2,0.0.2,-
 aar.lib_demo.example.administrator.aarlibrary+aarlibrary,1.0.9,1.1.1,-
 abbi.io+abbiadsdk,1.0.0,1.0.0,-
-abbi.io+abbisdk,-,-,-
 abhishek.com.roundimage+roundimage,1.0.0,1.0.0,-
 academy.appdev+context-extensions,1.0.0,1.0.0,-
 academy.appdev+floating-context-menu,1.0.0,1.0.6,-
@@ -64,7 +63,6 @@ ai.vernacular+chat-sdk,0.1.0,0.4.3,0.1.0
 ai.wordbox+network,1.0.0,1.0.1,-
 ak.andro.kumaraakash86+ak-universal-helper,0.1,1.2.3,-
 akinaru+multi-event-library,0.2,0.31,-
-al.bruno.calendar.view+calendar-view,-,-,-
 alexclin.httplite+httplite-okhttp2,1.0.0,2.0.0,-
 alexclin.httplite+httplite-okhttp3,1.0.0,2.0.0,-
 alexclin.httplite+httplite-url,1.0.0,2.0.0,-
@@ -107,7 +105,6 @@ android.arch.persistence.room+testing,1.0.0-alpha1,1.1.1,-
 android.arch.work+work-runtime-ktx,1.0.0-alpha01,1.0.1,1.0.0-alpha01
 android.baseframework+core,0.1,0.9.4,-
 android.com.circular_camera_preview+amanjham,1.5.2,1.5.2,-
-android.dangngocduc+ToolBarIOS,-,-,-
 android.dangngocduc+toolbarios,1.1.2,1.1.3,-
 android.dev.support+recycler-base,1.0.0,1.0.5,1.0.0
 android.dev.support+recycler-binding,1.0.0,1.0.1,-
@@ -121,7 +118,6 @@ android.library+file,1.0.0,1.0.1,-
 android.library+http,1.0.0,1.0.4,-
 android.library+office,1.0.01,1.0.3,-
 android.library+permission,1.0.0,1.0.5,-
-android.library+util,-,-,-
 android.ling.download+download,0.0.3,0.0.3,-
 android.lucas+swipeback,unspecified,0.0.1,-
 android.mirrortowers+custom_camera_gallery,1.0.3,1.0.3,-
@@ -386,7 +382,6 @@ androidx.work+work-testing,2.0.0-rc01,2.8.0-alpha03,-
 andy.ayaseruri.lib+lib,1.0.0,1.0.0,-
 andy.ayaseruri.tagsview+lib,1.0.0,1.0.2,-
 angelbo.maven.mylibrary+mylibrary,unspecified,1.0.2,-
-annguyen.awesome-helper+request,-,-,-
 annguyen.awesome-ui+audio-wave-view,1.0.0,1.0.0,-
 annguyen.awesome-ui+facebook-page-embed,1.0.0,1.0.0,-
 annguyen.awesome-ui+gift-icon,1.0.0,1.1.5,-
@@ -394,7 +389,6 @@ annguyen.awesome-ui+sponsor-content,1.0.0,1.1.0,-
 annguyen.kotlin.request+request-kotlin,1.0.0,1.4.1,-
 any.com.rxbus+rxbus,1.0.0,1.0.0,-
 aop.kotlinx.plugin+kotlin_plugin_aop,1.0.0,1.0.6,-
-ap.mobile.routeboxerlib+routeboxer,-,-,-
 apache.celix+celix-wrapper,1.0,2.0,-
 apk.imany+test-lib,1.0,1.0,-
 apk.imany.widget+widget,1.0.0,1.0.0,-
@@ -444,7 +438,6 @@ app.raybritton.crypto+rx,0.8.0,0.13.4,-
 app.raybritton.elog+lib,0.1.2,0.4.3,-
 app.raybritton.tokenstorage+gson,0.6.0,0.7.1,-
 app.raybritton.tokenstorage+room,0.1.0,0.7.1,-
-app.raybritton.tokenstorage.room+TokenStorage-Room,-,-,-
 app.redwarp.gif+android-drawable,0.3.0,1.4.0,-
 app.rive+rive-android,0.0.8.test.5,4.0.2,-
 app.visly.shard+core,0.1.0,0.1.8,-
@@ -505,7 +498,6 @@ au.com.domain+accounts-autocomplete,1.0.0,1.0.0,-
 au.com.gridstone.debugdrawer+debugdrawer-retrofit,0.9.6,0.9.8,-
 au.com.jtribe+signalr-client-sdk-android,1.0.0,1.0.2,-
 au.com.vivant+noisygyro,1.0.0,1.0.0,-
-au.sj.sjnavigation+navigation,-,-,-
 auroral.widget.view+album,0.0.1,0.0.4,-
 auroral.widget.view+camera,0.0.1,0.0.1,-
 awesome.vrund.vpawesomewidgets+VPAwesomeWidgets,1.0.0,1.1.1,-
@@ -529,17 +521,14 @@ be.pielambr+rainbowdreamer,0.2,0.3,-
 be.sigmadelta+Substratum,0.1.0,0.1.3,-
 be.sigmadelta+zippitylib,0.1.0,0.2.0,-
 be.stannieman+rest,1.0.1,1.2.1,-
-bg.dalexiev+bender,-,-,-
 bg.devlabs+fullscreen-video-view,1.1.6,1.2.0,-
 bg.devlabs.fullscreenvideoview+library,0.0.1,1.1.6,-
 bike.donkey+lockkit,1.2.0,1.3.0,-
 bintray-claudiu-maven+restfulkik,1.0.0,1.0.0,-
 bintray-yuzexing-maven+miojiChatSDK,1.0.0,1.0.2,1.0.0
-bintray-yuzexing-maven+mylibrary,-,-,-
 bitbucket.org.anna_lmc+emoji,0.1.0,0.1.0,-
 bitbucket.org.anna_lmc+emoji-google-compat,0.1.0,0.1.0,-
 biz.kasual+recyclerfragment,1.0.4,1.0.4,-
-bjpkten.kodulf.TryToGetMyGithubRepo+app,-,-,-
 blue.sky.ui+foamingeffect,1.0.0,1.0.1,-
 boxresin.android.camera+cameraview,0.1.0,0.1.1,-
 br.alexandrehtrb.iridescentview+iridescentview,1.0.0,1.0.0,-
@@ -572,7 +561,6 @@ br.com.concrete+yosef-glide,1.2.0,1.3.0,-
 br.com.concrete+yosef-gradient,1.3.0,1.3.0,-
 br.com.concrete+yosef-lottie,1.2.0,1.3.0,-
 br.com.concrete+yosef-picasso,1.2.0,1.3.0,-
-br.com.concretesolutions+kappuccino,-,-,-
 br.com.csbruno+expandable-tags,0.1,0.1,-
 br.com.devsrsouza.compose.icons.android+css-gg,0.2.0,1.0.0,-
 br.com.devsrsouza.compose.icons.android+erikflowers-weather-icons,0.2.0,1.0.0,-
@@ -586,12 +574,10 @@ br.com.devsrsouza.compose.icons.jetbrains+font-awesome-android-debug,0.1.1,1.0.0
 br.com.edsilfer+custom-searchable,0.0.1-Beta,0.1.0-Beta,-
 br.com.edsilfer+kotlin-support,1.0.0,1.0.33,-
 br.com.edsilfer+list-manager,0.0.1,1.0.6,-
-br.com.edsilfer+rest-comm,-,-,-
 br.com.edsilfer.android+chip-interface,1.0.0,1.0.11,-
 br.com.edsilfer.android+reactive-scheduler,1.0.0,1.0.0,-
 br.com.edsilfer.android+search-interface,0.0.1,1.1.4,-
 br.com.edsilfer.android+user-onboarding,1.0.0,1.0.7,-
-br.com.flyhigh+bundle-lib,-,-,-
 br.com.forusers.heinsinputdialogs+heinsinputdialogs,0.0.1,0.0.1,-
 br.com.gorio.bqcodereader+bqcodereader,0.0.1,0.0.3,-
 br.com.instachat+emoji-library,0.0.1,1.0.8,-
@@ -722,7 +708,6 @@ cat.rokubun.jason+sdk,1.12.0-25-g2290520,1.7.0,-
 catherine.mobile+messagescenter,1.0.0,1.0.0,-
 cayte.frame.http+cayte-frame-http,1.0,3.0,-
 cayte.starter+cayte-starter,1.0,2.0,-
-cc.andreasen+pay-me,-,-,-
 cc.andreasen.pay-me+library,1.3,1.4,-
 cc.carlos+custom_font,1.0,1.0,-
 cc.chenhe+watch-face-helper,2.0.0,2.0.3,-
@@ -859,7 +844,6 @@ cn.com.lasong+widget,0.0.4_45aee426,0.0.5.4,-
 cn.com.startai+iot,1.0.1,1.0.2,-
 cn.com.superLei+aop-arms,1.0.2,1.0.4,-
 cn.com.tcsl+jad,1.0.0,1.0.2,-
-cn.com.utils+data,-,-,-
 cn.com.utils+inject,1.0.0,1.0.1,-
 cn.com.utils+wifi,1.0.0,1.0.0,-
 cn.cyq.android+easyuilibrary,1.0.0,1.1.0,-
@@ -910,7 +894,6 @@ cn.ieclipse.af+af-pay-pure,0.0.1,0.0.2,-
 cn.ijero.layout.library+browser-home-layout,0.1.0,0.1.0,-
 cn.ikaze.KObjectSave+library,1.0.0,1.0.0,-
 cn.imtianx+keyboard,0.0.1,0.0.2,-
-cn.imtianx+txlibforandroid,-,-,-
 cn.imtianx.andlib+filtermenu,1.0.1,1.0.1,-
 cn.ipaynow.jcenterdemo+jcenterlib,1.0.0,1.0.0,-
 cn.ipaynow.smartposopenapi+ipn-smartposopenapi,0.0.5,0.0.5,-
@@ -960,7 +943,6 @@ cn.kanejin.view+category-pager,1.0.0,1.0.2,-
 cn.kejin.android.views+XImageView,1.0.0,1.0.2,-
 cn.kejin.android.views+exrecyclerview,1.0.0,1.0.2,-
 cn.kejin.exrecyclerview+ExRecyclerView,1.0.0,1.0.2,-
-cn.kejin.ximageview+XImageView,-,-,-
 cn.kejunlu.android+td-log,1.0.0,1.0.0,-
 cn.kerison+eventkit,1.0.0,1.0.0,-
 cn.kerison+logkit,1.0.0,3.0.0,-
@@ -973,14 +955,12 @@ cn.kongnannan+preferencefragment,1.0,1.1,-
 cn.lance.github+swipeandrefresh,0.0.1,0.0.2,-
 cn.leaf.ximage+ximage,1.0.0,1.0.1,-
 cn.lecent.lib+camera,0.1.6,1.0.4,-
-cn.lecent.lib+tts,-,-,-
 cn.lemon+RefreshRecyclerView,0.1.3,2.0.0,-
 cn.lemon.androidlib+lib,1.0.1,1.0.10,-
 cn.libery.analysis+runtime,1.0,1.2.4,-
 cn.log.demo.library+LogUtil,1.0.0,1.0.3,-
 cn.lollypop.android+base,0.0.3,0.0.3,0.0.3
 cn.lollypop.android+bluetooth,0.0.4,0.0.4,0.0.4
-cn.lollypop.android+bm-base,-,-,-
 cn.lollypop.android+bm-bluetooth,0.0.1,0.0.4,-
 cn.lollypop.android+device,1.0.3,2.1.4,1.0.3
 cn.lollypop.android+qiniu,1.0.5,1.1.0,1.0.12
@@ -1009,8 +989,6 @@ cn.onestravel+FiveFiveVideoPlayer,1.0.0,1.0.3,-
 cn.onestravel.one+one_actionbar,1.0.2,1.0.2,-
 cn.onestravel.one+one_bottom_navigationbar,1.1.0,1.2.4-beta2,-
 cn.paojiao.sqlitefinal+SQLiteFinal,1.0.0,1.0.0,-
-cn.pedant.SweetAlert+library,-,-,-
-cn.picksomething+slidingtabindicator,-,-,-
 cn.qingin+game-sdk-core,1.2.01,1.2.37,-
 cn.qqtheme.framework+ColorPicker,1.0.3-snapshot,1.5.6.20190131,-
 cn.qqtheme.framework+FilePicker,1.0.3-snapshot,1.5.6.20190131,-
@@ -1047,7 +1025,6 @@ cn.shper+tknetwork,1.0.0,1.0.0,-
 cn.softrice+rippleview,0.0.1,0.0.2,-
 cn.songhaiqing.walle.ble+walle-ble,1.0.0,1.0.9,-
 cn.sskbskdrin+pull,0.0.1,0.0.2,-
-cn.testin.analysis+abtest-android,-,-,-
 cn.testin.analysis+android-runtime,1.0,1.0,-
 cn.testin.analysis+bugout,1.0.0-beta,1.0.8,-
 cn.testin.analysis+bugout-ndk,1.0.0-beta,1.0.0-beta,-
@@ -1118,7 +1095,6 @@ cn.yhq+android-recycler-adapter,1.0.0,1.5.0,1.0.0
 cn.yhq+android-validate,1.0,2.1.0,1.0
 cn.yhq+android-view-binding,1.0.0,1.1.0,1.0.0
 cn.ymex+click-effect,1.0.0,1.2.4,-
-cn.ymex+log.L,-,-,-
 cn.ymex+permission-request,1.0.0,1.2.1,-
 cn.ymex+pure-adapter,1.0.0,1.3.6,-
 cn.ymex.anhttp+anhttp-gson,1.0.1,1.1.0,-
@@ -1328,13 +1304,11 @@ com.7heaven.ioswidget+app,0.1,0.1,-
 com.961neko+Android-Material-Colors,1.0.0,1.0.0,-
 com.AbdAllahAbdElFattah13+linkedinsdk,1.0.0,1.2.0,-
 com.Emucoo+emucoo_progress_bar,1.0.0,1.0.5,-
-com.Glossimar+imageloadingwan,-,-,-
 com.Green.customfont+custom-font,1.0,1.0,-
 com.Joyhonest+JH_Camera,1.0.0,1.4.8,-
 com.Joyhonest+JH_EventBus,1.0.0,1.0.0,-
 com.Joyhonest+Wifi_Camera,1.0.0,4.5.9,-
 com.JsonParser+mypaser,1.0.0,1.0.0,-
-com.LamChorYuet+lcylib,-,-,-
 com.LamChorYuet+templatelib,1.0.1,1.1.4,-
 com.RMC.BDCloud+BlueDolphinCloud,1.0,1.0,-
 com.SearingMedia.featurepager+featurepager,0.1,0.4.4,-
@@ -1355,10 +1329,8 @@ com.aar.test.mylibrary+mylibrary,0.0.1,0.0.3,-
 com.aasaanjobs.android+aasaan-kore,0.1.0,0.7.0,-
 com.abangfadli.shotwatch+shotwatch,1.0.0,1.0.4,-
 com.abdallaadelessa.android.simplePreference+library,1.0.0,1.0.0,-
-com.abdallahalaraby.blink+blink,-,-,-
 com.abemart.wroup+wroup,0.9,0.9,-
 com.abewy.backpack+library,1.0.0,1.0.2,-
-com.abhijith+listview-snapshot,-,-,-
 com.abilisense.sdk+abilisense-audio-sdk,0.4.4-opencv-alpha,0.5.1-alpha,-
 com.ablanco.imageprovider+imageprovider,0.1.0,0.1.0,-
 com.ablanco.parallax+parallax,0.1.0,0.1.0,-
@@ -1372,10 +1344,8 @@ com.abook23+godlibrary-httpclient,1.0,1.0,-
 com.abtingramian+purrty-util,0.1.1,0.2.4,0.1.1
 com.abupdate.weaponry+common-download,0.0.1,2.0.13,-
 com.abupdate.weaponry+common-download-kt,0.0.8,2.0.13,-
-com.abuqauod.animation+Nice-Android-Animation,-,-,-
 com.acappelli+circular-progress-button,1.1.3,1.1.3,-
 com.acappelli+material-dialogs,0.3.2,0.3.2,-
-com.acappelli+materialish-progress,-,-,-
 com.accent_systems.ibks-sdk+ibks-sdk,1.0.0,1.0.3,-
 com.accent_systems.ibkslibrary+ibkslibrary,1.0.1,1.0.9,-
 com.accneture+app,1.0.0,1.0.0,-
@@ -1390,7 +1360,6 @@ com.achilles.tracker+location-tracker,1.0.0,1.0.0,-
 com.acmerobotics.dashboard+dashboard,0.1.0,0.4.0,-
 com.actinarium.aligned+aligned,0.1,0.1,-
 com.actinarium.rhythm+rhythm,0.9,0.9.6,-
-com.actinarium.rhythm+rhythm-control,-,-,-
 com.activeandroid+thread-safe-active-android,3.1.1,3.1.1,-
 com.acuant.mobilesdk+acuantMobileSDK,2.7.0,5.2.2,-
 com.ad4screen.sdk+A4SSDK-Plugin-Amazon,1.0.0,4.1.9,-
@@ -1597,7 +1566,6 @@ com.aidangrabe+library,0.1,0.1.1,-
 com.aidanvii.toolbox+databinding-recyclerview-plugin-adapternotifier-kotlin,0.1,0.1.4,-
 com.aigens.order.place+facebook,0.0.1,0.0.4,-
 com.aigestudio.wheelpicker+WheelPicker,1.1.6,1.2.1,-
-com.aigestudio.wheelpicker+wheelpicker,-,-,-
 com.aiitec.aiisqlite+aiisqlte,1.0.0,1.0.6,-
 com.airbnb+deeplinkdispatch,1.1.0,6.1.0,1.1.0
 com.airbnb.android+airmapview,1.1.1,2.1.1,-
@@ -1629,7 +1597,6 @@ com.airbnb.android+showkase,1.0.0-kotlin1.5.30-1,1.0.0-beta13,1.0.0-alpha01
 com.airbnb.android+showkase-screenshot-testing,1.0.0-beta06,1.0.0-beta13,-
 com.airbnb.android+showkase-screenshot-testing-shot,1.0.0-beta13,1.0.0-beta13,-
 com.airg.android+async,0.05.00,1.00.01,-
-com.airg.android+cevideoview,-,-,-
 com.airg.android+logger,0.05.00,1.00.00,0.05.00
 com.airg.android+misc,0.01.00,0.01.02,-
 com.airmap.firebase+firebase-crash-no-op,1.0.1,1.0.1,-
@@ -1660,7 +1627,6 @@ com.ajts.androidmads.fontutils+fontutils,1.0.0,1.0.2,-
 com.ajts.androidmads.pdfplugin+pdfplugin,1.0.0,1.0.0,-
 com.ajts.androidmads.sqliteimpex+library,1.0.0,1.0.0,-
 com.ajts.androidmads.youtubemp3+youtubemp3,1.0.0,1.0.0,-
-com.ak.mylibrary+file-logger,-,-,-
 com.akaita.android+circular-seek-bar,1.0,1.0,-
 com.akaita.android+rxnetworkmonitor,1.0.0,1.0.0,-
 com.akamai.android+aka-map,20.32.0,21.91.6,-
@@ -1708,7 +1674,6 @@ com.alexyang.pay+alexmodule,1.0.0,1.0.1,-
 com.alexzh+circleimageview,1.0.0,1.2.0,-
 com.alfa.cell.push.sdk+sdk,1.0.0,1.0.0,-
 com.algolia+algoliasearch-android,2.0.0,3.27.0,-
-com.algolia+algoliasearch-client-android-test,-,-,-
 com.algolia+algoliasearch-client-kotlin-android,1.4.0,1.4.0,1.4.0
 com.algolia+algoliasearch-offline-android,3.2,3.27.0,-
 com.algolia+algoliasearch-offline-core-android,0.1,1.2.2,0.1
@@ -1724,7 +1689,6 @@ com.algolia.instantsearch-android+insights,1.1.0-alpha04,3.0.0,-
 com.algolia.instantsearch-android+voice,1.0.0,1.0.1,-
 com.algorigo.rx+rxipcbinder,0.1.0,0.2.0,-
 com.algorigo.rx+tcpsocketlibrary,1.1.0,1.3.0,-
-com.algorin.playfantasy.attributionlibrary+attributionlibrary,-,-,-
 com.alheap.maybach+maybach,1.0.1,1.0.1,-
 com.aliassadi+power-preference-lib,1.0.0,2.0.0,-
 com.alibaba+arouter-api,1.0.1,1.5.2,1.0.1
@@ -1794,7 +1758,6 @@ com.alokvnair+progresscircle,1.0.0,1.0.0,-
 com.alpha.performanceinfo+performanceinfo,1.0.0.alpha,1.0.3.alpha,-
 com.alphacephei+vosk-android,0.3.15,0.3.38,-
 com.alphacephei+vosk-model-en,0.3.28,0.3.38,-
-com.alphamovie.library+alpha-movie,-,-,-
 com.alstudio.acinonyx+acinonyx2,0.0.2,0.0.2,-
 com.alstudio.acinonyx+acionyx,0.0.1,0.0.1,-
 com.altamirasoft.animation+vi-tint-animation-image-view,0.1.3,0.1.9,-
@@ -1993,7 +1956,6 @@ com.andreperegrina.openhours+openhours,0.1,0.1,-
 com.andretietz.auth+auth,0.0.1,0.0.3,0.0.1
 com.andretietz.auth+client-firebase,0.0.1,0.0.3,-
 com.andretietz.auth+provider-email,0.0.3,0.0.3,-
-com.andretietz.auth+provider-facebook,-,-,-
 com.andretietz.auth+provider-google,0.0.1,0.0.3,-
 com.andretietz.auth+provider-twitter,0.0.1,0.0.3,-
 com.andretietz.firebase.database+mapper,1.0.0-beta1,1.0.0-beta5,-
@@ -2004,7 +1966,6 @@ com.andrew.social.login+core,1.0.0,1.0.0,1.0.0
 com.andrew.social.login+facebook-explicit,1.0.0,1.0.0,-
 com.andrew.social.login+facebook-implicit,1.0.0,1.0.0,-
 com.andrew.social.login+github-explicit,1.0.0,1.0.0,-
-com.andrew.social.login+google-explicit,-,-,-
 com.andrew.social.login+instagram-explicit,1.0.0,1.0.0,-
 com.andrew.social.login+instagram-implicit,1.0.0,1.0.0,-
 com.andrew.social.login+linkedin-explicit,1.0.0,1.0.0,-
@@ -2018,7 +1979,6 @@ com.andrew.social.login+vkontakte-implicit,0.0.1-alpha,0.0.1,-
 com.andrew.social.login+yahoo-explicit,1.0.0,1.0.0,-
 com.andrewjapar.rangedatepicker+rangedatepicker,0.1.0,0.3,-
 com.andrewjc+kheera-testrunner,1.0.0,1.0.1,-
-com.andrewnitu+easygithuboauth,-,-,-
 com.andrewvychev+recycler-sticky-headers,1.0,1.0,-
 com.androchen.demo+mylibrary,1.0.0,1.0.0,-
 com.andrognito.kerningview+kerningview,1.0.0,1.1.0,-
@@ -2205,7 +2165,6 @@ com.apachat+primecalendar,1.3.93,1.3.93,-
 com.apachat+primecalendar-android,1.3.93,1.3.93,-
 com.apache.fastandroid+library,1.0.0,1.0.1,-
 com.apandroid+chiptextview,1.0.0,1.0.15,1.0.0
-com.apesplant.lib.account+accountlib,-,-,-
 com.apesplant.secret.lib+totp,1.0.1,1.0.1,-
 com.apex.mylibrary+mylibrary,1.0.0,1.0.1,-
 com.apjoex+nigeriamap,1.0.0,1.0.6,-
@@ -2244,7 +2203,6 @@ com.appeaser.sublimenavigationviewlibrary+sublimenavigationviewlibrary,0.0.1,0.0
 com.appeaser.sublimepickerlibrary+sublimepickerlibrary,1.0.0,2.1.2,-
 com.appetiser+androiddatepicker,1.0.0,1.0.1,-
 com.appfarms.android+af-push-manager,0.1-beta,1.0.5,-
-com.appfiza.android+gowei,-,-,-
 com.appgain.io+appgainPak,0.0.1,0.0.1,-
 com.appier+ads-android,2.0.0-rc.2,2.0.2-alpha.1,2.0.0
 com.appier+rollbar-android,1.7.5,1.7.6,-
@@ -2384,7 +2342,6 @@ com.archit.calendar+awesome-calendar,1.0,2.0.0,-
 com.arcrobotics.ftclib+vision,0.1.1.0,1.1.0,-
 com.ardic.android+IoTIgnite,0.7,0.9.1,-
 com.ardic.android+utilitylib,0.1,0.1,0.1
-com.ardic.android+uuidgenerator,-,-,-
 com.ardic.android.iot+HwNodeAppTemplates,1.0,1.1,-
 com.arifian.view+centeredtoolbar,1.0.0,1.0.5,-
 com.arjinmc.android+photal,2.0,2.0,-
@@ -2437,7 +2394,6 @@ com.artear.thumbnailkit+thumbnailkit,0.0.1,0.3.1,-
 com.artear.tools+tools,0.0.1,0.0.19,-
 com.artear.ui+view,0.2.3,0.2.4,-
 com.artem.bakuta+logger,1.0.1,1.0.5,-
-com.artem.bakuta.logger+innerapplicationlogger,-,-,-
 com.artemzin.rxjava+proguard-rules,1.0.14.0,1.3.3.0,-
 com.artemzin.rxui+rxui-test,1.0.0,1.0.1,-
 com.artemzin.rxui2+rxui,2.0.0,2.0.0,2.0.0
@@ -2472,7 +2428,6 @@ com.ashokvarma.android+gander-no-op,1.0.1,3.1.0,-
 com.ashokvarma.android+gander-persistence,3.0.0-beta1,3.1.0,-
 com.ashokvarma.android+sqlite-manager,0.9.0,1.3.0,-
 com.ashokvarma.android+sqlite-manager-no-op,0.9.0,1.3.0,-
-com.ashraf+commonmethod,-,-,-
 com.ashutosh.progress-nevigation-bar+library,1.0.0,1.0.0,-
 com.asiapay.mylibrary+mylibrary,1.0,1.0,-
 com.askeycloud+askeywebservice,1.2.1,1.2.3,-
@@ -2498,7 +2453,6 @@ com.asredanesh.provider+tmbcontract,0.9.1,0.9.2,-
 com.assistne.android+icon-dot-text-view,1.0,1.0,-
 com.astutify.logger+logger,0.1.0,0.4.0,-
 com.asus.arserverapi+arserverapi,0.7.5,1.3.3.2,-
-com.asus.robotyoutubeapi+robotyoutubeapi,-,-,-
 com.asvacode.asvabottomsheet+asvabottomsheet,1.0,1.0,-
 com.ataulm+view-pager-adapter,0.0.1,0.9.0,-
 com.athena.art+art,0.0.1,0.1.8,-
@@ -2522,7 +2476,6 @@ com.atom.api+atom-core,1.0.0,2.0.12,-
 com.atom.api+atom-runtime,1.0.7,3.0.1,-
 com.atom.audio+audio-lame,1.0.0,1.0.0,-
 com.atom.camera+camera-core,1.0.0,1.0.0,-
-com.atom.map+map-core,-,-,-
 com.atom.plugin+atom-runtime,1.0.4,1.0.6,-
 com.atooma+atooma-android-sdk,1.2.1,2.0,-
 com.attafitamim.mtproto+client,1.1.0-beta03,1.1.0-beta04,-
@@ -2605,7 +2558,6 @@ com.ayvytr+base-adapter,1.0.0,1.4.1,1.0.0
 com.ayvytr+custom-views,0.1.0,1.4.1,-
 com.ayvytr+logger,1.0.0,3.3.0,-
 com.ayvytr+net,0.1.0,0.1.0,-
-com.ayvytr+network,-,-,-
 com.ayvytr+smart-adapter,0.1.0,0.3.2,-
 com.ayz4sci.androidfactory+permissionhelper,1.0.0,1.2.5,-
 com.ayz4sci.downloadprogress+downloadprogress,1.0.0,1.0.0,-
@@ -2696,12 +2648,9 @@ com.baidu.mapapi+util,3.6.0,3.7.1,-
 com.baidu.mtasdk+baidu-mta-android-studio-library,1.0.3,1.0.3,-
 com.baidu.ocr.ui+cmonbaby_ocr,1.0.0,1.0.1,-
 com.baidu.shuchengreadersdk+ShuCheng,1.0.0.03,1.0.0.07,-
-com.baidu.speech+BaiduSpeechRecognizer,-,-,-
 com.bailing+permission,1.0,1.0,-
 com.bajicdusko+fragment-manager,1.0.2,1.0.8,-
 com.bajicdusko+kotlin-fragment-manager,1.0.3,1.0.8,-
-com.bajicdusko+simple-fragment-manager,-,-,-
-com.bajicdusko.simplefragmentmanager+simple-fragment-manager,-,-,-
 com.baker.speech.asr+bakerasr,1.2.2,1.2.4,-
 com.baker.speech.asr+speechasr,1.2.0,1.2.1,-
 com.bakerj+backgrounddark-popupwindow,1.0.0,1.0.0,-
@@ -2719,7 +2668,6 @@ com.balysv.materialmenu+material-menu-toolbar,1.4.0,1.5.5,-
 com.bamboo.architecture+basic-database,1.0,1.0,-
 com.bamboo.talkweb+jsbridge,0.1,0.3.2,-
 com.bambora.apac+bn-payment,1.1.3,1.1.9,-
-com.bambora.bnpayment+bn-payment,-,-,-
 com.bandou+music,0.1.0,0.1.0,-
 com.bandwidth+bandwidth-android-webrtc,0.2.0,0.2.0,-
 com.bandyer+bandyer-android-audiosession,1.0.0,2.0.5,1.0.0
@@ -2740,7 +2688,6 @@ com.baomidou+crab-core,0.1,0.2,-
 com.baoshen+camera,1.1,1.2,-
 com.baoyz.actionsheet+library,1.1.0,1.1.7,1.1.0
 com.barista-v+debug-artist,0.5.9,0.5.11,-
-com.barista_v+debug-artist,-,-,-
 com.baristav.bugreporter+bugreporter,0.7.0,0.7.0,-
 com.baristav.debugartist+debugartist,0.6,0.7.0,-
 com.baristav.debugartist+reporter_pivotal,0.6,0.6.11,-
@@ -2900,7 +2847,6 @@ com.bilal+android-things-camera,1.0.0,1.0.0,-
 com.bilal+android-things-uart-communication,1.0.0,1.0.0,-
 com.biligle.mix+mixPlugin,1.0.0,1.0.3,-
 com.billshuai.timepicker+timepicker,1.0.1,1.0.1,-
-com.billy.android+Gloading,-,-,-
 com.billy.android+gloading,1.0.0,1.1.0,-
 com.billy.android+pre-loader,0.1.0,2.1.0,-
 com.binaryfork+spanny,1.0.1,1.0.2,-
@@ -2933,7 +2879,6 @@ com.bintray.example+mytest,0.8.0,0.8.0,-
 com.bintray.exampledemo+gradle-aar-example,1.0,1.8,-
 com.bintray.library+demo,1.0.0,1.0.0,-
 com.bintray.library.demo+app,0.0.1,0.0.1,-
-com.bioauth+bioauth,-,-,-
 com.biovoso+menuitemtogglelib,1.0.0,1.0.0,-
 com.birbit+android-priority-jobqueue,1.3,3.0.0,-
 com.birin+gridlistviewadapters,1.0.0,1.0.0,-
@@ -3081,7 +3026,6 @@ com.brianattwell+example_view,0.8,0.9.3,-
 com.brianattwell.rating_bar+widget,0.2.9,0.2.9,-
 com.bridestory.android+BridestoryNetworking,1.0.4,2.0.1,-
 com.browsen.glass+browsen,1.0,1.0,-
-com.broy98+Croller,-,-,-
 com.brucetoo.comboview+comboview,unspecified,1.0.0,-
 com.brucetoo.pickview+library,1.0.0,1.2.3,-
 com.brunotmgomes+keyboard-delegate-android,0.1.1,0.1.2,-
@@ -3140,7 +3084,6 @@ com.buzzvil.buzzscreen+sdk-yahoo,0.2.0,1.5.5,-
 com.byk+byk-chart,1.0.1,1.0.1,-
 com.byoutline.secretsauce+secretsauce,0.4.6,0.5.4,-
 com.byoutline.secretsauce+secretsaucekt,0.9.0_2019-beta2,1.0.0,-
-com.bytcode.android.lib+MultiSelectionSpinner,-,-,-
 com.bytebilling.location.dataprovider+DataProvider,1.0.0,1.0.0,-
 com.bytedance.android.byteX+coverage-lib,0.1.0-test,0.2.7,-
 com.bytedance.sdk+pangle-sdk,3.1.0.1,3.4.1.1,3.1.0.1
@@ -3158,7 +3101,6 @@ com.bytedance.ttgame+base_kn-android-i18n,0.0.1-alpha2,0.0.1-alpha2,-
 com.bytedance.ttgame+channel_api_CnRelease,0.0.2-alpha2,2.1,-
 com.bytedance.ttgame+channel_union_androidx_plugin_TobRelease,1.2.0.20-alpha0,1.5.0.0,-
 com.bytedance.ttgame+g_base_utils_i18n,0.1-rc1,0.1-rc2,-
-com.bytedance.ttgame+g_ender_warship,-,-,-
 com.bytedance.ttgame+gbaidu-sdk,1.4.0.1,1.4.0.1,1.4.0.1
 com.bytedance.ttgame+gbaidu_game_sdk,1.6.0,1.6.0,1.6.0
 com.bytedance.ttgame+gbaidu_pass_httpclient,1.6.0,1.6.0,1.6.0
@@ -3244,7 +3186,6 @@ com.bytedance.ttgame+optional_push_CnM4399Release,1.0.9.3,1.0.9.3,-
 com.bytedance.ttgame+optional_push_CnMeizuRelease,1.0.9.3,1.0.9.3,-
 com.bytedance.ttgame+optional_push_CnOppoRelease,1.0.9.3,1.0.9.3,-
 com.bytedance.ttgame+optional_push_CnQihooRelease,1.0.9.3,1.0.9.3.1-alpha2,-
-com.bytedance.ttgame+optional_push_CnRelease,-,-,-
 com.bytedance.ttgame+optional_push_CnSamsungRelease,1.0.9.3,1.0.9.3,-
 com.bytedance.ttgame+optional_push_CnToutiaoRelease,2.8.0-alpha2-fzh,3.2.0-rc4,-
 com.bytedance.ttgame+optional_push_CnVivoRelease,1.0.9.3,1.0.9.3,-
@@ -3361,7 +3302,6 @@ com.cardinalblue.gesture+collage-gesture-detector,1.0.0,4.1.2,-
 com.cardinalsolutions+android-sectioned-adapter,1.0.0,1.0.0,-
 com.cardiomood.android+android-data-sync,0.1,0.4,-
 com.carlos.eventmailer+eventlibrary,1.0.0,1.5.4,-
-com.carlos.number.keyboard+CustomNumberKeyBoard,-,-,-
 com.carlos.rllayout+mylibrary,1.0.0,1.0.0,-
 com.carlos.widget+leftindicator,0.0.1,0.0.1,-
 com.carlos.widget+numberkeyboard,0.1.10,1.1.1,-
@@ -3387,12 +3327,10 @@ com.cdx+jcenterlib,1.0.0,1.0.2,-
 com.cedancp.infinitebanner+infinitebanner,1.0.0,1.0.0,-
 com.cedexis+android-radar,0.1.3,0.1.7,-
 com.celerysoft+imagepager,1.0.0,2.2.0,-
-com.cepheuen.elegant-number-button+lib,-,-,-
 com.cequens+verification-flash-call,1.0,1.0,-
 com.ceram1.droid+globalcontext,0.0.1,0.0.1,-
 com.cerberillo+library,1.0.0,1.0.3,-
 com.cere+widget,1.0.0,1.0.3,-
-com.cesards.android+popeyetext,-,-,-
 com.cesarferreira.androidbootstrap+library,1.0.0,1.1.0,-
 com.cesarferreira.colorize+colorize,0.2.2,0.2.2,-
 com.cesarferreira.colorize+library,0.2.1,0.2.1,0.2.1
@@ -3421,7 +3359,6 @@ com.chargebee+chargebee-android,0.1.0,1.0.9,-
 com.chargemap.compose+buttonsgroup,0.0.1,1.0.0,-
 com.charles.library+utilslibrary,1.0.0,1.0.0,-
 com.charlezz+pickle,1.0.0-alpha,1.0.0-beta02,-
-com.charliealbright+dark-sky-android,-,-,-
 com.charliealbright+darkskyandroidwrapper,1.1.0-alpha,1.1.0-alpha,-
 com.charon.vitamio+vitamio,4.2.2,4.2.2,-
 com.charonchui.cyberlink+library,1.0.0,1.0.0,-
@@ -3476,7 +3413,6 @@ com.chibatching.kotpref+preference-screen-dsl,2.10.0,2.13.2,-
 com.chibde+audiovisualizer,0.0.1,2.2.0,-
 com.childcare.common+common-sdk,0.1,0.1.3,-
 com.chillibits+adobecolortool,1.0.1,1.0.4,-
-com.chimeraiot.android+chimera-ble,-,-,-
 com.chimerapps.niddler+niddler,1.4.0,1.7.0,-
 com.chimerapps.niddler+niddler-noop,1.4.0,1.7.0,-
 com.china.gu+vertical-scroll-textview,1.0.0,1.0.0,-
@@ -3493,7 +3429,6 @@ com.chinazyjr.githubapplication+mylibrary,1.0,1.3,-
 com.chinhnguyen.cropperlibrary+libCropper,1.0,1.0,1.0
 com.chinnsenn.submitbutton+submitbutton,0.1.0,0.2.2,-
 com.chiranjit.ui+badgenavigationview,1.0.0,1.0.0,-
-com.chiranjit.ui+easyzoomimage,-,-,-
 com.chiz+sample,1.0.0,1.0.0,-
 com.chl.pay+pay,1.0.0,1.0.2,-
 com.chocodev+chocolib,1.0.2,1.0.3,-
@@ -3521,7 +3456,6 @@ com.chw.android+widget,1.0.0,3.0.3,-
 com.ciba+http,0.0.1,0.0.13,-
 com.cig.testing+new_testing,1,1,-
 com.cig.testing+testing-cig,1,1,-
-com.cilliandudley.affectgrid+affectgrid,-,-,-
 com.cinemasapp.libs+social,1.0,1.0.2,-
 com.cinepapaya+papaya-core,0.0.1,0.0.1,-
 com.cinnamon.library+progressactivity,1.0.0,1.0.2,-
@@ -3712,7 +3646,6 @@ com.codercf+baselibrary,1.0.0,1.0.0,-
 com.coderconsole.cextracter+contact-extractor,1.0.0,1.0.0,-
 com.coderhour+tooltip,1.2,1.3,-
 com.coderli+Permission,1.0.0,1.0.0,-
-com.codersun+compatfingerprint,-,-,-
 com.codersun+fingermanager,1.0.0,1.0.2,-
 com.codertta+xmlrpc,0.0.1,1.0.0,-
 com.codesasthra.support+datetimeutils,1.0.1,1.0.1,-
@@ -3784,7 +3717,6 @@ com.conghuahuadan+permission,1.0.0,1.0.1,-
 com.connectedlab.reactnative+react-native-connected-common,0.0.1,0.0.1,-
 com.connectsdk+connect-sdk-android,1.4.0,1.6.0,-
 com.connectsdk+connect-sdk-android-lite,1.4.0,1.6.0,-
-com.console.game.sdk+core,-,-,-
 com.consoliads+facebook-mediation,v6.8.0-1.0,v6.8.0,-
 com.contedevel+express,1.0.1,1.0.2,-
 com.contentstack+persistence,0.0.1,0.0.1,-
@@ -3887,7 +3819,6 @@ com.cs+permissionshelper_compat,1.0.0,2.2.0,-
 com.cscao.libs+gmsapi,0.9,0.95,-
 com.cscao.libs+mlog,1.1,1.61,-
 com.csfrequency.firebase.devicestore+firebase-device-store,0.0.1,0.1.3,-
-com.csguys.multiwordsuggestion+radix-search,-,-,-
 com.cskevin.csdroid+csdroidlib,1.0.0,1.2.0,-
 com.csot.ohcrapi+ohcrapi,1.0.0-RC3,1.0.0-RC3,-
 com.css.sdk+cssdk,1.0.02.1,2.0.02.1,-
@@ -3925,7 +3856,6 @@ com.cwjfeifei.statusbar+statusbar,1.0.2,1.0.8,-
 com.cx.opensource+httplibcode,1.0.0,1.0.0,-
 com.cy.src+zfapi,1.0.0,1.0.0,-
 com.cy.wu.library.fileinspector+fileinspector,1.0.0,1.0.0,-
-com.cyanlabsid+gallery-instagram-facebook-photopicker,-,-,-
 com.cyhz.library+network,0.1.0,0.1.0,-
 com.cyou+quick,1.0.0,1.0.2,-
 com.cypher.breadmote+breadmote,0.1.2,0.1.3,-
@@ -3994,7 +3924,6 @@ com.darwin.viola+age,1.0.0,1.0.2,1.0.0
 com.darwin.viola+gender,1.0.0,1.0.1,-
 com.darwin.viola+still,1.0.0,1.1.1,-
 com.dash.bind+dash-bind,1.0.0,1.0.0,-
-com.dashdevs.qr-nbu+qr-nbu-core,-,-,-
 com.dastanApps.dastanlib+dastanlib,0.2,0.4.1,-
 com.dasu+crash,0.0.1,0.0.3,-
 com.dasu+log,0.0.1,0.0.4,-
@@ -4018,9 +3947,7 @@ com.datayes.iia+module-chart,0.2.1,0.3.7,-
 com.datayes.iia+module-common,1.15.0,1.18.14,-
 com.datayes.iia+rrp-api,1.1.2,1.2.6,-
 com.datron.carouselrecyclerviewlibrary+carouselrecyclerviewlibrary,1.0.0,1.0.0,-
-com.dava+bernoulliview,-,-,-
 com.davaei.libs+random,1.0,1.0,-
-com.dave.network+network-release,-,-,-
 com.davee.assistant+Logger,1.0.0,1.0.0,-
 com.davemorrissey.labs+subsampling-scale-image-view,2.2.0,3.10.0,2.2.0
 com.davemorrissey.labs+subsampling-scale-image-view-androidx,3.10.0,3.10.0,3.10.0
@@ -4066,7 +3993,6 @@ com.decathlon.vitamin.compose+text-inputs,0.1.0-alpha03,0.1.0-beta01,-
 com.decay.logger+logger-wrapper,0.1.1,0.1.4,-
 com.dede.mypermission+mypermission,1.0.1,1.0.3,-
 com.deemons.crash+crash,1.0.0,1.0.0,-
-com.deemons.dcrash+dcrash,-,-,-
 com.deemons.dor+dor,0.1.0,0.2.0,-
 com.deemons.modulerouter+modulerouter,1.0.1,1.0.4,-
 com.deep+deep_insertcalendar,1.0,1.0,-
@@ -4074,7 +4000,6 @@ com.deep+deep_wifi,1.0,1.0,-
 com.deep+face_deep,1.1,1.1,-
 com.deep.videotrimmer+videotrimmer,1.0,1.0,-
 com.deeplyinc.recorder+recorder,0.1.0,0.1.2,-
-com.deeson+holo-color-picker,-,-,-
 com.deftmove.heart+heart-interfaces,1.2.2-alpha08,1.2.3,1.2.2-alpha08
 com.deftmove.heart+heart-map-tools,1.2.2-alpha08,1.2.3,1.2.2-alpha08
 com.deftmove.heart+heart-map-tools-ui,1.2.2-alpha08,1.2.3,-
@@ -4091,12 +4016,9 @@ com.demo.test+demo,1.0.0,1.0.3,-
 com.demo.vng+zmessenger,1.0.2,1.0.2,-
 com.demoatonecon+demo-atone-con,1.0.0,2.0.0,-
 com.demoatonecon.binddata+demo-atone-con-binddata,2.0.1,2.0.1,-
-com.demolibrary.demolib+after-sync-library,-,-,-
-com.demolibrary.demolib+artifact-library,-,-,-
 com.demolibrarywebview+demo-library,1.1.0,1.1.0,-
 com.dengyuman+gercropimage,0.1,0.1,-
 com.dengyuman+getcropimage,1.0,1.0,-
-com.denzcoskun.mask+masked-edit-text,-,-,-
 com.deparse.binder+DPBinder,1.0.0,1.0.1,-
 com.deploygate+sdk,3.0,4.4.0,-
 com.deploygate+sdk-mock,4.0.0,4.4.0,-
@@ -4141,14 +4063,12 @@ com.devopcience.android_rest+android-rest,1.0.0-ALPHA2,1.0.0-ALPHA2,-
 com.devpira.colorlibrary+AndroidColorPicker,1.0.0,1.0.0,-
 com.devpira.design+colors,1.0.0,1.0.0,-
 com.devpira.design+customviews,1.0.0,1.0.0,-
-com.devrapid.jieyi+AdaptiveRecyclerview,-,-,-
 com.devrapid.jieyi+adaptiverecyclerview,0.0.3,1.0.16,-
 com.devrapid.jieyi+musicdiskplayer,0.0.1,0.1.5,-
 com.devsh.suhanlee+slack-message,0.1.0,0.1.3,-
 com.devsu+pushclient,1.0.0,1.1.1,-
 com.devtodev+android-messaging,2.0.0,2.2.0,-
 com.devyok.eventscheduler+event_scheduler,0.0.2,0.0.3,-
-com.devyok.eventscheduler+eventscheduler,-,-,-
 com.devyok.ipc+ipc-libcore,0.0.1,0.0.3,-
 com.devyok.logger+logger,0.0.9,1.0.0,-
 com.devyok.web+hybridmessenger-android,0.0.1,0.1.0,-
@@ -4232,7 +4152,6 @@ com.diglol.crypto+pkc-android,0.1.0,0.1.1,0.1.0
 com.diglol.crypto+random-android,0.1.0,0.1.1,0.1.0
 com.dilusense.android+customkeyboard,1.0,1.1,-
 com.dingjianlun+http,0.0.1,0.0.4,-
-com.dingxiang.mobile+dx-android-stee-sdk,-,-,-
 com.dino.progress+progress,1.1,1.1,-
 com.dinpay.trip.videocompressorlib+videocompressorlib,0.1,0.3,-
 com.dinson.bling+base,1.2.36,1.2.36,-
@@ -4299,7 +4218,6 @@ com.dou361.pay+jjdxm-pay,1.0.0,1.0.2,-
 com.dou361.retrofit2+jjdxm-retrofit-converter-fastjson,1.0.0,1.0.0,-
 com.dou361.social+jjdxm-social,1.0.0,1.0.4,-
 com.dou361.statusbar+jjdxm-statusbar,1.0.0,1.0.1,-
-com.download+app,-,-,-
 com.dpforge+primaree,1.0.0,1.2.0,-
 com.dpforge+skelly,1.0.0,1.0.1,-
 com.dpouya+Simple-http-request,0.1,0.1.2,-
@@ -4313,7 +4231,6 @@ com.dream.william.tooltwo+tooltwo,1.0.0,1.0.5,-
 com.dreamgyf.android.view+loading-recycler-view,0.2.0-test,0.2.0,-
 com.dreamlive.cn.clog+ClogLibrary,0.0.1,0.0.1,-
 com.dreampany.framework+frame,0.0.1,0.0.2,-
-com.drextended.actionhandler+action-handler,-,-,-
 com.drextended.actionhandler+actionhandler,0.1.3,2.1.3,-
 com.drextended.rvdatabinding+rvdatabinding,0.1.0,1.1.0,-
 com.drisoftie.action+async-actions,0.1,0.1,-
@@ -4343,7 +4260,6 @@ com.dropbox.kaiken+kaiken-scoping,1.0.3,3.0.0-alpha03,1.0.3
 com.dropbox.kaiken+kaiken-scoping-navgraph,1.0.5,3.0.0-alpha03,-
 com.dropbox.kaiken+kaiken-testing,1.0.4,3.0.0-alpha03,-
 com.ds.lhm+easypermissionsactivity,1.0.0,1.0.0,-
-com.dsdmsa.text+text_decor_V01,-,-,-
 com.dsiner.lib+aster-adapter-base,1.0.1,1.0.1,1.0.1
 com.dsiner.lib+aster-adapter-http,1.0.0,2.1.0,-
 com.dsiner.lib+aster-adapter-okhttp3,1.0.3,2.1.0,-
@@ -4353,7 +4269,6 @@ com.dstukalov.videoconverter+videoconverter,1.8,1.9,-
 com.dtvh.carbon+carbon-updater-sdk,1.0.3,1.1.0,1.0.16
 com.dtx12+actions,0.1.2,0.1.4,-
 com.duchuyctlk.widget+spinner-lib,0.0.1,0.0.3,-
-com.duduws.ad+ddsadlib,-,-,-
 com.duiba.maila+mailaSDK,2.1.2,2.1.2,-
 com.duitku+duitku-android-sdk,1.0.0-beta-6,1.0.14,-
 com.duitku.android+sdk,1.0,1.0,-
@@ -4442,7 +4357,6 @@ com.easyvaas+sdk-evcore,1.0.12,1.0.21,-
 com.ebanswers+testlibrary,1.0,1.0,-
 com.ebay.auth+ebay-oauth-android-client,1.0,1.0.1,-
 com.ebay.customrippleview+customrippleview,1.0,1.1,-
-com.ebizu.sdk.publisher+ebizupublishersdk,-,-,-
 com.ebnbin+jcenter,0.0.3,0.0.3,-
 com.echo.arlocation+arcore-location,0.3,0.5,-
 com.ecommpay+paymentpage-sdk-android,1.6.0,1.15.3,-
@@ -4510,7 +4424,6 @@ com.emarsys+mobile-engage-api,2.0.0,3.2.6,2.0.0
 com.emarsys+predict,2.0.0,3.2.6,2.0.0
 com.emarsys+predict-api,2.0.0,3.2.6,2.0.0
 com.emazify+emazify,1.0.1,1.0.1,-
-com.embsunev.library+embsunev-sdk,-,-,-
 com.eminayar.radialmenu+radial-menu,0.0.1,0.0.1.3,-
 com.emm+util,1.0.0,1.0.0,-
 com.emmacanhelp+androidbase,202110302,202204050,-
@@ -4520,7 +4433,6 @@ com.empyr+android,0.1.6,0.1.6,-
 com.emreeran.android.instagram+instagram,0.0.1,0.0.5,-
 com.emreeran.erecyclerview+erecyclerview,1.0.0,1.0.9,-
 com.emreeran.locate+locate,0.0.1,0.1.0,-
-com.emreeran.locationlivedata+locationlivedata,-,-,-
 com.enablex.android+enablex-android-sdk,1.0,1.0,-
 com.enablex.enxrtcandroid+EnxRtcAndroid,1.2,1.2,-
 com.enation.geamtear.image+glidepluin,1.0.0,1.0.2,-
@@ -4626,7 +4538,6 @@ com.example+mylib,0.0.3,1.0,-
 com.example+rulerview,1.0,1.0,-
 com.example+tlibrary,1.0,1.0,-
 com.example.abeer.component+customview,1.0.2,1.0.9,-
-com.example.abidin_artsygradientlayout+abidin_artsygradientlayout,-,-,-
 com.example.admin.bintraydemo+app,1.0,1.8,-
 com.example.admin.maventestlib+maventestlib,0.0.1,0.0.3,-
 com.example.admin.pushtest+PushTest,1.0.0,1.0.1,-
@@ -4638,7 +4549,6 @@ com.example.androidlibrary+androidlibrary,1.0.0,1.0.0,-
 com.example.aoplib+aoplib,1.0.0,1.0.0,-
 com.example.apc12.androidtestinglib+mycustomviewlib,1.0,1.0,-
 com.example.aradman.mylibrary+mylibrary,1.0.1,1.0.1,-
-com.example.armellib+ArmelLib,-,-,-
 com.example.asus.photoprocessing+mylibrary,1.0.0,1.0.1,-
 com.example.autoadjustmentlayout+autoadjustmentlayout,1.2,1.3,-
 com.example.baselibrary+JackfruitBaseLibrary,1.0.0,1.0.4,-
@@ -4647,7 +4557,6 @@ com.example.bigpicscrollview+bigpicscrollviewlib,unspecified,1.0.1,-
 com.example.bintray+hello,1.0.1,1.0.8,-
 com.example.chartviewlibrary+chartviewlibrary,0.0.1,0.0.1,-
 com.example.checkbox+checkbox,1.0,1.02,-
-com.example.choosepicture+picturevedioselects,-,-,-
 com.example.circleprog+circleprogress,1.0.0,1.0.0,-
 com.example.circleprogress+circleprogress,2.0.1,2.0.1,-
 com.example.circularimage.circularimage+circularimage,1.0,1.0,-
@@ -4666,13 +4575,10 @@ com.example.dissatoast+dissatoast,1.1,1.1,-
 com.example.downloadlibrary+downloadlibrary,1.0.0,1.0.4,-
 com.example.dsm_sdk_v1+dsmauth,0.0.1,1.1.5,-
 com.example.easyprogressbar+easyprogressbar,0.1.0,0.1.1,-
-com.example.emotionalview+emotionalview,-,-,-
 com.example.evandrosouza+image-viewer,0.0.1,0.0.2,-
 com.example.externaldependency+mylibrary,1.0.0,1.1.0,-
 com.example.ezj213.library+library,1.0.0,1.0.0,-
 com.example.ezj213.mylibrary+lbs,1.0.0,1.0.0,-
-com.example.falarmio+falarmio,-,-,-
-com.example.fbio.sinfo_calendar_view+sinfo-calendar-view,-,-,-
 com.example.firstlibrary+firstlibrary,1.0.0,1.0.3,-
 com.example.foldableview+foldableview,1.0,1.0,-
 com.example.fopisdk+fopisdk,0.0.1,0.0.8,-
@@ -4707,12 +4613,10 @@ com.example.mazhen.myapplication+mylibrary,1.1.0,1.1.1,-
 com.example.michele.michelelacorteelasticprogressbar+michelelacorteelasticprogressbar,1.0.2,1.0.2,-
 com.example.mmt5544.first_library+tripathon-library,1.0.0,2.0.0,-
 com.example.modaolib+modaolib,1.0.1,1.0.3,1.0.1
-com.example.multitasks+Tasks,-,-,-
 com.example.multitasks+tasks,1.0.3,1.0.7,-
 com.example.myfirstdemolibrary+firstdemo,1.0.0,1.0.0,-
 com.example.myjcenterdemo+myjcenterdemo,0.0.1,0.0.2,-
 com.example.mylibrary+CustomRefreshView,1.0.0,1.0.0,-
-com.example.mylibrary+test-like,-,-,-
 com.example.mylibrary1+mylibrary1,1.0.1,1.0.2,-
 com.example.mylittlelibrary+mylittlelibrary,0.1.0,0.1.0,-
 com.example.mypc.mylibrary+mylibrary,1.0,1.0,-
@@ -4730,30 +4634,25 @@ com.example.prasadtumma.mlp+mlib,0.3.1,0.3.1,-
 com.example.qiuquan.myfirstlibrary+myfirstlibrary,2.4.1,2.4.1,-
 com.example.quickpermission+quickpermission,0.0.1,0.0.6,-
 com.example.ravi_gupta.demo+demo,1.0,1.0,-
-com.example.razvanawsomelibrary+myfirstlibartifact,-,-,-
 com.example.rimon.mylibrary+mylibrary,1.0.0,1.0.0,-
 com.example.sachinkumar.librarytutorial+mylittlelibrary,1.0.0,1.0.0,-
 com.example.santhosh.ten_like+ten-like,2.1,3.0,-
 com.example.sanuphap.android+validate,1.0.0,1.0.0,-
 com.example.scanlibcard+scanlibcard,1.0.5002,1.0.5004,-
-com.example.sdktest+sampletest,-,-,-
 com.example.shaymark+test-one,0.1.3,0.1.3,-
 com.example.smstcplibrary+smsstack,0.1.0,1.1.0,-
 com.example.stepview+stepview,1.0.1,1.0.4,-
-com.example.studentmarkstoring+studentmarkstoring,-,-,-
 com.example.susu+susulibrary,1.0.0,1.0.3,-
 com.example.swallow+swallow-libs,0.8,1.2,-
 com.example.talentw+talentlogin_common,1.0.0,1.0.0,-
 com.example.talentw+talentmain,1.0.0,1.0.0,-
 com.example.test+uploadlibrary,0.0.1,0.0.4,-
-com.example.testing.customerbanner+customerbanner,-,-,-
 com.example.testjcenter+TestJcenter,0.6.1,0.6.2,-
 com.example.testlib+testlib,1.0.0,1.0.0,-
 com.example.testlibrary+testlibrary,1.0.0,1.0.0,-
 com.example.testlibu+testlibu,0.1.0,0.1.0,-
 com.example.testproject+tf-edittext,1.0,1.0,-
 com.example.testretrofituselibrary+testretrofituselibrary,1.0.0,1.0.0,-
-com.example.testtoast+testtoast,-,-,-
 com.example.thasneem.libtest+thasneem-lib,1.0,1.0,-
 com.example.thatnight+animbutton,1.0,1.6,-
 com.example.timeutility+timeutility,1.1.0,1.1.0,-
@@ -4815,8 +4714,6 @@ com.fabrica.innovacion.components+taberrorlayout,0.0.1,0.0.2,-
 com.fabricethilaw.sonarnet+sonarnet,unspecified,0.0.3,-
 com.fabrizioiacobucci.android+range-bar-preference,1.0.0,1.0.0,-
 com.facebook+keyframes,1.1.0,1.1.0,-
-com.facebook+pytorch_android_fbjni,-,-,-
-com.facebook+pytorch_android_torchvision,-,-,-
 com.facebook.android+account-kit-sdk,4.11.0,5.4.0,-
 com.facebook.android+audience-network-sdk,4.6.0,6.11.0,4.6.0
 com.facebook.android+facebook-android-sdk,3.19.0,14.1.1,14.1.0
@@ -4910,8 +4807,6 @@ com.facebook.fresco.custom+imagepipeline-test,0.14.1-snapshot,0.14.0001,-
 com.facebook.fresco.custom+imagepipeline-volley,0.14.1-snapshot,0.14.0001,-
 com.facebook.fresco.custom+stetho,0.14.1-snapshot,0.14.0001,-
 com.facebook.fresco.custom+webpsupport,0.14.1-snapshot,0.14.0001,0.11.0
-com.facebook.fresco.helper+phoenix,-,-,-
-com.facebook.fresco.helper+photoview,-,-,-
 com.facebook.keyframes+keyframes,1.0,1.1.0,1.0
 com.facebook.litho+litho-core,0.1.0,0.42.0,0.1.0
 com.facebook.litho+litho-core-kotlin,0.41.0,0.42.0,0.41.0
@@ -4996,7 +4891,6 @@ com.fancydsp+ptgcore,1.5.0-support,1.6.6-r,-
 com.fanglin.fenhong.mapandlocate+MapAndLocate,1.0.0,1.0.0,-
 com.fangxu+AllAngleExpandableButton,1.0.0,1.0.0,-
 com.fanpics.opensource+model-record,1.0.0,1.3.0,-
-com.fantasy1022.fancytrendview+fancytrendview,-,-,-
 com.fantasy1022.fancytrendview+library,unspecified,0.8.2,-
 com.fanwe.android+adapter,1.0.7,1.0.13,-
 com.fanwe.android+eventbus,1.0.21,1.0.23,-
@@ -5060,7 +4954,6 @@ com.fifty-five.cargo+google-analytics,1.0.1-beta,2.0.0-beta,-
 com.fifty-five.cargo+tune,1.0.1-beta,2.0.0,-
 com.fiftyjourney.android.lib+network,0.0.1,1.0.0,-
 com.fillr+fillr-analytics,8.7.14-QA,8.8.12-alpha,8.7.14-QA
-com.fillr+fillr-browser-sdk,-,-,-
 com.fillr+fillr-browser-sdk-affirm,4.0.0,4.2.6,-
 com.fillr+fillr-browser-sdk-bundll,4.2.4,4.2.6,4.2.4
 com.fillr+fillr-browser-sdk-fillrcartscraper,8.7.14-QA,8.8.12-alpha,8.7.14-QA
@@ -5070,7 +4963,6 @@ com.fillr+fillr-browser-sdk-knoma,4.2.5,4.2.6,4.2.5
 com.fillr+fillr-browser-sdk-quadpay,3.8.7,4.2.6,-
 com.fillr+fillr-browser-sdk-zest,4.2.4,4.2.6,4.2.4
 com.fillr+fillr-browser-sdk-zippay,4.1.1,4.2.6,4.1.1
-com.fillr+fillrcore,-,-,-
 com.findd+yasync,0.1.1,0.1.1,-
 com.fingerbeat.cloud+testlibrary,0.0.1,0.0.1,-
 com.finiotech+verifyuser,1.0.0,1.0.26,-
@@ -5091,7 +4983,6 @@ com.fishyoo.sdk+core,1.0.3,1.0.6,-
 com.fishyoo.sdk+fishyoo-common-res,1.0.0,1.0.0,-
 com.fishyoo.sdk+fishyoo-core,1.0.7,1.1.4,-
 com.fitanalytics+fita-webwidget,0.3.1,0.3.2,-
-com.fj+gradient,-,-,-
 com.fjerome+lib_base,1.0.0,1.0.0,-
 com.fjoglar.inkpageindicator+inkpageindicator,1.0.0,1.0.0,-
 com.fjordnet.groundcontrol+ground-control,1.0.0,1.0.1,1.0.0
@@ -5110,8 +5001,6 @@ com.flavpopescu+taglayout,0.0.3,0.0.3,-
 com.fleficher.bettervolley+library,1.0.0,1.0.2,-
 com.fleficher.materialedittext+library,2.1.4,2.1.4,-
 com.fleksy.swipedetector+SwipeDetector,0.1,0.1,-
-com.fleksy.textdrawable+TextDrawable,-,-,-
-com.flesh.weatherforecastview+weather-forecast-view,-,-,-
 com.fliggy+utils-module,1.0.0,1.0.4,-
 com.flipkart.foxtrot+foxtrot-android,1.0,1.0,-
 com.flowerfat.tool+utiltool,0.1.0,0.1.3,-
@@ -5121,7 +5010,6 @@ com.flurry.android+ads,12.0.0,12.13.0,-
 com.flurry.android+analytics,12.0.0,13.3.0,12.0.0
 com.fly+eventbus,1.0.0,1.0.0,-
 com.fly+swallow,1.0.0,1.0.9,-
-com.fly.sdk+yuansfer-pay,-,-,-
 com.fly.sdk+yuansfer-pay-lite,0.5.0,1.0.1,-
 com.flybits.android+commons,1.0.6,1.0.6,-
 com.flybits.concierge+smart-rewards,1.0.0-alpha1,3.6.0-alpha4,-
@@ -5151,14 +5039,12 @@ com.foreza+imsealsdk,0.0.4,0.0.5,-
 com.forkingcode.bluetoothcompat+bluetoothcompat,1.0.0,1.0.0,-
 com.forkingcode.crudcontent+crudcontent,0.9.0,1.3.2,-
 com.fortyonestudio.realmskinowl+realmskinowllibrary,1.0.0,2.0.3,-
-com.fosun.test+TestProject,-,-,-
 com.fourpool.autoresizinglistview+autoresizinglistview,0.0.1,0.0.3,-
 com.foursquare+foursquare-android-nativeoauth-lib,1.0.1,1.0.1,-
 com.foursquare+foursquare-android-oauth,1.0.1,1.1.1,-
 com.foursquare+placepicker,0.5.7,0.7.0,-
 com.foursquare+snaptoplace,0.5.4,0.5.5,-
 com.fourthstatelab.easypreference+easypreference,0.0.1,1.0.0,-
-com.fox.one+account,-,-,-
 com.fox.one+account-core,0.0.1,0.0.5,0.0.1
 com.fox.one+cloud,0.0.5,0.9.20,-
 com.fox.one+ex-account,1.3.1,1.6.2,1.3.1
@@ -5202,7 +5088,6 @@ com.fragula2+fragula-common,2.4,2.4,2.4
 com.fragula2+fragula-compose,2.4,2.4,-
 com.fragula2+fragula-core,2.0-alpha01,2.4,-
 com.framework+iJMSafeKeyboardWidget,1.0.0,1.0.0,-
-com.frandioniz+iconbadge,-,-,-
 com.frankfancode.databrowser+databrowser-sharepreference,0.0.1,0.0.5,-
 com.freddy+c_widget,1.0.0,1.0.1,-
 com.fredporciuncula+phonemoji,1.2.0,1.4.0,-
@@ -5222,7 +5107,6 @@ com.frewen.wang+free-log,1.0.0,2.0.1,-
 com.friendoye+recyclerxray,0.1.0,0.6.0.4,-
 com.friendtime.pay.googleplayservice+googleplayservice,1.0.0,1.0.0,1.0.0
 com.friendtime.payment+app,1.0.1,1.0.3,-
-com.frlgrd+animated-edit-text,-,-,-
 com.frm.safe_pin_pad_library+safe_pin_pad_library,0.0.8,0.0.9,-
 com.frogermcs.androiddevmetrics+androiddevmetrics-runtime,0.3,0.6,-
 com.frogermcs.androiddevmetrics+androiddevmetrics-runtime-noop,0.6,0.6,-
@@ -5263,7 +5147,6 @@ com.funnor.sdk+library,1.0,1.0,-
 com.furlenco.sheldon+sheldon,unspecified,unspecified,-
 com.furture.react+DuktapeJava,1.0.0,1.2.1,-
 com.fusedbulb.lib+fusedbulblib,1.0.0,1.0.3,-
-com.future.template.android+utils,-,-,-
 com.futuremind.recyclerfastscroll+fastscroll,0.1.1,0.2.5,-
 com.futurethought+snap-recycler,1.0,1.0,-
 com.fy.seekbarfloat+seekbarfloat,1.0.1,1.0.2,-
@@ -5294,7 +5177,6 @@ com.ganeshg.toaster+toaster,1.0.0,1.0.0,-
 com.gaobingbing+ocr_ui,1.0,1.0,-
 com.gaoneng.library+autoscrollbacklayout,1.0.0,1.1.1,-
 com.gaoyun.smscodelayout+smscodelayout,0.1.3,0.5.0,-
-com.gaoyy.circleindexview+circleindexview,-,-,-
 com.gappein.sdk+gappein-sdk,1.0.0-alpha1,1.0.0-beta3,1.0.0-alpha1
 com.garagze+garagze-event-library,1.0,1.0,-
 com.gardencoder.shooter+Shooter,1.0.2,1.0.2,-
@@ -5322,7 +5204,6 @@ com.gemalto.jp2+jp2-android,1.0,1.0.3,1.0
 com.gemalto.wsq+wsq-android,1.0,1.2,-
 com.general.bubing+bubing_camera,0.0.1,0.0.3,-
 com.generalic.android.library.bottomnavigation+bottom-navigation,custom-1.0.2,2.0.5,-
-com.genesys.gms+android.sdk,-,-,-
 com.genesys.gms+genesysgmsmodule,1.0.0,1.0.0,-
 com.genesys.gms+mobileSDK,8.5.201.00.b.234.rev.222,8.5.201.00.b.234.rev.222,-
 com.genesys.gms.android+sdk,8.5.201.00.rev.c73e8e6,8.5.201.00.rev.267,-
@@ -5507,7 +5388,6 @@ com.github.ACRA.acra+acra-core,acra-5.2.1,acra-5.2.1,acra-5.2.1
 com.github.AbedElazizShe+LightCompressor,0.1.0,1.2.0,-
 com.github.AgoraIO-Usecase+Tools,log_java_1.0.1,v1.0.1,log_java_1.0.1
 com.github.AlexTrotsenko+j2v8-debugger,0.1,0.2.3,0.1
-com.github.AlexTrotsenko.j2v8-debugger+j2v8-debugger,-,-,-
 com.github.AllanHasegawa.Tempo+tempo-android-workmanager-scheduler,1.2.0-alpha01,1.3.0-alpha01,-
 com.github.AmalH+Expandit,1.0.0,1.0.0,-
 com.github.AmalH+Parallax,0.0.1,1.0.0,-
@@ -5528,12 +5408,9 @@ com.github.BryanYen0619+signature-pad,1.2.2,1.2.3,-
 com.github.CanHub+Android-Image-Cropper,alpha-4.0.0,4.3.1,-
 com.github.CarGuo+GSYIjkJava,1.0.0,1.0.0,1.0.0
 com.github.CarGuo+GSYRecordWave,1.1.5,2.0.2,-
-com.github.CarGuo.GSYVideoPlayer+gsyVideoPlayer,-,-,-
 com.github.CarGuo.GSYVideoPlayer+gsyVideoPlayer-armv5,v8.1.0-ci,8.3.3,8.3.3
-com.github.CarGuo.GSYVideoPlayer+gsyVideoPlayer-armv64,-,-,-
 com.github.CarGuo.GSYVideoPlayer+gsyVideoPlayer-armv7a,v8.1.0-ci,8.3.3,-
 com.github.CarGuo.GSYVideoPlayer+gsyVideoPlayer-ex_so,v4.0.0-beat1,8.3.3,-
-com.github.CarGuo.GSYVideoPlayer+gsyVideoPlayer-exo_player2,-,-,-
 com.github.CarGuo.GSYVideoPlayer+gsyVideoPlayer-java,v4.0.0-beat1,8.3.3,-
 com.github.CedrickFlocon+enumresource,0.1,0.2,-
 com.github.ChahatGupta+FadeInTextView-Android,1.0,2.1.0,-
@@ -5569,7 +5446,6 @@ com.github.Justson.AgentWeb+agentweb-core,v4.1.9-androidx,v5.0.0-alpha,v4.1.9
 com.github.Justson.AgentWeb+agentweb-filechooser,v4.1.9-androidx,v5.0.0-alpha,v4.1.9
 com.github.Kennyc1012+MultiStateView,1.1.1,2.2.0,-
 com.github.KingsMentor+MobileVisionBarcodeScanner,v1.0,2.0.0,-
-com.github.LillteZheng.FlowHelper+tablibx,-,-,-
 com.github.LinweiJ.LoadingDialog+loadingDialog,0.2.0,0.2.0,0.2.0
 com.github.LiquidPlayer+LiquidCore,v0.1.0,0.6.2,-
 com.github.Liuruiwen+HorizontalView,1.0.1,1.0.2,1.0.1
@@ -5594,15 +5470,12 @@ com.github.QuadFlask+colorpicker,0.0.6,0.0.15,0.0.10
 com.github.R01NDev+TVTabLayout,3.0.1,3.1.2,-
 com.github.RDGToolTip+RDGToolTip,1.0.1,1.0.7,-
 com.github.RachitShah02+Webview-Video-Fullscreen,1.0.1,1.0.2,-
-com.github.Raizlabs.DBFlow+dbflow,-,-,-
-com.github.Raizlabs.DBFlow+dbflow-rx2,-,-,-
 com.github.RedMadRobot+input-mask-android,2.3.1,6.1.0,2.3.1
 com.github.RobertApikyan+ViewComponent,0.0.1,1.0.3,0.0.1
 com.github.SAMPlayer+samplayer_cache,1.0_alpha,1.0.2,-
 com.github.SAMPlayer+samplayer_exo,1.0_alpha,1.0.2,-
 com.github.SAMPlayer+samplayer_ijk_player,1.0_alpha,1.0.2,-
 com.github.SAMPlayer+samplayer_java,1.0_alpha,1.0.2,-
-com.github.SAP.gigya-android-sdk+sdk-core,-,-,-
 com.github.SandroMachado+openalpr-android,1.1.1,1.1.2,-
 com.github.Shouheng88+compressor,1.3.9,1.6.0,1.3.9
 com.github.Shouheng88+icamera,0.1.5-beta,0.3.0-beta,-
@@ -5614,7 +5487,6 @@ com.github.Shouheng88+utils-ktx,2.1.7,2.7.0,-
 com.github.Shouheng88+vmlib-network,1.6.2,2.1,1.6.2
 com.github.ShowMeThe+binding-ktx,1.0.0,1.0.1,-
 com.github.ShowMeThe+permission,1.0.0,1.0.1-alpha,-
-com.github.SriMaddy+opendownloader,-,-,-
 com.github.SriMaddy+projectname,0.0.10,0.0.10,-
 com.github.SriMaddy+test-plugin,0.0.1,0.0.10,-
 com.github.SriMaddy+test-plugin-1,0.0.10,0.0.10,-
@@ -5622,7 +5494,6 @@ com.github.SubhrajyotiSen+captchaview,1.0.0,1.0.0,-
 com.github.SubhrajyotiSen+library,1.0.0,1.1.2,-
 com.github.Sum-sdl+library-network,2.0.0,2.0.4,-
 com.github.Sum-sdl+library-widget,1.0.0,2.0.1,-
-com.github.SureshCS-50+chat-widget,-,-,-
 com.github.SureshCS-50+widget,0.1,0.1,-
 com.github.TalbotGooday+Android-Oembed-Video,0.0.3-rc.1,0.2.1,0.0.3
 com.github.TalbotGooday+PdfiumAndroid,1.0.0,1.0.1,-
@@ -5655,8 +5526,6 @@ com.github.aakira+compound-icon-textview,1.0.0,1.2.1,-
 com.github.aakira+expandable-layout,1.5.0-snapshot,1.6.0,-
 com.github.aakira+napier-android,1.3.0-1.4.0-rc,1.5.0-alpha1,-
 com.github.aakira+napier-android-debug,1.4.0-alpha2,1.5.0-alpha1,-
-com.github.aaqib786.bottomnavigationaction+bottom-tabs-actions,-,-,-
-com.github.aarsy.googlemapsanimations+googlemapsanimations,-,-,-
 com.github.aarsy.googlemapsrippleeffect+googlemapsrippleeffect,1.0.1,1.0.2,-
 com.github.aarsy.vcard-androidParser+vcard-androidParser,1.0.0,1.0.0,-
 com.github.aartikov+replica-android-network,1.0.0-alpha1,1.0.0-alpha6,-
@@ -5680,7 +5549,6 @@ com.github.acra.acra+acra-limiter,acra-5.8.4,acra-5.8.4,acra-5.8.4
 com.github.acra.acra+acra-mail,acra-5.8.4,acra-5.8.4,acra-5.8.4
 com.github.acra.acra+acra-notification,acra-5.8.4,acra-5.8.4,acra-5.8.4
 com.github.acra.acra+acra-toast,acra-5.8.4,acra-5.8.4,acra-5.8.4
-com.github.act262.aar_sample+library,-,-,-
 com.github.addisonElliott+RippleDrawable,2.1.0-support,3.0.0,2.0.0
 com.github.addisonElliott+SegmentedButton,3.1.2-support,3.1.9,-
 com.github.adevone.summer+summer-androidx,1.0.0-sonatype-1,1.0.0-beta11,-
@@ -5707,7 +5575,6 @@ com.github.akhasoft+yakhont,0.9.19,0.9.19,-
 com.github.akhasoft+yakhont-full,0.9.19,0.9.19,-
 com.github.akhasoft+yakhont-support,0.9.19,0.9.19,-
 com.github.akinaru+fadecandy-service,1.2,1.4,-
-com.github.akinyele+Toolbar-Loader,-,-,-
 com.github.akshay-naik+texthighlighterapi,1.1.0,1.1.3,-
 com.github.alamkanak+android-week-view,1.0.0,1.2.6,-
 com.github.albertopeam+infrastructure,0.0.1-alpha,0.0.13,-
@@ -5787,7 +5654,6 @@ com.github.androidpasswordstore+openpgp-ktx,1.0.0,2.2.0,-
 com.github.andrzejchm.RESTMock+android,0.0.1,0.4.4,-
 com.github.andyb129+BeerProgressView,0.0.1,0.0.1,-
 com.github.andycandy-de+simple-android-bridge,1.0.2,1.0.2,-
-com.github.andyken+MoneyTextView,-,-,-
 com.github.andyken+draggablegridview,1.0,1.0,-
 com.github.andyken+moneytextview,1.2,1.2,-
 com.github.angads25+filepicker,1.0.1,1.1.1,-
@@ -6086,7 +5952,6 @@ com.github.devlight+infinitecycleviewpager,1.0.0,1.0.2,1.0.0
 com.github.devlight.navigationtabbar+library,1.0.0,1.1.0,-
 com.github.devlight.navigationtabbar+navigationtabbar,1.2.4,1.2.5,-
 com.github.devlight.navigationtabstrip+library,1.0.0,1.0.4,-
-com.github.devlight.navigationtabstrip+navigationtabstrip,-,-,-
 com.github.devlight.shadowlayout+library,1.0.0,1.0.2,-
 com.github.dexafree+materiallist,1.0.0,3.2.1,-
 com.github.dexafree+materiallist-cards,2.0.4,2.0.7,-
@@ -6269,7 +6134,6 @@ com.github.ganfra+material-spinner,1.0.0,2.0.0,1.0.0
 com.github.gastricspark+scrolldatepicker,0.0.1,0.0.1,-
 com.github.gcacace+signature-pad,1.0.0,1.3.1,-
 com.github.gedzeppelin+kotlin-android-utils,0.5.0,0.5.5,-
-com.github.geniushkg+github_oauth,-,-,-
 com.github.geniushkg+oauthLibGithub,1.0.0,1.0.2,-
 com.github.geppetto76+testlibrary,1.0,1.0,-
 com.github.gerp83+Deco,1.00,1.02,-
@@ -6305,8 +6169,6 @@ com.github.goutham106+runtimepermission,0.1,0.2,-
 com.github.goutham106.gmarchmvvm+gmarchmvvm,0.3,0.3,-
 com.github.goutham106.gmarchmvvm+lifecycle,0.1,0.3,0.1
 com.github.goutham106.gmarchmvvm+repository,0.1,0.3,0.1
-com.github.govindsa1011+VocalizeDemo,-,-,-
-com.github.goweii.AnyLayer+anylayer-effect,-,-,-
 com.github.grapesnberries+curlloggerinterceptor,0.0.2,0.1,-
 com.github.grapesnberries+projectname,0.0.1,0.0.1,-
 com.github.gratusik+AGIKButtonSwipe,1.0.1,1.0.1,-
@@ -6335,7 +6197,6 @@ com.github.guoxiaoxing+phoenix-camera,1.0.7,1.0.7,-
 com.github.guoxiaoxing+phoenix-compress-picture,1.0.1,1.0.15,-
 com.github.guoxiaoxing+phoenix-compress-video,1.0.2,1.0.15,1.0.14
 com.github.guoxiaoxing+phoenix-core,1.0.0,1.0.15,-
-com.github.gurgendanielyan+countries,-,-,-
 com.github.gurgendanielyan+phoneLibrary,0.4,0.9,-
 com.github.gustafah+mock-interceptor,0.0.1,1.4.1,-
 com.github.gustafah+mock-interceptor-noclient,1.4.0,1.4.1,-
@@ -6359,7 +6220,6 @@ com.github.halysongoncalves+notification,1.0.0,1.0.0,-
 com.github.halysongoncalves+pugnotification,1.0.1,1.8.1,-
 com.github.hani-momanii+SuperNova-Emoji,1.0,1.1,-
 com.github.hanlyjiang+apf_library,1.0,1.0,-
-com.github.hanlyjiang+apf_library-debug,-,-,-
 com.github.hannesa2+AndroidSlidingUpPanel,4.2.0.test,4.5.0,-
 com.github.hanuor+pearl,0.0.1,0.0.1,-
 com.github.harikrishnant1991+sectioned-recyclerview,1.0.0,1.0.0,-
@@ -6394,7 +6254,6 @@ com.github.hotchemi+easy-button,0.0.1,0.0.1,-
 com.github.hotchemi+stringpicker,0.0.2,0.0.2,-
 com.github.hotchpotch+iconic-font-engine,0.3.0,0.4.0,-
 com.github.hslls+order-alert-buttons,1.0.0,1.0.0,-
-com.github.hss01248.ImageLoader+image,-,-,-
 com.github.huanghaibin+imagepicker,1.0.1,1.1.4,-
 com.github.huangxueqin+hqimageview,0.0.1,0.0.1,-
 com.github.huangxueqin+hqpullrefreshlayout,0.0.1,0.0.1,-
@@ -6416,8 +6275,6 @@ com.github.iflove+Logcat,v1.3.1,2.1.2,-
 com.github.ignaciotcrespo+universalandroidbroadcaster,0.5.0,0.5.0,-
 com.github.igortrncic.dotted-progress-bar+library,1.0.0,1.0.0,-
 com.github.ihsg+PatternLocker,1.0.0,2.5.7,1.0.0
-com.github.iielse.ImageWatcher+imageviewer,-,-,-
-com.github.iielse.ImageWatcher+imagewatcher,-,-,-
 com.github.iknow4+video-operation,1.0.0,1.0.2,-
 com.github.ilyamikhdev+adbeacon,1.0.4,1.0.4,-
 com.github.imangazalievm+fadingbuttton,1.0,1.0,-
@@ -6434,10 +6291,8 @@ com.github.instantiator+background-service-lib,1.0,1.8,-
 com.github.insurlytech+androidlibrary,1.1.0,1.2.4,-
 com.github.iojjj+rcbs,1.0.0,1.0.0,-
 com.github.iridiobis+non-configuration,0.1,0.1,-
-com.github.irshulx+Android-Slot-Picker,-,-,-
 com.github.irshulx+android-slot-picker,1.0.6,1.0.6,-
 com.github.irshulx+android-wysiwyg-editor,0.3.4,0.3.4,-
-com.github.irshulx+glitch-text-effect,-,-,-
 com.github.irshulx+laser-native-editor,0.1.0,3.0.4,-
 com.github.isabsent+decimalpicker,0.0.2,0.0.10,-
 com.github.isabsent+filepicker,1.0.00,1.1.01,-
@@ -6489,7 +6344,6 @@ com.github.jasonwangdev+signaturepad-dialogfragment-library,1.0.0,1.0.0,-
 com.github.javakam+library,1.0.0,11.0.0,-
 com.github.javakam+toolkit,1.0.0,11.0.0,-
 com.github.javakam+webview,3.0.0,5.0.0,-
-com.github.javasridhar+opendownloader,-,-,-
 com.github.javierugarte+searchtoolbar,1.0.0,1.0.2,-
 com.github.javinator9889+localemanager,1.0X,1.1,-
 com.github.jd-alexander+library,1.0.1,1.1.0,-
@@ -6606,7 +6460,6 @@ com.github.kittinunf.fuel+fuel-android,2.2.3,2.3.1,-
 com.github.kittinunf.fuel+fuel-livedata,2.2.3,2.3.1,-
 com.github.kittinunf.fuel+fuel-stetho,2.2.3,2.3.1,-
 com.github.kittinunf.fuse+fuse-android,1.0.0-beta4,1.3.0,-
-com.github.kittinunf.reactiveandroid+reactiveandroid-ui,-,-,-
 com.github.kk121+File-Loader,v0.1,1.6,-
 com.github.kmenager+material-animated-switch,1.2.1,1.2.2,-
 com.github.kmenager+materialanimatedswitch,1.2.0,1.2.0,-
@@ -6695,7 +6548,6 @@ com.github.lovetuzitong+MultiImageSelector,1.1,1.2,1.1
 com.github.lquiroli+menupager,1.0.0,1.0.0,-
 com.github.ls1110924.library+draggable-linear-listview,1.0.0,1.0.0,-
 com.github.lsfongmm+ads,1.0.0,1.0.0,-
-com.github.lsjwzh.MultiRVScrollView+widget.multirvcontainer,-,-,-
 com.github.lufengwen+android-pulltorefresh,1.0.0,1.0.0,-
 com.github.lukedeighton+wheelview,0.3.0,0.4.2,-
 com.github.luning-l+Widget,0.0.17,0.0.29,-
@@ -6705,7 +6557,6 @@ com.github.lwj1994+Matisse,0.5.0-beta3,0.5.3-20220115,-
 com.github.lwjfork+CodeEditText,1.0.4,1.0.4,-
 com.github.lygttpod+SuperTextView,2.4.5,2.4.6,-
 com.github.lzyzsd+circleprogress,1.0.0,1.1.0,-
-com.github.lzyzsd.circleprogress+library,-,-,-
 com.github.lzyzsd.jsbridge+library,1.0.0,1.0.0,-
 com.github.lzyzsd.randomcolor+library,unspecified,1.0.0,1.0.0
 com.github.mabbas007+TagsEditText,v0.90,1.0.5,-
@@ -6796,8 +6647,6 @@ com.github.mirrajabi+okhttp-json-mock,1.0,3.0,1.0
 com.github.misterweeman+validatetor,1.0.0,1.0.0,-
 com.github.mjaremczuk+emoji-utils,1.0.0,1.0.3,-
 com.github.mjdev+libaums,0.3,v0.7.6,0.3
-com.github.mjdev+libaums-http,-,-,-
-com.github.mjdev+libaums-storageprovider,-,-,-
 com.github.mmoamenn+AnimationsPlus,1.0.0,1.1.0,-
 com.github.moduth+blockcanary-analyzer,1.3.0,1.3.0,1.3.0
 com.github.moduth+react-native-preloader,0.31.0,0.31.0,-
@@ -6814,7 +6663,6 @@ com.github.moxy-community+moxy-app-compat,1.0.13,2.2.2,-
 com.github.mozilla+mozillaspeechlibrary,1.0.0,2.0.4,-
 com.github.mozilla+mozillaspeechutils,2.0.0,2.0.4,-
 com.github.mr5+icarus,0.1.14,0.1.14,-
-com.github.mr746866+android-scalable-units,-,-,-
 com.github.mrbean355+enhanced-adapter,0.0.1,1.1.0,-
 com.github.mrengineer13+snackbar,0.2.0,1.2.0,-
 com.github.mreram+showcaseview,1.0.0,1.4.1,-
@@ -6874,7 +6722,6 @@ com.github.nisrulz+easydeviceinfo-common,2.3.0,2.4.1,2.3.0
 com.github.nisrulz+evtrack,1.0.1,1.0.3,-
 com.github.nisrulz+lambdaapi,1.0,1.0,-
 com.github.nisrulz+lantern,1.0.0,1.1.2,-
-com.github.nisrulz+lib-optimushttp,-,-,-
 com.github.nisrulz+optimushttp,1.0.0,1.2.5,-
 com.github.nisrulz+qreader,1.0.0,2.0.1,-
 com.github.nisrulz+recyclerviewhelper,x1.0.0,25.0.0,-
@@ -6900,9 +6747,6 @@ com.github.nukc.appmarketupdater+updater-kotlin,0.0.1,0.0.2,-
 com.github.nukc.appmarketupdater+updater-rxjava2,0.0.1,0.0.2,-
 com.github.nukc.buff+library,1.0,1.0,-
 com.github.nukc.distrefreshlayout+distrefreshlayout,0.1.0,0.1.0,-
-com.github.nukc.recycleradapter+recycleradapter,-,-,-
-com.github.nukc.stateview+animations,-,-,-
-com.github.nukc.stateview+kotlin,-,-,-
 com.github.nukc.stateview+library,0.2.1,0.2.2,-
 com.github.ojinxy.android-component+paginated-table,0.0.1,0.0.1,-
 com.github.ok2c.hc4.android+httpclient-android,0.1.0,0.1.0,-
@@ -7276,7 +7120,6 @@ com.github.snooky23+searchterm,1.0.1,1.0.1,-
 com.github.snuffix+Animated-Download-Button,0.1,1.2,-
 com.github.softwee+codeview-android,1.0.0,1.3.2,-
 com.github.sonamap+repositorytest,unspecified,1.0.0,-
-com.github.songmao123+qrscanlib,-,-,-
 com.github.sophoun+android-generic-adapter,0.0.1,0.0.7,-
 com.github.sophoun+android-navigator,0.0.1,0.0.2,-
 com.github.sophoun+android-network,0.0.1,0.0.1,-
@@ -7349,7 +7192,6 @@ com.github.takahirom.debug.alter+library,0.2.1,0.4.0,-
 com.github.takahirom.downloadable.calligraphy+downloadable-calligraphy,0.1.0,0.1.6,-
 com.github.takumalee+SimpleMaterialPager,1.0.0,1.1.0,-
 com.github.takumalee+SimpleMaterialTabPager,1.0.0,1.2.3,-
-com.github.taloner+db-viewpager-image,-,-,-
 com.github.tamir7.contacts+contacts,1.0.0,1.1.7,-
 com.github.tamir7.leonids+LeonidsLib,1.3.2,1.3.6,-
 com.github.tamsiree.RxTool+RxKit,2.6.3,2.6.3,-
@@ -7392,7 +7234,6 @@ com.github.thekhaeng+material-design-metric,2.0.0,2.0.3,-
 com.github.thekhaeng+pushdown-anim-click,1.0.0,1.1.1,-
 com.github.thekhaeng+recycler-margin,1.0.1,1.1.0,-
 com.github.thekhaeng+recycler-view-margin-decoration,1.0.0,1.0.0,-
-com.github.thekhaeng+sliding-menu,-,-,-
 com.github.thekhaeng+ui-adjustment-core-library,1.0.2,1.0.7,-
 com.github.thekhaeng+ui-adjustment-debug-library,1.0.2,1.0.10,-
 com.github.thekhaeng+ui-adjustment-release-library,1.0.2,1.0.4,-
@@ -7481,15 +7322,10 @@ com.github.ucweb.crashsdk+beta,2.1.0.4,2.1.0.4,-
 com.github.ucweb.crashsdk+release,2.1.0.4,2.1.0.4,-
 com.github.udioshi85+libGenericSettings,1.0.2,1.5.0,-
 com.github.udioshi85+libSearchToolbar,1.2.2,1.3.0,-
-com.github.uport-project.uport-android-sdk+ethr-did,-,-,-
 com.github.uport-project.uport-android-sdk+identity,0.3.2,v0.4.1,0.3.2
 com.github.uport-project.uport-android-sdk+jsonrpc,v0.0.1,v0.0.2,v0.0.1
 com.github.uport-project.uport-android-sdk+sdk,v0.0.1,0.5.1,-
-com.github.uport-project.uport-android-sdk+serialization,-,-,-
-com.github.uport-project.uport-android-sdk+signer,-,-,-
 com.github.uport-project.uport-android-sdk+transport,v0.5.0,0.5.1,0.5.1
-com.github.uport-project.uport-android-sdk+universal-did,-,-,-
-com.github.uport-project.uport-android-sdk+uport-did,-,-,-
 com.github.upstarts+ejkit-gson,0.0.8,1.0.3,-
 com.github.usefulness+lazythreetenbp,0.11.2,0.15.0,-
 com.github.userswlwork+MaterialView,1.0,1.0,-
@@ -7604,7 +7440,6 @@ com.github.wrdlbrnft+stream-compat,0.1.0.14,0.3.0.12,-
 com.github.wseemann+FFmpegMediaMetadataRetriever,1.0.0,1.0.14,1.0.0
 com.github.wseemann+FFmpegMediaMetadataRetriever-core,1.0.15,1.0.16,1.0.15
 com.github.wutongke.modularization+macore,1.0.1,1.1.1,-
-com.github.wutongke.modularization+modularization,-,-,-
 com.github.wzq+easy-core,1.0.0,1.1.0,-
 com.github.wzq.wheel+wheel-lib,1.0.0,1.0.3,-
 com.github.xbaron+dover-adapter-x,1.0.0,1.0.4,-
@@ -7670,7 +7505,6 @@ com.github.zawadz88.materialpopupmenu+material-popup-menu,1.0.0,4.1.0,-
 com.github.zcweng+switch-button,0.0.1,0.0.3,-
 com.github.zellius+rxlocationmanager,0.1.0,1.0.0,0.1.0
 com.github.zellius+rxlocationmanager-rxjava2,1.0.0,1.0.0,-
-com.github.zellius+rxlocationmanager.kotlin,-,-,-
 com.github.zeng1990java+retrofit-bolts-call-adapter,1.0.0,1.0.0,-
 com.github.zerocodeteam+network,0.0.2,0.2.4,-
 com.github.zeroflops+material-dialogs,0.8.5.8,0.8.5.8,-
@@ -8082,8 +7916,6 @@ com.grivos.spanomatic+spanomatic,1.0.0,1.1.0,-
 com.grofis.glab+glab,0.1.0,0.1.1,-
 com.groobee.message+groobee-sdk-message,unspecified,1.1.1,-
 com.groundtruth.sdk+displaysdk,1.0,1.0,1.0
-com.groundtruth.sdk.displaysdk+customevent-google,-,-,-
-com.groundtruth.sdk.displaysdk+customevent-mopub,-,-,-
 com.groundtruth.sdk.displaysdk+displaysdk,1.0,1.0.4,-
 com.groundupworks.android+cloud-print,1.0.0,1.0.0,1.0.0
 com.groundupworks.wings+wings-facebook,1.0.2,1.0.4,-
@@ -8163,7 +7995,6 @@ com.gusya.mv+simple-multidexer,1.0.0,1.0.0,-
 com.gutils+GPatch,unspecified,0.1,-
 com.gutils+gpatch,0.0.1,0.0.1,-
 com.guye.orm+sorm_core,0.1.0,0.1.0,-
-com.guzhc.toastlib+Toast_gu,-,-,-
 com.gvoltr.fragmentdnd+fragment-dnd,1.0,1.0,-
 com.gx.lightat+compiler,1.0.0,1.3.4,-
 com.gxun+core,0.9.1,0.9.1,-
@@ -8252,7 +8083,6 @@ com.hannesdorfmann.smoothprogressbar+library-circular,1.0.1,1.0.1,1.0.1
 com.hannesdorfmann.sqlbrite+dao,0.2.0,0.6.1,-
 com.hanshao+PermissionUtils,1.0.0,1.0.0,-
 com.hanshao+universallibrary,1.0.0,1.3.3,-
-com.hanwook+common-utils,-,-,-
 com.hanwook+http-utils,0.0.1,0.0.3,-
 com.hanwook+qrcode,0.0.1,0.0.3,-
 com.hanwook+swiperecyclerview,0.0.1,0.0.4,-
@@ -8303,7 +8133,6 @@ com.heaven7.core.util+util-extra,1.0,1.1.5,-
 com.heaven7.core.util+util-v1,1.0.1,1.1.3,-
 com.heaven7.databinding+android-databinding,1.0,1.1.5,-
 com.hector+recyclerview,unspecified,unspecified,-
-com.hedgehog.ratingbar+app,-,-,-
 com.hehuelet+statusbar,0.0.1,0.0.2,-
 com.hehuelet.testlib+testlib,0.0.1,0.0.2,-
 com.heinigger+base_adapter_library,1.0.2,1.0.2,-
@@ -8327,7 +8156,6 @@ com.hendraanggrian+compat-view,0.1,0.2,0.1
 com.hendraanggrian+kota-preference-v7,0.11,0.22,-
 com.hendraanggrian+rx-permission,0.1.0,0.7,-
 com.hendraanggrian+spannable-text,0.1,0.10,-
-com.hengtiansoft.ecommerce.standard.network+network,-,-,-
 com.hengtiansoft.ecommerce.standard.network2+network2,0.0.1,0.0.2,-
 com.hengtiansoft.ecommerce.standard.pay+pay,0.0.1,0.0.7,-
 com.hengtiansoft.ecommerce.standard.pay2+pay2,0.0.1,0.0.1,-
@@ -8386,7 +8214,6 @@ com.hippochat+hippocall,1.0.0,1.0.9.9,-
 com.hippochatx+hippo,1.5.0,2.6.5,-
 com.hippochatx+hippocall,1.5.0,2.6.5,-
 com.hipsheep+volley-wrapper,1.1.0,1.1.1,-
-com.hisnow.hfjson+hfjson,-,-,-
 com.hiva.communicate.app+communicate_app_client,1.0.0,1.0.1,-
 com.hiva.communicate.app+communicate_app_hardware,1.0.1,1.0.1,1.0.1
 com.hjq+http,2.0,9.2,-
@@ -8412,7 +8239,6 @@ com.hluhovskyi.camerabutton+camerabutton,2.0.0,2.0.1,2.0.0
 com.hluhovskyi.camerabutton+camerabutton-rxjava2,2.0.0,2.0.1,2.0.0
 com.hluhovskyi.camerabutton+camerabutton-rxjava2-kotlin,2.0.0,2.0.1,-
 com.hmscl.huawei.ads+mediation_adapter_admob,1.4,1.4,-
-com.hmt.analytics+sayhello,-,-,-
 com.hmware.android+koko,0.0.16,0.0.27,-
 com.hoai265.android-bluetooth+hoai265lib,0.3.2,0.3.3,-
 com.hoanganhtuan95ptit+ripple,1.0.8,1.1.1,-
@@ -8462,7 +8288,6 @@ com.hqgj+mylibrary,0.2.3,0.3.1,-
 com.hqgj+myvideo,0.3.1,0.3.5,-
 com.hqgj+roratecirclelibrary,0.1.1,0.1.4,-
 com.hqq+HUtils,1.0.0,1.0.1,-
-com.hqq.hutils+HUtils,-,-,-
 com.hqs.common+hqs-common,0.0.3,1.1.23,-
 com.hqs.common.helper.imagebrowser+imagebrowser,1.0.0,1.1.19,-
 com.hqs.common.helper.qprogress+qprogress,1.0.0,1.0.16,-
@@ -8475,7 +8300,6 @@ com.hrskrs.gesturefunlibrary+gesture-fun,1.0.0,1.0.0,-
 com.hs.progressbutton+imageprogressbar,1.0,1.0.7,-
 com.hstan.view+elasticlibrary,1.0.0,1.0.0,-
 com.hsw+download-task,1.0.0,1.0.0,-
-com.htc.example+app,-,-,-
 com.htmlparser+htmlparser,1.0.0,1.1.3,-
 com.htn.facebook.track+facebook-track_3008,0.0.3008,0.0.3008,-
 com.http.okhttp+http,1.0,1.8.5,-
@@ -8511,7 +8335,6 @@ com.hummingwave.imagecrop+imagecrop,1.0.5,1.3.04,-
 com.huoyan.video+BaseVideo,1.0.0,1.2.1,-
 com.hurree-dev+hurree_sdk,1.1.3,2.0.3,-
 com.hurree_sdk+hurree_sdk,1.1.3,1.1.3,-
-com.husnainjaved+checkly,-,-,-
 com.husseinala+blue-falcon-android,0.9.8,0.9.9,-
 com.husseinala+blue-falcon-android-debug,0.9.8,0.9.9,-
 com.husseinala.neon+core,0.1.1,0.1.6,0.1.1
@@ -8535,7 +8358,6 @@ com.hwangjr.proguard+proguardconfig,1.0.0,1.0.1,1.0.0
 com.hwangjr.rxbus+rxbus,1.0.0,3.0.0,-
 com.hwangjr.utils+json,1.0.0,1.0.0,-
 com.hwangjr.utils+xml,1.0.0,1.0.0,-
-com.hwc+chart,-,-,-
 com.hwc+chartlib,1.0.3,1.0.3,-
 com.hx.autolayout+autolayout,1.0.0,1.1.0,-
 com.hx.multi-image-selector+multi-image-selector,1.1,1.2.2,1.1
@@ -8579,17 +8401,14 @@ com.hzh.network+networklib,1.0.0,1.0.3,-
 com.hzy+libp7zip,1.5.0,1.7.0,-
 com.hzy+un7zip,1.0.0,1.7.1,1.0.0
 com.hzz+native_compress,1.0.0,1.0.0,-
-com.i4evercai.android+support,-,-,-
 com.i5tong.epubreaderlib+EpubReaderLib,1.0.0,1.0.0,-
 com.iKoon+commonlibrary,1.0.1,1.1.0,-
-com.iab+gdpr_android,-,-,-
 com.iab.gdpr_android+gdpr_android,1.0.1,1.0.1,-
 com.iadvize+kotlin-graylog,1.0.1,1.0.1,-
 com.iamhabib+easy-preference,1.0.0,1.0.0,-
 com.iamhabib+rating-request,1.0.0,1.0.1,-
 com.iamhabib+seemoreapps,1.0.0,1.0.1,-
 com.iamhabib.android+JustifiedTextView,1.0.0,1.0.0,-
-com.iamhabib.introslider+introslider,-,-,-
 com.iamnbty+easyhttp,1.0.0,1.0.3,-
 com.iamsourav.sohoz+sohoz,1.0.0,1.0.0,-
 com.iamyours.android-ioc+android-ioc,0.1.0,0.1.0,-
@@ -8615,7 +8434,6 @@ com.ibm.pi+pi-beacon,1.0.0,1.0.1,-
 com.ibm.pi+pi-core,1.0.0,1.0.1,1.0.0
 com.ibm.pi+pi-sdk,1.2.0,1.3.0,-
 com.ibm.watson.developer_cloud+android-sdk,0.1.0,0.6.0,-
-com.iborysiuk.baseframelib+baseframe-lib,-,-,-
 com.iboxpay.pos+hardware_pos_sdk,1.0,1.0,-
 com.icapps.android+architecture,0.5.2,0.5.2,-
 com.icapps.crashreporter+crashlog,3.0.0,3.0.0,3.0.0
@@ -8693,9 +8511,7 @@ com.imusic.player+music-player,1.0.0,1.1.6,-
 com.imusic.player+video-player,1.0.0,1.0.91,-
 com.indicative.client.android+Indicative-Android,1.0.0,1.1.0,-
 com.indooratlas.android+indooratlas-android-sdk,3.0.0,3.5.5,-
-com.indyzalab.library+app-version-controller,-,-,-
 com.ineat-group+quick-adapter,1.0.0,1.0.2,-
-com.inferjay+twolinetextview,-,-,-
 com.infideap.expandablerecycler+expandable-recycler,0.0.1,0.0.1,-
 com.infinitus_demo_lib+infinitus_demo_lib,1.0.2,1.0.3,-
 com.infinity.sdk+library,ip.2.5.1.test.as,2.6.6,-
@@ -8956,7 +8772,6 @@ com.ivianuu.injekt+injekt-android,0.0.1-dev506,0.0.1-dev683,0.0.1-dev506
 com.ivianuu.injekt+injekt-android-work,0.0.1-dev506,0.0.1-dev683,-
 com.ivianuu.injekt+injekt-compose,0.0.1-dev569,0.0.1-dev578,0.0.1-dev569
 com.iwiil+app,0.0.2,0.0.2,-
-com.iwillow+retrofit2-priority-call-adapter,-,-,-
 com.ixyxj.crach+bugview,0.0.1-alpha,0.0.1,-
 com.ixyxj.system+broadcastkit,1.0.0-alpha1,1.0.1,-
 com.iyao.recyclerview+adapter,1.0.6,1.1.11,-
@@ -8999,7 +8814,6 @@ com.jacky.table+Table,1.0.1,1.0.5,-
 com.jackyjf.main+library,1.0.0,1.1.0,-
 com.jackyjf.main+logView,1.2.0,1.2.0,-
 com.jackyjf.main.test+logView,1.3.0,1.7.0,-
-com.jacobniu.kukri+tvlayout,-,-,-
 com.jacobniu.kukri+util,1.0.0,1.0.0,-
 com.jade.baselib+baselib,1.0.4,1.0.4,-
 com.jaeger.ninegridimageview+library,1.0.0,1.1.1,-
@@ -9128,7 +8942,6 @@ com.jayrave.falkon+falkon-android,0.2-alpha,0.18-alpha,-
 com.jayrave.falkon+falkon-engine-android-sqlite,0.1-alpha,0.18-alpha,0.1-alpha
 com.jb.smartkit.smartdatabase+smartdatabase,1.0.0,3.3.3,-
 com.jbangit.app+unimini,1.0.0,1.0.8,-
-com.jbtechventures.spinnercheckboxes+spinnercheckboxes,-,-,-
 com.jcenter+util,1.0.0,1.2.0,-
 com.jcentrallibrary+JCentralLibrary,1.0.2,1.0.2,-
 com.jcharlesworth+jsontextview,1.0.0,1.0.2,-
@@ -9150,20 +8963,12 @@ com.jdroidframework+jdroid-android,0.9.6,0.9.6,0.9.6
 com.jdroidframework+jdroid-android-about,0.8.0,0.9.6,-
 com.jdroidframework+jdroid-android-crashlytics,0.9.1,0.9.6,-
 com.jdroidframework+jdroid-android-facebook,0.8.0,0.9.6,-
-com.jdroidframework+jdroid-android-firebase-admob,-,-,-
-com.jdroidframework+jdroid-android-firebase-crash,-,-,-
-com.jdroidframework+jdroid-android-firebase-database,-,-,-
-com.jdroidframework+jdroid-android-firebase-fcm,-,-,-
-com.jdroidframework+jdroid-android-firebase-instanceid,-,-,-
-com.jdroidframework+jdroid-android-firebase-remoteconfig,-,-,-
 com.jdroidframework+jdroid-android-google-admob,0.9.1,0.10.1,-
 com.jdroidframework+jdroid-android-google-gcm,0.8.0,0.10.1,-
 com.jdroidframework+jdroid-android-google-inappbilling,0.9.5,0.9.6,-
 com.jdroidframework+jdroid-android-google-maps,0.8.0,0.9.6,-
 com.jdroidframework+jdroid-android-google-plus,0.8.0,0.9.6,0.8.0
 com.jdroidframework+jdroid-android-google-signin,0.9.4,0.9.6,-
-com.jdroidframework+jdroid-android-twitter,-,-,-
-com.jdroidframework+jdroid-android-uil,-,-,-
 com.jdsu.drivetest.ims.interfaces+ims-manager-interfaces,1.0.0,1.0.2,-
 com.jdsu.drivetest.polqa.manager.interfaces+polqa-manager-interfaces,1.0.0,1.0.1,-
 com.jdtorregrosas+azureadb2cwebviewoauth2,0.0.1,0.0.2,-
@@ -9198,7 +9003,6 @@ com.jersay.android+radarstatisticsview,1.0.0,1.0.1,-
 com.jespeakywikis.pdfviewer+pdfviewer,1.0.0,1.0.2,-
 com.jess.arms+MvpTools,2.3.40,2.3.40,-
 com.jetlee+FlowTagLayout,1.0,1.0.1,-
-com.jetradarmobile+andorid-sociallogin,-,-,-
 com.jetradarmobile+sociallogin-facebook,1.0.0,1.0.0,-
 com.jetradarmobile+sociallogin-google,1.0.0,1.0.0,-
 com.jetradarmobile+sociallogin-odnoklassniki,1.0.0,1.0.0,-
@@ -9232,7 +9036,6 @@ com.jiechic.android.library+rxservice,1.0.0,1.0.0,-
 com.jiechic.android.library+snappy-android,1.1.7,1.1.7,-
 com.jiechic.android.library+tray,0.12.1,0.12.3,-
 com.jiechic.library+Volley,1.0.2,1.0.3,-
-com.jiechic.library+volley,-,-,-
 com.jiechic.library+xUtils,2.6.13,2.6.14,-
 com.jiechic.library.glide+qqgroupicon-integration,0.1,0.1,-
 com.jiechic.library.sqlbrite+sqlbrite-sqlcipher,0.6.4,1.1.1,-
@@ -9244,10 +9047,7 @@ com.jimi+JimiOrderCoreKit,1.1.8,1.4.2.6,-
 com.jimi+JimiTalk,1.0.0,1.0.0,-
 com.jimi+jmmonitorview,1.0.5,1.0.6,1.0.5
 com.jimi+jmsmartftputils,1.0.0,1.0.0.21,-
-com.jimi.jimitrackorderkit+JimiOrderCoreKit,-,-,-
-com.jimi.jimivideoplayer+JimiVideoPlayer,-,-,-
 com.jimi.jimivideopusher+JimiVideoPusher,1.3.4,1.5.0,-
-com.jimi.jmmonitorview+JMMonitorView,-,-,-
 com.jimi.smartusersdk+jmsmartusersdk,1.0.0,1.0.6,-
 com.jimmy+configure-device-network,1.0.1,1.0.6,-
 com.jimmy.effective-recycler-adapter+effective-recycler-adapter,1.0.0,1.0.1,-
@@ -9325,7 +9125,6 @@ com.joy.support+core-inject,1.0.0,1.0.2,1.0.0
 com.joy.support+core-web,0.0.1,0.4.9,-
 com.joy.support+x5-download,2.3.0,3.5.0,2.3.0
 com.joybar.easypermission+library,1.0.0,1.0.9,-
-com.joybar.insapi+insapi,-,-,-
 com.joybar.insapi+library,1.0.3,1.2.4,-
 com.joybar.lifecycle+lifecyclelistener,1.0.0,1.0.1,-
 com.joybar.xlog+library,1.0.0,1.0.7,-
@@ -9367,7 +9166,6 @@ com.jug6ernaut.debugdrawer+module-build,0.7.0,0.7.0,-
 com.jug6ernaut.debugdrawer+module-timber,0.7.0,0.7.0,0.7.0
 com.julienarzul+basemvp,1.0.0,1.0.0,-
 com.june.imageabout+imageabout,1.0.0,1.0.4,-
-com.jungle.easyorm+android-easy-ORM,-,-,-
 com.jungle.majorhttps+android-major-https,1.0,1.0,-
 com.jungle.simpleorm+android-simple-ORM,1.0,1.0,-
 com.jungly+gridPasswordView,0.3,0.3,0.3
@@ -9389,7 +9187,6 @@ com.justai.aimybox+google-platform-speechkit,0.1.0,0.15.3,-
 com.justai.aimybox+houndify-speechkit,0.5.0,0.15.3,-
 com.justai.aimybox+snowboy-speechkit,0.1.0,0.15.3,-
 com.justai.aimybox+yandex-speechkit,0.1.0,0.15.3,-
-com.justforfun+simple-xml-parser,-,-,-
 com.justinangel+hijckr,1.0.0,1.0.1,-
 com.justkiddingbaby+fragment-rigger,1.0.0,1.4.4,-
 com.juul.able+core,0.7.0,0.8.1,0.7.0
@@ -9490,11 +9287,9 @@ com.kaltura.playkit+youboraplugin,4.13.1,4.23.0,-
 com.kamel.library+facebook-photo-picker,0.1,0.5,-
 com.kamilslesinski.gridlayoutmanager+gridlayoutmanager,1.0.0,1.0.2,-
 com.kangxin.doctor.testdemo+testdemo,0.1.1,0.1.3,-
-com.kanishq.feedbackactivity+firebase,-,-,-
 com.kanishq.feedbacker+feedbacker,0.1.1,0.1.2,-
 com.kaola+push,1.0.0,1.0.9,-
 com.kaola+util,1.0.0,2.0.8,-
-com.kaos+k-logger,-,-,-
 com.kaozgamer.android+android-easy-help-feedback,0.9.6,0.9.6,-
 com.karthi.roundedprogressbar+roundedprogressbar,1.0.0,1.0.0,-
 com.kartikp.stackimageview+stackimageview,0.0.1,0.0.6,-
@@ -9668,7 +9463,6 @@ com.kofigyan.stateprogressbar+stateprogressbar,0.0.1,1.0.0,-
 com.kogitune+wear-listener-service-broadcaster,0.0.3,0.0.4,0.0.3
 com.kokaba.rxfirebase+database,0.1.0-alpha,0.1.0-alpha,-
 com.kokohapps+hwtabbar-ios-style,1.0,1.1,-
-com.komect.network+app,-,-,-
 com.komi.slider+slider,0.1.0,0.4.0,-
 com.konaire.numeric-keyboard+numeric-keyboard,1.2.0,1.2.0,-
 com.kongapay.android+kongapay,1.0.0,1.0.6,-
@@ -9686,7 +9480,6 @@ com.kontaktio.sdk+common,2.1.2,2.1.2,2.1.2
 com.koodous+koodous-sdk,0.1.5,0.1.7,-
 com.kostasdrakonakis+randomizer,1.0.0,1.0.1,-
 com.kotlex+system,0.0.1,0.0.4,-
-com.kotlex.system+time-utils,-,-,-
 com.kotlinx+CH34xUART,1.0.0,1.0.0,-
 com.koushikdutta.androidasync+AndroidAsync,1.0.0,1.0.0,-
 com.koushikdutta.async+androidasync,1.0.0,3.1.0,1.0.0
@@ -9757,7 +9550,6 @@ com.lamudi.phonefield+phone-field,0.0.1,0.1.3,-
 com.lance.common+adapter,0.0.1,0.0.1,-
 com.lance.common+widget,0.0.1,0.0.1,0.0.1
 com.lance.network+okhttputil,0.0.1,0.0.1,-
-com.landepatil.vishal+sqlitebuilder,-,-,-
 com.laroy.sophian+test-repo,1.0.6,1.0.7,-
 com.larswerkman+LicenseView,1.0,1.1,-
 com.larswerkman+lobsterpicker,1.0.0,1.0.1,1.0.0
@@ -9804,7 +9596,6 @@ com.leepood+okhttp3-common-params-interceptor,v0.1,v0.1,-
 com.leewayhertz.tokeezlibrary+tookeezlibrary,0.0.1,0.0.1,-
 com.left.coding+support-gallery,0.0.1,0.0.7,-
 com.legalimpurity.expandablerecyclerview+expandablerecyclerview,1.0.2,1.0.2,-
-com.legendmohe.maven+HelloDaemon,-,-,-
 com.legendmohe.maven+fontabletextview,0.1,0.10,-
 com.legendmohe.maven+hellodaemon,1.1.4,1.1.5,-
 com.legendmohe.maven+intentinjector,0.1,0.7,-
@@ -9826,7 +9617,6 @@ com.leinardi.android.things+pio-softpwm,0.1,0.2,-
 com.leinardi.androidthings+driver-sh1106,0.1,0.1,-
 com.leleusoft+gameFramework,1.0,1.0.2,-
 com.lemnik+action-chain,0.1.0,0.1.1,-
-com.lemon.library+caught-exception,-,-,-
 com.lemon.library+custom-font,1.0.0,1.0.0,-
 com.lemonade.widgets.slidesidemenu+slide-side-menu,1.0.0,1.0.0,-
 com.lenguyenthanh.nimble+common,0.5.0,0.5.0,-
@@ -9870,7 +9660,6 @@ com.liangfeizc+SlidePageIndicator,1.0.0,1.1.0,-
 com.lianggekeji.yhj+bintray-demo,1.0.0,1.0.0,-
 com.liangmayong+text2speech,1.0.0,1.0.1,-
 com.liangmayong.android+apkbox,1.0.0,1.0.0,-
-com.lib+my-new-test-library,-,-,-
 com.lib.android.pushnotification+notification,1.0.0,1.0.1,-
 com.lib.module.utils+libmodule,1.0.0,1.0.0,1.0.0
 com.lib_tv_mystay.demoreposiutil_mak+UtilMystayApp,1.0.0,1.0.2,-
@@ -9908,7 +9697,6 @@ com.liferay.mobile+liferay-android-services-v72,7.2.3,7.3.0,7.2.3
 com.liferay.mobile+liferay-android-services-v73,7.2.3,7.3.0,-
 com.liferay.mobile+liferay-push,1.0.1,2.0.0,-
 com.liferay.mobile+liferay-screens,5.0.4-no-android-x,5.1.1,1.4.0
-com.lifesight.placesense.sdk+placesensesdk,-,-,-
 com.liftric+auth-android,1.4.0,1.7.1,-
 com.liftric+auth-android-debug,1.4.0,1.7.1,-
 com.liftric+cognito-idp-android,2.4.2-prerelease-1,2.8.0,-
@@ -9918,7 +9706,6 @@ com.liftric+kvault-android-debug,1.3.0,1.9.0,-
 com.light.permission+permission-runtime,1.0.0,1.0.0,-
 com.lighters.cubegrid+cubegridlibrary,1.2.3,1.2.4,-
 com.lightmass.lib+boilercycle,1.0.0,1.2.0,-
-com.lightmass.lib+bouncyenter,-,-,-
 com.lightningkite.androidlayouttranslator+android-runtime,1.0.0-rc2,1.0.1,-
 com.lightningkite.butterfly+butterfly-android,0.1.1,0.2.0,-
 com.lightningkite.butterfly+butterfly-bluetooth-android,0.1.1,0.2.0,-
@@ -9966,7 +9753,6 @@ com.linh+permissionhandler,1.0.0,1.0.0,-
 com.linhdx+cameralib,0.1,0.2.1,-
 com.link184+common-extensions,1.0.0,1.0.3,-
 com.link184+common-mvp,1.0.0,1.0.0,-
-com.link184+common-strings,-,-,-
 com.link184+kid-adapter,1.0.0,1.3.8,-
 com.link184+respiration,0.4.5,0.4.5,-
 com.linkdev.circleprogress+circleprogress,1.0.0,1.0.0,-
@@ -10003,11 +9789,8 @@ com.lisn+toprightmenu,1.0.0,1.0.0,-
 com.litedevs+oriented-image-view,1.0,1.0,-
 com.litesuits+orm,1.0.0,1.0.0,-
 com.litongjava+litongjava-android-paddle-ocr,1.0.0,1.0.0,-
-com.littlebear.jsonParser+jsonParser,-,-,-
 com.littlechoc.flowlayout+flowlayout,0.0.1,0.0.3,-
 com.littlefluffytoys+LittleFluffyLocationLibrary,18.0.0,18.0.2,-
-com.littlefox.logmonitor+littlefox-log-monitor,-,-,-
-com.littlefox.logmonitor+logmonitor,-,-,-
 com.littlegreens.netty.client+nettyclientlib,1.0.3,1.0.5,-
 com.littleyellow+app-permission,1.0.0,1.0.0,-
 com.littleyellow+simple-adapter,1.0.4,1.0.4,-
@@ -10026,7 +9809,6 @@ com.liulishuo.okdownload+okdownload,1.0.0,1.0.7,-
 com.liulishuo.okdownload+okhttp,1.0.0,1.0.7,-
 com.liulishuo.okdownload+sqlite,1.0.0,1.0.7,1.0.0
 com.liulishuo.percentsmoothhandler+library,0.0.6,0.0.6,-
-com.liusong.android+dropdownmenu,-,-,-
 com.liux.android+io,0.2.0,0.2.5,-
 com.liux.android+pay,0.1.0,0.2.3,-
 com.liux.android+permission,0.1.0,0.2.0,-
@@ -10071,7 +9853,6 @@ com.ljm+ulabsnetwork,1.0.0,1.0.0,-
 com.ljx.view+fontresize,1.0.0,1.0.1,-
 com.ljy.devring+devring,1.0.0,1.0.1,-
 com.ljy.ring+devring,1.0.0,1.2.0,-
-com.lkh.android+twitterized-photo-view,-,-,-
 com.llj+lib-image-loader,0.0.1,0.0.4,-
 com.llj+lib-image-select,0.0.1,0.0.1,-
 com.llj+lib-statusbar,0.0.1,0.0.3,-
@@ -10242,7 +10023,6 @@ com.lukekorth+ez-loaders,1.2,1.4.0,-
 com.lukekorth+mailable_log,0.1.0,0.1.6,-
 com.lunge.mylibrary+mylibrary,1.0.0,2.0.0,-
 com.lunger.draglistview+draglistview,2.1.0,2.2.0,-
-com.luoji+pay,-,-,-
 com.luojilab.ddcomponent+componentlib,0.0.1,1.3.0,-
 com.luolc+emoji-rain,0.1.1,0.1.1,-
 com.luoyonghui.JavaPDispatcher+library,1.0.0,1.0.0,-
@@ -10275,7 +10055,6 @@ com.lyft+scoop-dagger,0.3.0,0.4.2,-
 com.lyft.kronos+kronos-android,0.0.1-alpha09,0.0.1-alpha11,0.0.1-alpha09
 com.lyra+cards-camera-recognizer,1.0.0,1.0.1,-
 com.lyra+sentry-client-android,1.9,1.11,1.10
-com.lyshow+my_lib,-,-,-
 com.lyw+test,1.0.0,1.0.0,-
 com.lyx.frame+curl,1.0.1,1.1.5,-
 com.lzh.dbinder+dbindercontainer,0.1,0.1.2,-
@@ -10346,7 +10125,6 @@ com.manolovn+trianglify,1.0.1,1.1.0,-
 com.mantraideas.simplehttp+simplehttp,1.0.0,2.0.2,-
 com.manukn+glideimageviewer,1.0.9,1.0.9,-
 com.manukn+glideimageviewprogress,1.1.2,1.1.5,-
-com.manukn.maven+glideimageviewprogress,-,-,-
 com.manuknarayanan+glideprogressplugin,0.0.1,0.0.1,-
 com.manusunny+pinlock,0.0.1,1.4.2,-
 com.maoczsddh.maomao+alipaydx,1.0.0,1.0.0,-
@@ -10426,7 +10204,6 @@ com.marlonmafra.android.widget+segmented-tab,1.0.0,1.0.0,-
 com.marlonmafra.rxnotification+rx-notification,1.0.0,2.0.0,-
 com.marlonmafra.rxnotification+rx-notification-fcm,1.0.0,1.0.0,-
 com.marlonmafra.rxnotification.fcm+rx-notification-fcm,1.0.0,1.0.0,-
-com.marshalchen+ultimaterecyclerview.library,-,-,-
 com.marshalchen.ultimaterecyclerview+library,0.3.2,0.7.2,0.3.2
 com.martingregor+pifacedigital2-driver,Newest-version,0.1,-
 com.martinmbae.kenyan.postalcodes+library,1.0.1,1.0.4,-
@@ -10465,7 +10242,6 @@ com.matthew-tamlin+sliding-intro-screen,1.0.0,3.2.0,-
 com.mattprecious.swirl+swirl,1.0.0,1.3.0,-
 com.mauiie.aech+AECrashHandler,0.0.1,0.0.1,-
 com.mauj+maujsmslib,1.0.0,1.0.0,-
-com.mauj.samplebilling+samplesmslib,-,-,-
 com.mauj.smsbilling+maujsmslib,1.0.0,1.0.3,-
 com.mauj.smsbilling+samplesmslib,1.0.0,1.0.8,-
 com.mauriciogiordano+easydb,0.1.0,0.1.4,-
@@ -10531,7 +10307,6 @@ com.mcxiaoke.next+ui,0.9.0,1.7.0,-
 com.mcxiaoke.packer-ng+helper,1.0.0-SNAPSHIT,2.0.1,-
 com.mcxiaoke.volley+library-aar,1.0.0,1.0.1,1.0.0
 com.mcxiaoke.xbus+bus,0.8.0,1.0.2,-
-com.md+phlex,-,-,-
 com.md.android-html-to-pdf+convertor,0.0.1,0.0.1,-
 com.md.phlex+phlex,0.0.1,0.0.2,-
 com.mdelbel.android.inputvalidator+inputvalidator,1.0.0,1.0.0,-
@@ -10607,7 +10382,6 @@ com.mi.xserv+xserv-android,1.1.6,1.2.2,-
 com.mianamiana+liquid-ball-progress-bar,1.0,1.0,-
 com.miaomiao+camera,1.0.4,1.0.7,-
 com.miaoxun.sms+sms,1.1,1.1,-
-com.michaelchen.chs.library+chs-video-ijkpalyer,-,-,-
 com.michaelchen.chs.library+chs-xmpp,1.0.0,1.0.0,-
 com.michaelpardo+materialdesignicons-action,1.0.1,1.0.2,-
 com.michaelpardo+materialdesignicons-communication,1.0.1,1.0.2,-
@@ -10619,7 +10393,6 @@ com.michaelpardo+materialdesignicons-notification,1.0.1,1.0.2,-
 com.michaelpardo+materialdesignicons-social,1.0.1,1.0.2,-
 com.michaelvescovo.android.utils+network,0.0.1,0.1.1,-
 com.mickaelcalatr+sportloadingview,1.2.0,1.2.0,-
-com.mickaelcalatr.simplecircleloading+circleloaderview,-,-,-
 com.microsoft+trouter-client-android,0.0.1-beta.3,0.1.1,0.0.1-beta.3
 com.microsoft.aad+adal,1.15.1-hf1,4.1.0,-
 com.microsoft.appcenter+appcenter-analytics,1.0.0,4.4.5,1.0.0
@@ -10693,7 +10466,6 @@ com.microtears.orange+fragment,1.0.0,1.0.2,-
 com.midtrans+analytics,1.0.2-SANDBOX,1.7.1,1.0.2-SANDBOX
 com.miguelgaeta.android-super-bar+super-bar,1.2.0,1.3.5,-
 com.mihaelisaev+masked-edit-text-watcher,1.0.0,1.0.0,-
-com.mikeherasimov+duplicatelessormlite,-,-,-
 com.mikepenz+fastadapter,2.0.0.without_diffutils,5.6.0,2.0.0.without_diffutils
 com.mikepenz+fastadapter-commons,2.1.0,4.0.0-alpha3,-
 com.mikepenz+fastadapter-extensions,1.1.0,4.0.0-alpha3,-
@@ -10713,7 +10485,6 @@ com.mikes.tools+bottom-bar,1.0.0,1.1.1,-
 com.mikhaellopez+circularfillableloaders,1.0.0,1.4.0,1.0.0
 com.mikhaellopez+lazydatepicker,1.1.0,1.1.0,-
 com.milfont.tezos+tezosj_android,0.0.1,0.9.998,-
-com.milfont.tezosj+tezosj,-,-,-
 com.milo+databinding-easier,0.0.1,0.0.2,-
 com.minapp.android.autobahn+autobahn-android,20.7.1,20.7.9,-
 com.mind.api+mind-android-sdk,3.9.0,4.15.0,-
@@ -10817,7 +10588,6 @@ com.mobileia+mcfacebook,0.1,0.1.6,-
 com.mobileia+push,0.0.1,0.0.3,-
 com.mobileia+twitter,0.0.1,0.0.3,-
 com.mobilejazz+harmony-kotlin-android,2.0,5.0,-
-com.mobodid.notification+notification,-,-,-
 com.mobodid.notifylib+notifylib,0.0.1,0.0.5,-
 com.mobon.sdk+adapter-adfit,0.9.0.0,0.9.0.26,-
 com.mobsome.properties+android-properties,1.0,1.0,-
@@ -10953,7 +10723,6 @@ com.mrezanasirloo+slick-support-fragment,1.0.4,1.2.0,-
 com.mrhabibi+activity-factory,1.0.0,1.0.5,-
 com.mrhabibi+neo,0.0.1,0.0.1,-
 com.mrhabibi+neuro,2.3.0,2.3.1,-
-com.mricefox.androidhorizontalcalendar+app,-,-,-
 com.mricefox.androidhorizontalcalendar+library,1.0,1.0,-
 com.mrjano+recykler-view,0.1,0.1.2,-
 com.ms+xswipe,1.0.0,1.0.4,-
@@ -10971,7 +10740,6 @@ com.mtsdealersolutions+infinite_view_pager_w_tabs,1.0.0,1.0.26,-
 com.muddzdev+pixelshot,1.0.0,1.2.0,-
 com.muddzdev+quickshot,1.0.0,1.3.0,-
 com.muddzdev+styleabletoast,1.0.1,2.3.0,-
-com.muddzdev+viewshot,-,-,-
 com.muddzdev+viewtobitmap,1.0.4,1.0.7,-
 com.muditsen.multilevelrecyclerview+multilevelview,1.0.0,1.0.4,-
 com.muhammadmuzammilsharif.firstlibrary+firstlibrary,1.0.0,1.0.0,-
@@ -11027,7 +10795,6 @@ com.myadsget+san-sdk,0.3.11.2-exotest,3.12.6,-
 com.myadsget+test-suite,1.0.0,1.0.2,-
 com.myapplication+sliding-captcha,1.0.0,1.0.0,-
 com.myclay.claynetworking+claynetworking,0.1.3,0.1.13,-
-com.myclay.claynetworking+clayodata,-,-,-
 com.mydaco+android-client,1.0.0,1.0.0,-
 com.myfatoorah+mfsdk,1.0.8,1.0.8,-
 com.myfatoorah+myfatoorah,"""2.0.29""",2.2.8,-
@@ -11036,7 +10803,6 @@ com.myhexaville+data-binding-aux,1.0.0,1.1,-
 com.myhexaville+smart-image-picker,1.0,1.0.4,-
 com.myinterview+myinterview-sdk-android,0.9.0,1.0.0,-
 com.mylhyl+cygadapter,1.0.0,1.1.1,-
-com.mylhyl+pullrefreshlayout,-,-,-
 com.mylhyl+superDialog,1.0.0,1.2.1,-
 com.mylhyl+takephoto,1.0.1,1.0.3,-
 com.mylib+comm-recyclviewadapter,1.0,1.1.2,-
@@ -11183,7 +10949,6 @@ com.netease.yunxin.kit+call-ui,1.3.3,1.6.4,-
 com.netease.yunxin.kit.audioeffect+audioeffectkit,1.0.0,1.0.0,-
 com.netease.yunxin.kit.search+searchkit,1.0.0-beta03,9.2.9,-
 com.netease.yunxin.kit.search+searchkit-ui,1.0.0-beta03,9.2.9,-
-com.netlibrary+network,-,-,-
 com.netposa.commonsdk+log-slf4j,0.0.1,0.0.3,-
 com.netposa.commonsdk+map,0.0.1,0.0.1,-
 com.netposa.commonsdk+slf4j-arms,1.0.0,1.0.2,-
@@ -11318,7 +11083,6 @@ com.nightonke+jellytogglebutton,1.0.2,1.0.2,1.0.2
 com.nihaskalam.android+progress-button,1.0.0,1.0.1,-
 com.nihaskalam.android+socket-connections,1.0.0,1.0.0,-
 com.nikolaymanzhos+rxtube,1.0.0,1.0.0,-
-com.nikolaymanzhos+rxtube2,-,-,-
 com.nikoyuwono+realm-browser,0.1,0.1,-
 com.niles.test+TTSDK-PingAn,1.0.0,1.0.0,-
 com.niles.test+library,1.0.0,1.0.0,-
@@ -11349,7 +11113,6 @@ com.noctis+camera-view-common,1.0.0,1.0.1,1.0.0
 com.noctis+camera-view-filter,1.0.0,1.0.1,-
 com.nohkumado+nohutils,1.0,1.16,-
 com.noisepages.nettoyeur+midi,1.0.0-rc1,1.0.0-rc1,1.0.0-rc1
-com.noisyminer.ptmintegration+paytomat-android-sdk,-,-,-
 com.noisyz.bindlibrary+DataBindingLibrary,0.2.0,1.1.19,-
 com.nononsenseapps+filepicker,1.0,4.2.1,-
 com.nordicusability+jiffy-plugin,0.1.0,0.1.3,-
@@ -11362,7 +11125,6 @@ com.novasa+monkeywrench,0.1.1,0.4,-
 com.novasa+reactiverepository,0.1,0.1.7,-
 com.novasa+touchscaler,0.1.1,0.1.10,-
 com.noveogroup+debugdrawer-base,0.0.1,0.0.5,0.0.1
-com.noveogroup+debugdrawer-buildconfig,-,-,-
 com.noveogroup+debugdrawer-buildconfig-base,0.0.4,0.0.5,0.0.4
 com.noveogroup+debugdrawer-buildconfig-no-op,0.0.1,0.0.5,-
 com.noveogroup+debugdrawer-buildinfo,0.0.1,0.0.5,-
@@ -11423,7 +11185,6 @@ com.ocadotechnology+snackbar-aware-move-behavior,0.1.0,0.1.2,-
 com.occall.nuts+feedback,0.0.1,1.1.1,0.0.1
 com.occall.nuts+glide-integration,0.0.1,1.1.1,-
 com.occall.nuts+okhttp3-integration,0.0.2,1.1,-
-com.occall.nuts+sms,-,-,-
 com.ocnyang+contourview,1.0.0,1.0.1,-
 com.ocnyang.contourview+contourview,1.0.0,1.0.0,-
 com.octo+viewpagerobserver,1.0.0,1.0.0,-
@@ -11478,7 +11239,6 @@ com.olekdia.material-dialog+date-time,0.5.9,3.7.2,-
 com.olekdia.material-dialog+flower-color,3.5.8,3.7.4,-
 com.olekdia.material-dialog+joda-date-time,3.7.0,3.7.7,-
 com.oliver+wifi,1.0.0,1.0.0,-
-com.oliveroneill+ImageFeedView,-,-,-
 com.olmur.rvtools+rvtools,0.0.1,0.0.5,-
 com.olo.olopay+olo-pay-android-sdk,1.2.1,1.2.1,-
 com.olvrbrth+endlessscroller,0.1.0,0.1.1,-
@@ -11491,7 +11251,6 @@ com.om.html+htmlimage,1.0.0,1.0.0,-
 com.om.html+inputtext,1.0.0,1.0.0,-
 com.om.html+textview,1.0.0,1.0.0,-
 com.om26er+autobahn,17.9.2,17.9.2,-
-com.omarali+customTimePicker,-,-,-
 com.on99.d+zzxkdsdk,unspecified,0.9.5,-
 com.oneclickaway.opensource.formvalidationsexample+validation,1.1.3,1.1.5,-
 com.onedrive.sdk+onedrive-sdk-android,1.0.0,1.3.1,-
@@ -11504,10 +11263,8 @@ com.onfido.sdk+authentication,0.0.1,0.0.7,-
 com.onfido.sdk.capture+onfido-capture-sdk,1.0.0,12.3.1,-
 com.onfido.sdk.capture+onfido-capture-sdk-core,4.1.0,12.3.1,12.3.0
 com.onfido.sdk.capture+onfido-capture-sdk-secure,10.3.0,12.3.1,-
-com.onlineafterhome+quickevnet,-,-,-
 com.onradar+sdk,1.0.0,1.3.15,-
 com.ontry.quangcao+qclibsdk,2.4.9.8.d,2.6.3,-
-com.ontry.thuvien+thuvien,-,-,-
 com.onyx.android.sdk+epdcontroller,0.1.0,0.1.0,-
 com.onyx.android.sdk+onyxsdk-data,1.0.1,1.1.8,-
 com.onyx.android.sdk+onyxsdk-statistics,1.0.0,1.0.2,-
@@ -11558,7 +11315,6 @@ com.oratakashi+AndroidViewBinding,unspecified,3.19.2,-
 com.orbs.sdk+crypto-sdk,0.0.3,0.0.10,-
 com.orchotech.priyamsaikia.lib-pushez+pushez,beta.1.0,beta.1.0,-
 com.oreo+core,1.0.0,1.0.0,-
-com.org.widget+customimageview,-,-,-
 com.orhanobut+Logger,1.0,1.1,-
 com.orhanobut+logger,1.2,2.2.0,1.2
 com.orhanobut+simplelistview,1.2,1.3,-
@@ -11572,7 +11328,6 @@ com.oriente.android+scf-sdk,1.0.0,1.0.23,-
 com.oriente.android+secret,1.0.0,2.0.3,1.0.0
 com.ornach.bitpermission+bit-permission,1.0,1.1.2,-
 com.ornach.magicicon+magic-icon,1.0,1.6,-
-com.orogersilva.barcodereader+barcode-reader,-,-,-
 com.orogersilva.cleanjack+clean-jack,0.1.0,0.2.4,-
 com.orpheusdroid.crashreporter+crashreporter,0.0.1,1.0.4,-
 com.os.operando.timber.tree+firebase-crash,0.9.0,1.0.0,-
@@ -11582,7 +11337,6 @@ com.oscar.pozas+library,1.0.1,1.0.1,-
 com.oscarvera+textonflylibrary,0.4.1,0.4.1,-
 com.oscarvera+textovertheair,0.4.2,0.4.2,-
 com.oscarvera.textonflylibrary+textonflylibrary,0.4.0,0.4.0,-
-com.osfunapps+Color_Picker,-,-,-
 com.ospoon+idcard_quality,1.0.6,1.0.101,1.0.101
 com.ospoon+speech,1.0.6,1.0.101,1.0.101
 com.ostapovets+mylibrary,1.0.0,1.1.1,-
@@ -11644,7 +11398,6 @@ com.pandora.bottomnavigator+bottom-navigator,1.0,1.8,1.0
 com.pandora.vanity+vanity,1.0,1.1,-
 com.pandu+sample,1.0.0,1.0.0,-
 com.paneachy.locationprivacylibrary+locationprivacylibrary,0.0.1,0.0.3,-
-com.pankaj.dynamicpermission+dynamicpermission,-,-,-
 com.pankaj.kotlin+KotlinRecyclerViewLibrary,1.0.0,1.0.4,-
 com.panxw.volley+library,1.0.0,1.0.3,-
 com.panzh.qr_sample+qr_sample,0.1.0,0.1.0,-
@@ -11778,7 +11531,6 @@ com.permissionx.nice+permission-support,1.0.0,1.0.0,-
 com.perpule.1pay+1pay,0.0.1,0.0.1,-
 com.perpule.customerapp+app,0.1.0,0.1.0,-
 com.persion.quickpermissionlib+QuickPermission,0.0.1,0.0.2,-
-com.perth.android+mjpegview,-,-,-
 com.pes.materialcolorpicker+library,1.0.1,1.2.5,-
 com.pesinalates.libsdk+library,5.0.0_94,5.0.1,-
 com.petarmarijanovic+navigation-view-animator,1.1.0,1.2.0,-
@@ -11810,7 +11562,6 @@ com.pingan.liv+swipeview,1.0.0,1.0.1,-
 com.pingerx+alipay-sdk,1.0.0,1.0.0,1.0.0
 com.pingerx+socialgo,1.0.1,1.0.2,-
 com.pingerx+socialgo-alipay,1.0.1,1.0.2,1.0.1
-com.pingerx+socialgo-core,-,-,-
 com.pingerx+socialgo-qq,1.0.1,1.0.2,1.0.1
 com.pingerx+socialgo-wechat,1.0.1,1.0.2,1.0.1
 com.pingerx+socialgo-weibo,1.0.1,1.0.2,1.0.1
@@ -11875,7 +11626,6 @@ com.plutonem+rest,1.0.1,1.1.0,-
 com.pnikosis+materialish-progress,1.0,1.7,1.0
 com.poads.tasdk+poads,2.5.0a,2.6.1,-
 com.poco+frame,1.0,1.1.3,-
-com.polarbase.android+keycloak,-,-,-
 com.polidea.androidthings.driver+a4988,1.0.0,1.0.3,-
 com.polidea.androidthings.driver+numpad12,1.0.0,1.0.2,-
 com.polidea.androidthings.driver+steppermotor-base,1.0.0,1.0.2,1.0.0
@@ -11975,7 +11725,6 @@ com.pumpkin+menu,1.0.0,1.0.1,-
 com.punchthrough.bean.sdk+sdk,1.0.0,2.1.1,-
 com.puntoycomalab+android-architecture-presentation,0.0.5,0.0.5,-
 com.puntoycomalab.android+android-architecture-presentation,0.0.1,0.0.1,-
-com.purestation+android-widget-plus,-,-,-
 com.push-pole.android+pushpolesdk,1.7.1,1.7.4,-
 com.pushchamp+app,0.1.6,1.0.0,-
 com.pusher+beams-chatkit,1.1.0,1.1.0,1.1.0
@@ -12011,7 +11760,6 @@ com.qbw.photoutil+photoutil,2.2.0,2.3,-
 com.qbw.settingitem+settingitem,2.0,2.0,-
 com.qbw.spm+spm,1.0,1.3,-
 com.qbw.util+util,1.0.0,1.1.5,-
-com.qbw.util.xlistener+xlistener,-,-,-
 com.qbw.xlocationmanager+xlocationmanager,1.0,1.5,-
 com.qcit.mapselector+libary,0.1,0.6,-
 com.qcloud+iot_explorer,3.1.0,3.1.0,-
@@ -12387,7 +12135,6 @@ com.romellfudi.permission+fudi-permission,1.0.a,1.0.a,-
 com.romellfudi.permission+kotlin-fudi-permission,1.0.a,2.0.a,-
 com.romellfudi.ussdlibrary+kotlin-ussd-library,1.1.j,1.2.a,-
 com.romellfudi.ussdlibrary+ussd-library,1.1.h,1.1.h,-
-com.romkalebtest.aprofitaTrackerDemo+aprofita-demo,-,-,-
 com.ronak.mob+mylibrary,1.0.2,1.0.4,-
 com.rongcheng+network,1.0,1.0,-
 com.roomchat+bloom,1.0.0,1.0.2,-
@@ -12474,8 +12221,6 @@ com.ryzko+rxminibus,1.0.2,1.0.3,-
 com.rzd-lin12.currency+assembly,1.1.0,1.1.0,-
 com.s_hei.aspectlogger+reveal,0.1.0,0.1.0,-
 com.sa.hardik+fingerprintauthentication,0.1,1.0.6,-
-com.sa.hardik.fingerprintauthentication+FingerprintAuthHelper,-,-,-
-com.sa.hardik.fingerprintauthentication+FingerprintAuthenticationHelper,-,-,-
 com.sa.hardik.fingerprintauthentication+fingerprintauthentication,1.0.1,1.0.5,-
 com.sa90.infiniterecyclerview+library,1.0,1.3,-
 com.sa90.onepreference+library,1.0.0,1.1,-
@@ -12538,7 +12283,6 @@ com.samelody.modapter+modapter-core,0.2.0,0.2.0,0.2.0
 com.samigehi+library,1.0,1.0,-
 com.samigehi+socket,1.0,1.0,-
 com.sample.androidjcentersample+app,unspecified,1.1.0,-
-com.sample.bintray.samplebintrayapplib+SampleBintrayLib,-,-,-
 com.sample.example+samplelibrary,1.0,1.0,-
 com.sampleaar.sample+sdk,0.0.1,0.0.1,-
 com.samruston+squigglyspans,0.1,0.1,-
@@ -12595,7 +12339,6 @@ com.sberlabs+sceneformux,1.0.1,1.0.1,1.0.1
 com.sberlabs+vps-sdk,0.4.0,0.7.0,-
 com.sbrukhanda.fragmentviewpager+fragmentviewpager,1.0.0,1.0.0,-
 com.sc.framework+router,1.0.0,1.0.0,-
-com.scaleup.admin.library+curvedbottomnavigation,-,-,-
 com.scalified+fab,1.1.2,1.1.3,-
 com.scalified+viewmover,1.1.0,1.1.2,-
 com.scandit.datacapture+barcode,6.0.0BETA3,6.14.0,-
@@ -12638,7 +12381,6 @@ com.sdk.imsdk+imsdk,3.6.3,3.6.3,-
 com.sdk.wisetracker.base+base_module,0.0.1,1.0.26,0.0.1
 com.sdk.wisetracker.onestore_installreferrer+onestore_installreferrer_module,0.0.9,0.0.10,0.0.10
 com.sdsmdg.harjot+croller,1.0.1,1.0.7,-
-com.sdsmdg.harjot+rotatingtext,-,-,-
 com.sdsmdg.harjot+vectormaster,1.0.0,1.1.3,1.0.0
 com.sdwfqin.quick+widget,1.0.1,4.0.0-alpha01,-
 com.sdwfqin.quicklib+widget,4.0.0-beta02,4.5.0,4.0.0
@@ -12703,7 +12445,6 @@ com.segway.robot+sdkbase,0.1.98,0.1.103,0.1.102
 com.segway.robot+sensorsdk,privatebuild.dev2.4da98a6,0.6.1653,-
 com.segway.robot+speech-sdk,privatebuild.dev2.0128a6a,0.6.335,-
 com.seiko.serial+serial-usb,0.0.4,0.0.19,-
-com.sen+senutil,-,-,-
 com.sen.util+senutil,0.1.2,0.1.2,-
 com.sendbird.sdk+sendbird-android-sdk,3.0.0,3.0.160,-
 com.sendbird.sdk+sendbird-calls,0.6.0,1.6.0-beta,-
@@ -12933,7 +12674,6 @@ com.simon+network,1.0.1,1.0.1,-
 com.simon.okhttp+simonOkhttputils,1.0.1,1.1.1,-
 com.simonsickle+composed-barcodes,0.9.0,1.1.1,-
 com.simplaapliko+app-rater,0.5.0,1.1.5,-
-com.simplaapliko+updater,-,-,-
 com.simplaapliko+util,0.9.0,1.0.3,-
 com.simple+crashcanary,1.0,1.0,-
 com.simple+spiderman,1.0.0,1.1.7,-
@@ -12945,7 +12685,6 @@ com.simple.tuanbaros+permission,1.2,1.2,-
 com.simplecityapps+recycler-adapter,1.0.0,1.0.0,-
 com.simplecityapps+recyclerview-adapter,1.0.1,1.0.1,-
 com.simplejie.toolkit.rxbus+library,1.0.0,1.0.0,-
-com.simplemobiletools+commons,-,-,-
 com.simplemobiletools.nocopyright+commons,4.5.3,4.5.7,-
 com.simplepeng+updaterlibrary,1.0.0,1.0.2,-
 com.simplicityapks+reminderdatepicker,1.0.0,1.3.1,-
@@ -12978,7 +12717,6 @@ com.sixdown.signature-pad+signature-pad,1.0.0,1.0.0,1.0.0
 com.sixestates+idp-android,1.0.0,1.0.0,-
 com.sixt.android+calendar,0.0.1,0.2.3,-
 com.sixwaves.swsdkapi.module+fcm-module,1.0.0,1.0.4,-
-com.siyer+payeco_plugin,-,-,-
 com.siyer.test+testJCenter,1.0,1.0,-
 com.sk.broadband+socketdrawview,1.0.0,1.0.0,-
 com.sk.permission+sk_permission,1.0.1,1.0.1,-
@@ -13010,12 +12748,10 @@ com.sltpaya.open+qrlib,1.1,1.2.5,-
 com.sltpaya.open+web-intercept,1.0,1.1.2,-
 com.smallsoho.shfragmentmanager+shfragmentmanager,1.0.0,1.0.0,-
 com.smart+ismartnetwork-mock,0.0.1,0.0.1,0.0.1
-com.smart+widget,-,-,-
 com.smart.floatlayout+smartfloatlayout,1.0.0,1.0.0,-
 com.smartarmenia+dotnetcoresignalrclientjava,1.0.6,1.14,-
 com.smartdevicelink+sdl_android,RC_5.1.0,5.5.0,-
 com.smartface+materialrangebar,1.4.7,1.4.8,-
-com.smartitventures.test+test,-,-,-
 com.smartmeapp.com.smartmeapp.monitor+monitor,1.0,1.0,-
 com.smartmeapp.monitor+monitor,SNAPSHOT-0.0.8,1.0,-
 com.smartmeapp.sdk+monitor,0.1.0,0.1.0,-
@@ -13369,7 +13105,6 @@ com.steve.view+circleprogressview,1.0.0,1.0.0,-
 com.steve.view+docview,1.0.0,1.0.0,-
 com.steve.view+searchtoolbar,1.0.0,1.0.0,-
 com.stevezhang.library+testlib,0.0.1,0.0.1,-
-com.stkent+a11yinfo,-,-,-
 com.stone.kuainiugroup+bankcard-ocr-lib,1.0.0,1.0.0,-
 com.stone.kuainiugroup+liveness-lib,1.0.0,1.0.0,-
 com.stormKid+selecttagview,1.0.0,1.0.5,-
@@ -13390,7 +13125,6 @@ com.streethawk.phonegap+geofence,1.8.5,1.8.5,-
 com.streethawk.phonegap+growth,1.8.5,1.8.5,-
 com.streethawk.phonegap+locations,1.8.5,1.8.5,-
 com.streethawk.phonegap+push,1.8.5,1.8.5,-
-com.stringee+android-sdk-beta,-,-,-
 com.stringee.sdk.android+stringee-android-widget,1.0.0,1.0.5,-
 com.stripe+camera-core,19.1.1,20.11.0,19.1.1
 com.stripe+link,20.0.1,20.11.0,20.0.1
@@ -13412,7 +13146,6 @@ com.strivacity+sdk,1.0,1.0,-
 com.strongman.splash+splash,1.0.0,1.0.3,-
 com.stvgame.ysdk+plugin-host-library,0.0.1,0.0.5,-
 com.sualasoft+folioreader,0.6.3,0.6.6,-
-com.suapp+TabLayout_text,-,-,-
 com.subgarden.airbrush+airbrush,1.3.0,1.3.0,-
 com.subgarden.android+airbrush,0.5.0,1.2.0,-
 com.subhrajyotisen+library,1.0,1.1.1,-
@@ -13436,11 +13169,9 @@ com.sudoplatform.telephony+client,1.1.0,1.1.1,-
 com.suhel.restadapter+rest-adapter,1.0,5.0,-
 com.sultan.utils+backendprovider,1.0.0,1.0.0,-
 com.sumati.mylibrary+mylibrary,1.0.0,1.0.0,-
-com.sumera+rxdebug,-,-,-
 com.sumera.rxdebug+rxdebug,0.0.1,1.1.3,-
 com.sumitanantwar+android-multi-downloader,0.1.1,0.1.1,-
 com.sumitanantwar+android-xml-font-views,0.0.1,0.0.5,-
-com.sumitanantwar+sa-android-xml-font-views,-,-,-
 com.sun.as-gradle-demo+bintray_repo,1.0.0,1.0.0,-
 com.sun.easysnackbar+easysnackbar,1.0.0,1.0.1,-
 com.sun.library+http,1.0.1,1.0.1,-
@@ -13651,7 +13382,6 @@ com.taptrack.tcmptappy2+commandfamily-type4,1.0.0,2.3.0,-
 com.taptrack.tcmptappy2+tcmp,2.0.0-beta1,2.3.0,2.0.0-beta1
 com.taptrack.tcmptappy2+tcmpconverter,2.0.0-beta1,2.3.0,-
 com.tarkalabs+jobqueue,2.0.2,3.0.2,-
-com.tarkalabs.android+android-priority-jobqueue,-,-,-
 com.taro.commonadapter+commonadapter,1.0.0,1.0.0,-
 com.tarumzu.nestedradiogroup+nested-radio-group,1.0.0,1.0.2,-
 com.tarun0.zxing-standalone+zxing-standalone,1.0.0,1.0.0,-
@@ -13936,7 +13666,6 @@ com.test+hello,1.0.0,1.0.1,-
 com.test+mylibrary,1.0.1,1.0.9,-
 com.test+test,1.q.0,1.1.0,-
 com.test+testlibrary,0.0.1,0.0.1,-
-com.test.autolayoutlibrary+autolayoutlibrary,-,-,-
 com.test.bountysdktest+app,0.5.2,0.5.7,-
 com.test.rechargemodule+rechargemodule,1.1,1.11,-
 com.test.sandeep+testuploadbintraylib,1.0.0,1.0.1,-
@@ -13946,7 +13675,6 @@ com.testfunction+lumberjill,0.8.5,0.8.5,-
 com.testpoke+testpoke-android,2.0.5,2.1.2,-
 com.text+alginlib,1.0.1,1.0.1,-
 com.text+textrolllibrary,1.0.0,1.0.0,-
-com.textcolotlibrary+TextColor,-,-,-
 com.tezro.api+shop-android-widget,1.0.0-beta01,1.0.1,-
 com.tgcity.function+Interface,1.0.0,1.0.1,-
 com.tgcity.function+Permission,1.0.0,1.0.1,-
@@ -13963,7 +13691,6 @@ com.tgcity.widget+Spinner,1.0.1,1.0.4,-
 com.tgd.android+progress-circle,1.0,1.0,-
 com.tgithubc+fragment_stack,1.0,1.1,-
 com.th.dm+dm_comm,0.0.1,0.0.1,-
-com.thanatosx.widgets+SolrSystemView,-,-,-
 com.thanosfisherman.wifiutils+wifiutils,1.0,1.6.5,-
 com.thatzit.oib.stamptourboard+stamptourboard,1.0,1.1,-
 com.theagilemonkeys.meets+meets-android,0.1.2,0.2.0,-
@@ -13996,9 +13723,7 @@ com.thefuntasty.mvvm+mvvm-test,3.1.1,3.1.1,-
 com.thefuntasty.mvvm+rx-usecases-test,3.1.1,3.1.1,-
 com.theguardian+android-subtle-prompts,1.0.0,1.0.10,-
 com.theisenp+ombre,1.0.0,1.0.0,-
-com.thejuki.j-form-master+JFormMaster,-,-,-
 com.thelittlefireman+AppKillerManager,2.0.0,2.1.1,-
-com.thelittlefireman.appkillermanager+AppKillerManager,-,-,-
 com.theneura+android-sdk,2.0.12(test),5.6.28,-
 com.thenotoriousrog.thenotoriousrog+extendedfab,1.0.1,1.1.1,-
 com.theomota+tmimageview,0.1,0.1,-
@@ -14133,7 +13858,6 @@ com.toast.iap+iap-unity-plugin,1.4.1,1.5.3,-
 com.toast.iap+mobill-core,1.1.3,1.5.3,1.1.3
 com.tobianoapps+bulletin,1.0.0-beta01,1.0.2,-
 com.todkars+shimmer-recyclerview,0.1.0,0.4.1,-
-com.tofik.coolexoplayer+Coolexoplayer,-,-,-
 com.tofik.coolexoplayer+coolexoplayer,1.2.1,1.2.1,-
 com.tokelon.toktales+tokTales-android-library,0.0.1,0.2.1,0.0.1
 com.tokelon.toktales+tokTales-android-test,0.0.1,0.2.1,0.0.1
@@ -14142,7 +13866,6 @@ com.tokelon.toktales+tokTales-extensions-android-test,0.0.1,0.2.1,0.0.1
 com.tokelon.toktales+tokTales-test-android,0.0.1,0.2.1,-
 com.tokelon.toktales+tokTales-tools-android,0.0.1,0.2.1,0.0.1
 com.tokeninc.barcodescanner+core,1.0.0,1.0.0,-
-com.tokeninc.barcodescanner+implementation,-,-,-
 com.tokeninc.httpdownloader+httpdownloader,1.0.0,1.0.0,-
 com.tokeninc.locationtracker+background-implementation,1.0.0,1.0.0,-
 com.tokeninc.locationtracker+core,1.0.0,1.0.0,-
@@ -14179,7 +13902,6 @@ com.tomtaw.widget+widget_circle_imageview,1.0.1,1.0.3,-
 com.tomtaw.widget+widget_suggest_template_layout,1.0.0,1.0.1,-
 com.tongcent.testlib+testlib,0.0.2,0.0.6,-
 com.tonicartos+superslim,0.1.0,0.4.13,-
-com.tonyodev.fetch+fetch,-,-,-
 com.tonyodev.fetch2okhttp+fetch2okhttp,2.1.0-RC1,3.1.6,-
 com.tool.badger+badgerutil,1.0.0,1.0.0,-
 com.topimagesystems+MobiFlow,4.0.5SE,5.0,-
@@ -14189,7 +13911,6 @@ com.totcy.widget+customprogressview,1.0.0,1.0.0,-
 com.touchlane.android+exo-video-view,1.0.0,1.0.2,-
 com.townwang+logutils,1.0.0,1.0.0,-
 com.townwang+phone,1.0.0,1.0.0,-
-com.townwang+wechat,-,-,-
 com.townwang.wechat+wechat,1.0.7,1.0.7,-
 com.tozmart+module_camera,1.0.0,1.2.0,-
 com.tozmart+module_measure,1.0.1,1.1.2,1.0.1
@@ -14278,7 +13999,6 @@ com.tsy.social+social-sdk-core,1.8.0,2.0.0,-
 com.tsy.social+social-sdk-full,1.8.0,2.0.0,-
 com.tsy.video+video-sdk,1.0.0,1.0.0,-
 com.tt+calendarpageview,1.0.0,1.0.0,-
-com.ttb.kevindialog.dialog+kevindialog,-,-,-
 com.tts.monitor+AOPMonitor-api,1.4.5-release,1.4.14,-
 com.ttt+supertext,1.0.0,1.0.0,-
 com.tuacy+logger,1.0.0,1.1.0,-
@@ -14293,9 +14013,6 @@ com.tubitv.tools+zendesk-help-center,0.0.1,0.0.2,-
 com.tubitv.ui+tubi-loading-view,0.0.2,0.0.4,-
 com.tude.android+sdk_2d,1.0,1.0.2,-
 com.tulsiram+crypto,1.0.0,2.2.0,-
-com.tuncer.kocek+CircularView,-,-,-
-com.tuncer.kocek+Stepbar,-,-,-
-com.tuncer.kocek.library+CircularView,-,-,-
 com.tune+tune-marketing-console-sdk,5.3.0,6.1.1,-
 com.tune+tune-segment-integration,1.0.0,1.1.0,-
 com.tungsten-labs+tungsten-crypto-kotlin,0.0.1,1.1.12,-
@@ -14583,12 +14300,10 @@ com.ulfy.android+image,0.0.1,0.2.2,-
 com.ulfy.android+resource,0.0.1,0.2.0,-
 com.ulfy.android+system,0.0.1,0.2.7,-
 com.ulfy.android+task,0.0.1,0.2.0,0.0.1
-com.ulfy.android+task-extension,-,-,-
 com.ulfy.android+task-transponder,0.0.1,0.2.3,-
 com.ulfy.android+task-transponder-smart,0.0.1,0.2.1,-
 com.ulfy.android+views,0.0.1,0.2.0,-
 com.ultramegasoft.radarchart+radar-chart,0.1.0,0.1.5,-
-com.umalt.android+octagonprogress,-,-,-
 com.umalt.searchedittext+searchedittext,0.0.1,0.0.5,-
 com.umang+asynclib,0.0.4,1.2.0,-
 com.umang+fcm-client,0.0.1,2.1.0,-
@@ -14673,7 +14388,6 @@ com.user.derekpoon+trigolib,1.0.3,1.0.5,-
 com.usercentrics.sdk+usercentrics-tv,2.3.2,2.7.2,-
 com.usergeek+usergeek-android,1.0.3,1.0.9,-
 com.userleap+userleap-android-sdk,2.2.1,2.6.9,-
-com.usmanmughal+sdk-code-test,-,-,-
 com.ustwo.android+clockwise-wearable,0.9.0,1.0.2,-
 com.util.log+LogUtil,1.0.0,1.0.3,-
 com.utils.tyh+permission-library,unspecified,unspecified,-
@@ -14696,8 +14410,6 @@ com.uuyoung.user_test+user_test_lib,1.0.1,1.0.1,-
 com.uwetrottmann+androidutils,2.0.0,2.1.0,-
 com.uwetrottmann.androidutils+androidutils,2.2.0,3.0.0,-
 com.uxarmy.uxsdk+uxsdk,1.0.0,2.1.3,-
-com.uxarmydev.android_lib+android_lib,-,-,-
-com.uxarmydev.androidsdk+androidsdk,-,-,-
 com.v2future.paladin+imagefilter,1.0.0,1.0.0,-
 com.vaibhav.jcenterlibrary+jcentertest,1.0.0,1.0.0,-
 com.valdesekamdem.library+md-toast,0.8.0,0.9.0,0.8.0
@@ -14728,13 +14440,11 @@ com.vcc.core.streamingsdk+streamingSDK,1.0.0,1.0.0,-
 com.vcc.core.streamingsdk+streamingsdk,1.0.1,1.0.1,-
 com.vcc.mdclib+mdclib,1.0.0,1.0.0,-
 com.vcc.playerads+advert-plugin,1.0.1,1.2.2.3,1.0.1
-com.vcc.playersdk+playerSDK,-,-,-
 com.vcc.playerwrappersdk+playerSDK,1.0.2,1.1.1,-
 com.vcc.video+video,1.0.0,1.3.1,-
 com.vcc.vivalivestream+mysohalivestreamsdk,1.2.1-NL,1.2.2.8,-
 com.vcc.webview+webview-plugin,1.0.2,1.0.8,-
 com.vccorp.imaloader+player-ads-plugin,1.0.0,1.0.2,-
-com.vcloudx.vcxsdk+vconfsdk,-,-,-
 com.vcx.android+vcx-android-sdk,0.9,0.9,-
 com.vdian.android.lib+salon,1.0.0,1.0.6,-
 com.vdian.android.lib+uikit,1.0.0,1.0.6,1.0.0
@@ -14785,7 +14495,6 @@ com.viceboy.circularrevealdrawer+circularrevealdrawer,1.0.0,1.0.0,-
 com.viceboy.library+triangularshadeimageview,1.0.0,1.0.1,-
 com.viceboy.reptileloader+snakeloaderview,1.0.0,1.0.0,-
 com.vicy.demo.fabric+fabric,0.2,0.2,-
-com.vicy.demo.fabric+fabricdemo,-,-,-
 com.video+glitch_effect,0.0.1,0.0.3,-
 com.videoengager+smartvideo-sdk,1.0.0,1.14.0,-
 com.videoengager+videoengager-sdk,1.0.0,1.0.1,-
@@ -14861,7 +14570,6 @@ com.virjar+hermes-api,1.0.0,1.0.9,-
 com.virtualightning.library+borderview,0.0.1,0.0.2,-
 com.virtualightning.library+dlna,0.0.1,0.0.3,-
 com.virtualightning.library+gridpagerview,0.0.1,0.0.1,-
-com.virtualightning.library+toolkits,-,-,-
 com.virtusize.android+virtusize-core,2.4.2,2.5.1,2.4.2
 com.vise.log+viselog,1.0.0,1.0.1,-
 com.vise.xiaoyaoyou+common_bluetooth,1.0.0,1.0.0,-
@@ -14874,11 +14582,8 @@ com.vishnus1224.circularprogressindicator+library,1.0,1.0.1,-
 com.vishnus1224.snakeprogressview+library,1.0,1.0,-
 com.vistrav+ask,1.0,2.5,-
 com.vitaliibonar.bitmapinflater+bitmap-inflater,1.0.0,1.0.1,-
-com.viztushar+awesomelib,-,-,-
-com.viztushar+myapplication,-,-,-
 com.viztushar.android.helpers+android-helpers,0.0.1,0.0.2,-
 com.viztushar.myapplication+library,0.1.8,0.1.8,-
-com.viztushar.myapplication+libstext,-,-,-
 com.vk+android-sdk-id,3.2.0,3.5.2,3.2.0
 com.vk.adnetwork+adnetwork,1.0.4,1.0.4,-
 com.vk.knet+core,1.0-alpha02,1.0,-
@@ -15126,7 +14831,6 @@ com.willowtreeapps.hyperion+hyperion-plugin,0.9.3,0.9.36,0.9.3
 com.willowtreeapps.hyperion+hyperion-recorder,0.9,0.9.36,-
 com.willowtreeapps.hyperion+hyperion-shared-preferences,0.9.21,0.9.36,0.9.21
 com.willowtreeapps.hyperion+hyperion-timber,0.9.22,0.9.36,-
-com.wills.core.uikit+library,-,-,-
 com.wills.ford+fordbottombar-library,1.0.0.0,1.0.0.17,-
 com.wills.libmusic+music-library,1.0.0.0,1.0.0.14,-
 com.wills.libvideo+video-library,1.0.0.0,1.0.0.10,-
@@ -15145,7 +14849,6 @@ com.wingoku.tickers+app,1.0.4,1.0.4,-
 com.winning.marsx_security+marsx-security,0.0.1,0.0.2,-
 com.winson.alcodesgalleryviewerlibrary+alcodessmmediafilepicker,1.0.0,1.0.11,-
 com.winsontan520.datagovsg+datagovsg,0.1.4,0.1.12,-
-com.winsontan520.datagovsg+datagovsg-android-sdk,-,-,-
 com.winterparadox+customcameralibrary,0.0.1,0.3.1,-
 com.wire+android-job,1.2.6,1.2.6,-
 com.wire+avs,7.1.140,8.2.10,-
@@ -15196,7 +14899,6 @@ com.wojtek.wawerek+skald-logcat-plugin,0.1.0,0.4.0,0.1.0
 com.wolearn+td,1.0.0,1.0.8,1.0.0
 com.wonderkiln+camerakit-vision,0.13.0-Snapshot,0.13.1,-
 com.wonderpush+wonderpush-android-sdk,1.2.0.0,4.3.0,-
-com.wonders.xlab.cardbag.library+cardbag,-,-,-
 com.wonders.xlab.qrscanner+qr-scanner,0.9.0,0.9.1,0.9.0
 com.woodblockwithoutco+beretained,0.1.1,0.1.2,-
 com.wootric+analytics-integration-wootric,0.1.0,0.2.0,-
@@ -15314,10 +15016,8 @@ com.xiwenhec+banner,1.0.1,1.0.5,-
 com.xixicm.ca+ca,0.0.1,1.0.3,-
 com.xiyuan+util,1.0.0,1.0.0,-
 com.xl.okhttputils+okhttputils,1.0.0,1.0.0,-
-com.xliu11+updater,-,-,-
 com.xliu11.update+library,1.0.1,1.0.1,-
 com.xliu11.update+update,1.0.0,1.0.1,-
-com.xliu11.update+updater,-,-,-
 com.xlythe+android-text-manager,0.0.1,1.1,-
 com.xlythe+camera-view,1.3,1.3,-
 com.xlythe+clock-view,1.1,1.1,-
@@ -15356,7 +15056,6 @@ com.xsolla.android+payments,0.15.3,1.0.2,-
 com.xsolla.android+payments-playfab,0.16.0,0.16.0,-
 com.xsolla.android+paystation,0.9.0,0.11.0,-
 com.xt.component+componentlib,1.0.0,1.0.2,-
-com.xten.autospantextgridview+autoSpanTextGridView,-,-,-
 com.xtensolution.support+xten-framework,1.0.0,1.0.2,-
 com.xu.easyload+easyload,0.0.1,0.0.2,-
 com.xuan01.bluetooth_utils+bluetooth_utils,0.0.1,0.0.1,-
@@ -15387,7 +15086,6 @@ com.xwray+groupie-databinding,2.0.0-alpha1,2.9.0,-
 com.xwray+groupie-kotlin-android-extensions,2.0.0-beta1,2.9.0,-
 com.xwy.spermission+spermission,1.0.0,1.0.4,-
 com.xxjd+utilbase,1.0,1.0,-
-com.xxxls+super-status,-,-,-
 com.xy.open.opensource+permission,1.1.0,1.2.0,-
 com.xyf.framework+xyfframework,1.0.3,1.0.3,-
 com.xyt+XCommon_res,0.1,0.1,-
@@ -15460,7 +15158,6 @@ com.yandex.pay+xplat-yandex-pay,0.1.0,0.1.10,0.1.0
 com.yang+shadow-view,1.0.0,1.0.1,1.0.0
 com.yangchangfu+pull-downmenu-lib,1.0.0,1.0.1,-
 com.yangping+mjpegview,1.0.1,1.0.5,-
-com.yangping+swipeback,-,-,-
 com.yangping+ypwaveview,1.0.0,1.0.3,-
 com.yangpingapps+ypwaveview,1.0.4,1.0.4,-
 com.yantranet+android-downloader,1.0.20-RC3,2.0.20-RC1,-
@@ -15527,10 +15224,8 @@ com.ycl.tabview.library+tabviewlibrary,1.0,1.0,-
 com.ydevelop+file-scan,0.0.1,0.0.2,-
 com.ydevelop+rv-adapter,0.0.1,0.1.1,-
 com.ydevelop+rv-adapter-databinding,0.0.1,0.0.5,-
-com.ydevelop+rv-adapter-kotlin,-,-,-
 com.ydevelop+rv-adapter-material,0.0.1,0.0.2,0.0.1
 com.ydevelop+rv-adapter-multi,0.0.1,0.0.5,0.0.1
-com.ydevelop+rv-adapter-refresh,-,-,-
 com.ydevelop+rv-adapter-viewholder,0.0.1,0.0.6,0.0.1
 com.ydevelop+status-layout,beta,1.0.0,-
 com.ydq+crash,1.0,1.0.5,-
@@ -15542,9 +15237,7 @@ com.yelp.android+bento,11.0.0,19.0.0,11.0.0
 com.yelp.android+bento-testing,11.0.0,19.0.0,-
 com.yelp.android+varanus,2.0.4,3.0.0,-
 com.yelp.clientlib+yelp-android,1.0.0,3.0.0,-
-com.yeluodev+baselib,-,-,-
 com.yeohe.libcardnet+proceed-net,0.0.1,0.0.4,0.0.1
-com.yesheng.demo+app,-,-,-
 com.yetaoii+yt-download,1.0.0,1.0.6,-
 com.yey.nice.spinner+library,0.0.1,0.1.2,-
 com.yhy.event+evtor,1.0.0,1.1.0,-
@@ -15577,11 +15270,9 @@ com.yjt.password+Password,0.0.1,0.0.3,-
 com.ykhdzr+bartender,1.0,1.0,-
 com.ykhdzr+flow,1.0.0,1.0.0,-
 com.yline.lib+LibSDK,1.0.1,3.0.1,-
-com.yline.lib+LibSQLite,-,-,-
 com.yline.lib+LibSqlite,1.0.2,1.1.0,-
 com.yline.lib+LibViewRecycler,1.0.0,1.3.0,-
 com.yline.lib+LibViewText,1.0.0,1.0.4,-
-com.yline.lib+libsdk,-,-,-
 com.ylq+testlibrary,1.0,1.0,-
 com.ymnd.android+toolargetool,1.0.0,1.0.0,-
 com.ymr.dao+lib,unspecified,1.0.9,-
@@ -15594,7 +15285,6 @@ com.yoc.visx.sdk+mediation-adapter-smartserverads,7.8.1.0,7.14.0.4,-
 com.yoc.visx.sdk+visx-sdk,1.2.0,3.0.0,1.2.0
 com.yodo1+advert,1.0.5,1.6.0,-
 com.yodo1+advert-cn,1.0.11,3.12.0,-
-com.yodo1+advert-gp,-,-,-
 com.yodo1+advert-gpcn,1.2.8,1.6.1,-
 com.yodo1.common+collection,1.1.2,1.1.4,1.1.2
 com.yodo1.common+sensor,1.0.4,1.0.4,1.0.4
@@ -15783,7 +15473,6 @@ com.yzw+eventbus,0.9.0,0.9.0,-
 com.yzy+social,2.0.0,2.0.0,-
 com.z7dream+android_recycler_control,0.0.1,0.0.2,-
 com.zaaach+toprightmenu,1.0,1.1.2,-
-com.zac4j.library+Banner,-,-,-
 com.zach.zengine+ZEngine,1.0.0,1.0.0,-
 com.zachklipp.compose-richtext+richtext-commonmark,0.1.0,0.3.0,-
 com.zachklipp.compose-richtext+richtext-ui,0.1.0,0.3.0,0.1.0
@@ -15816,7 +15505,6 @@ com.zee+http,0.0.1,1.1.1,-
 com.zee.networkapi+network_api,0.1,1.2,-
 com.zegome.utils+andutils,0.1.1,0.5.0,-
 com.zegome.utils.facebook+core,0.0.1,1.1.0,-
-com.zegome.utils.widget.pagers+autoviewpager,-,-,-
 com.zekapp.library+customfabs,1.0.0,1.0.2,-
 com.zekapp.library+progreswheelview,1.0.1,1.1.5,-
 com.zello+zello-channel-sdk,0.5.2,0.5.2,-
@@ -15858,7 +15546,6 @@ com.zftlive.android.library+widget,1.0.1,1.0.1,-
 com.zgeekandroid.sdk+map_navigationlibrary,1.0.0,1.0.0,-
 com.zgh.trshttp+trshttp,1.0.0,1.0.1,-
 com.zgh0711.template+template,1.0,2.0.0,-
-com.zgj.test.utils+mytest,-,-,-
 com.zhaisoft.lib.updater+android-version-updater,0.0.1,0.2.2,-
 com.zhangtuo.maven+CustomRefreshView,1.0.2,1.0.2,-
 com.zhangtuo.maven.widget+CustomRefreshView,1.0.0,1.0.0,-
@@ -15874,7 +15561,6 @@ com.zhg.custom.view+LoopImageView,1.0.0,1.0.0,-
 com.zhichan+openadsdk,1.0.1,1.0.19,-
 com.zhishan.android+Kotlin,1.0,1.0,-
 com.zhjl37.permission+permission,1.0.0,1.0.0,-
-com.zhkrb.cloudflare-scrape-android+scrape-rhino,-,-,-
 com.zhongzewei.widget+number-keyboard,1.0.0,1.0.0,-
 com.zhousf.lib+okhttp3,1.0,2.9.9,-
 com.zhousf.lib+okhttplib,1.0,1.0,-
@@ -15891,7 +15577,6 @@ com.zhuge.push+zhugepushproject,1.0.0,1.0.1,-
 com.zhxh+xchartlib,1.0,2.8,-
 com.zhxh+xdialoglib,1.1,2.2,-
 com.zhxh+xhttplib,1.0,1.3,-
-com.zhxh+xmedialib,-,-,-
 com.zhxh+xnetworklib,1.0,1.0,-
 com.zhxh+xparserlib,1.0,1.2,-
 com.zhxh+xpermissionlib,1.1,1.1,-
@@ -15936,7 +15621,6 @@ com.zmj+premissionlib,1.0.0,1.0.1,-
 com.zmkj+gesture,1.0.1,1.0.2,-
 com.zmp.zhanpple+widget,1.0.0,2.0.3,-
 com.zmq.lib.ndk+libbspatch,1.0.0,1.0.0,-
-com.zmq.plugin+bspatch,-,-,-
 com.znyq.android+iot-library,1.0,2.1,-
 com.zo2m4bie.firstitemexpandablelistview+firstitemexpandablelistview,0.0.4,0.0.6,-
 com.zo2m4bie.floatingtoggle+floatingtoggle,0.0.1,0.0.4,-
@@ -15961,7 +15645,6 @@ com.zwb.crasher+wbcrasherk,0.6,0.6,-
 com.zwb.crasher+wbcrasherll,0.1,0.1,-
 com.zwenkai+wheelview,1.0.1,1.0.1,-
 com.zwonb+util,1.0.3,1.1.3,-
-com.zwt+app,-,-,-
 com.zwt+mylibrary,1.0.4,1.0.4,-
 com.zwy+MvpTools,2.2.1,2.3.33,2.2.1
 com.zx.resource+fileprovider,1.0.0,1.0.2,-
@@ -16097,7 +15780,6 @@ cz.kotox+android-keystore-compat-base,3.0.0,3.0.0,3.0.0
 cz.kotox+android-keystore-compat-elplus,3.0.0,3.0.0,-
 cz.kotox+android-keystore-compat-emplus,3.0.0,3.0.0,-
 cz.kotox+android-keystore-compat-kplus,3.0.0,3.0.0,-
-cz.moravec+material-spinner,-,-,-
 cz.mzk.tiledimageview+tiled-image-view,2.0.0,2.2.4,-
 cz.pikadorama+simple-orm-lib,release,release,-
 cz.refreshlayout.library+refreshlayout,1.0.0,1.3.2,1.0.0
@@ -16191,7 +15873,6 @@ de.lizsoft.heart+heart-map-tools,1.1.2,1.1.3,1.1.2
 de.lizsoft.heart+heart-map-tools-ui,1.1.2,1.1.3,-
 de.lizsoft.heart+heart-push-notification,1.1.2,1.2.2-alpha08,-
 de.lizsoft.heart+heart-test-helpers,1.1.2,1.2.2-alpha08,1.1.2
-de.madcyph3r+materialDrawer,-,-,-
 de.mannodermaus+rxbonjour-1x,1.0.0,1.0.0,-
 de.mannodermaus+rxbonjour-core,1.0.0,1.0.0,1.0.0
 de.mannodermaus.junit5+android-instrumentation-test,0.1.0,0.2.2,-
@@ -16265,7 +15946,6 @@ dev+pincodeview,1.0.0,1.0.0,-
 dev+sharedprefrence,1.0.0,1.0.1,-
 dev.ahamed.mva2+adapter,2.0.0-alpha01,2.0.0,2.0.0
 dev.ahamed.mva2+ext-databinding,2.0.0-alpha01,2.0.0,-
-dev.ahamed.mva3+adapter,-,-,-
 dev.ahamed.mva3+ext-databinding,3.0.0-alpha01,3.0.0,-
 dev.ahmedmourad.bundlizer+bundlizer,0.1.0,0.1.0,-
 dev.alshakib.ext+ext,1.0.0-rc1,1.4.1,-
@@ -16489,7 +16169,6 @@ dev.olshevski.safeargs+api,1.0.0,1.2.1,1.0.0
 dev.olshevski.safeargs+api-compose,1.0.0,1.2.1,-
 dev.olshevski.viewmodel+easy-factories,1.0.0,1.0.0,1.0.0
 dev.olshevski.viewmodel+easy-factories-compose,1.0.0,1.0.0,-
-dev.omary.volleylite+volleylite,-,-,-
 dev.ov3rk1ll.widget+title-card-view,1.1.0,1.2.0,-
 dev.petuska+klip-api-android,0.2.1,0.4.1,0.2.1
 dev.petuska+klip-api-android-debug,0.2.1,0.4.1,0.2.1
@@ -16679,7 +16358,6 @@ evovetech.codegraft+inject-extension-crashlytics,0.7.6,0.8.7,-
 evovetech.codegraft+inject-extension-okhttp3,0.7.6,0.8.7,0.7.6
 evovetech.codegraft+inject-extension-realm,0.7.7,0.8.7,-
 evovetech.codegraft+inject-extension-retrofit2,0.7.7,0.8.7,-
-fairy.easy.land+test-normal,-,-,-
 faker.android.tools.build+support,1.0.0,1.0.3,-
 family.amma+tea-android,2.2.0,3.0.0,-
 fcm.android.play.google.quickstart+quick_fcm,0.0.0,0.0.4,-
@@ -16694,7 +16372,6 @@ fi.vtt.nubomedia+kurento-tree-client-android,1.0.4,1.1.0,-
 fi.vtt.nubomedia+webrtcpeer-android,1.0.0,1.1.2,-
 film.interactive.platform+svgutils,1.0.1,1.0.1,-
 fitsquare.rxconnect+rxconnectlib,1.1,1.1,-
-flymob-sdk-sample+FlyMobSdk,-,-,-
 fm.feed.android+PlayerSDK,1.1.6,3.0.0,-
 fm.feed.android+player-sdk,4.4-exoplayer,6.4.0,-
 fm.feed.android+player-sdk-exo2106,6.0.0-beta,6.1.9,-
@@ -16732,7 +16409,6 @@ fr.bmartel+notti-service,0.21,0.21,-
 fr.bmartel+youtubetv,1.1,1.2,-
 fr.bouyguestelecom.dev+bboxiot-library,0.76,1.01,-
 fr.bowo.bowolistview+library_bowolistview,1.0.0,1.0.21,-
-fr.bowo.library+library_bowowidgetcatalog,-,-,-
 fr.bowo.widgetcatalog+library_bowowidgetcatalog,0.0.1,0.1.7,-
 fr.coppernic.lib+splash,0.0.1,0.3.0,-
 fr.erictruong+materialedittext,0.1.0,0.2.0,-
@@ -16822,7 +16498,6 @@ halo.android+permission,0.9-beta,1.0.5-rc,-
 hari.allagi+allagi,0.1.0,0.1.1,-
 hcm.ssj+libssj,0.4.4.5-dirty,0.4.4.6,-
 heinigger+base_adapter_library,1.0.2,1.0.2,1.0.2
-helloaar.example.com.mylittlelibrary+mylittlelibrary,-,-,-
 hemanparbhakar.com.gpstracking+gpstracking,0.1.0,0.1.0,-
 hiennguyen.me.bindingadapterdelegate+bindingadapterdelegate,0.0.1,0.1.3,-
 hj.aos.lib+log,1.0.0,1.0.0,-
@@ -16851,7 +16526,6 @@ hu.simplexion.zakadabar+core-android,2021.7.20,2022.8.17,-
 hu.supercluster+overpasser-retrofit-adapter,0.1.0,0.2.2,-
 hu.supercluster+overpasser-retrofit-legacy-adapter,0.2.0,0.2.2,-
 hu.supercluster+paperwork,1.0.0,1.2.7,-
-hujiawei+fuzzydateformatter,-,-,-
 huytranq.utility+resource,0.1,0.1,-
 hyz.lib+log,0.0.1,0.0.1,-
 hyz.work.navigation+navigation,0.1.0,0.1.11,-
@@ -16878,7 +16552,6 @@ ie.equalit.ouinet+ouinet-x86_64,0.20.0,0.21.2,-
 il.co.galex+double-loading-loaders,1.0.1,1.1.0,-
 illiyin.mhandharbeni.crudrealmmodul+crudrealmmodul,0.0.1,0.4.1,-
 illiyin.mhandharbeni.httpcall+httpcalllibrary,0.0.1,0.0.4,-
-illiyin.mhandharbeni.libraryroute+drawroute,-,-,-
 im.actor+android-google-maps,1.0.275,4.0.435,-
 im.actor+android-google-push,0.1.35,4.0.435,-
 im.actor+android-sdk,0.0.1,4.0.435,0.0.1
@@ -16919,11 +16592,9 @@ im.zego+express-engine-video-whiteboard,1.11.0,1.11.0,-
 im.zego+express-video,0.17.5,2.4.2,-
 im.zego+express-video-whiteboard,1.11.0,2.4.2,-
 im.zego+zim,1,2.3.1,-
-in.aar+ushatesting,-,-,-
 in.ac.iitr.mdg+rotatingtext,1.1.0-alpha,1.1.0-alpha,-
 in.addlib+showadd,1.0.0,1.0.1,-
 in.androidhunt.instapost+InstagramPostViewAndroid,1.0.3,1.0.4,-
-in.androidhunt.otp+AutoDetectOTPAndroid,-,-,-
 in.arjsna+filechooser,1.0.0,1.0.0,-
 in.arjsna+passcodeview,1.2.0,1.2.1,-
 in.arjsna+swipecardlib,1.0.0,1.0.2,-
@@ -16950,7 +16621,6 @@ in.joye+performance_detection,0.0.1,0.0.2,-
 in.karthik.lib+font-util,1.0.0,1.0.0,-
 in.kudosfinance.android+api,0.0.1,0.0.1,0.0.1
 in.momoe+momoeintegrator,0.0.2,0.0.3,-
-in.mtap.iincube.safetrax+traxlytics,-,-,-
 in.nashapp.androidsummernote+androidsummernote,1.0.0,1.0.6,-
 in.nashapp.apicontroller+apicontroller,1.0.0,1.0.13,-
 in.nashapp.epublibdroid+epublibdroid,0.0.1,0.0.11,-
@@ -16965,7 +16635,6 @@ in.payu+payu-sdk,5.1.0,5.4.7,-
 in.payu+phonepe-intent,1.6.0,1.6.3,-
 in.ponshere+fintent,1.0,1.0,-
 in.ponshere+toggler,0.0.2,1.0.4,-
-in.relsellglobal.filespickerlib+File_Picker_Lib_for_android,-,-,-
 in.rmkrishna+mlog,0.0.2,0.0.3,-
 in.safetrax+io,0.1.0,0.1.2,-
 in.shadowfax+proswipebutton,1.0.1,1.2.2,-
@@ -16979,7 +16648,6 @@ in.udiboy.ipb+image-progress-bar,0.1-dev,0.1-dev,-
 in.unicodelabs.sorbh+command-location,1.0.0,1.0.0,-
 in.unicodelabs.sorbh+sync-permission,1.0.0,1.0.0,-
 in.vrsweb+fyreonlib,0.1,1.0.0,-
-in.wavelabs+identity-network,-,-,-
 in.wavelabs+idn,0.0.7,0.2.3,-
 in.wavelabs+idn-android-api,0.3.0,0.3.0,-
 in.workarounds.autoprovider+autoprovider,0.0.1,0.0.1,-
@@ -17074,7 +16742,6 @@ io.apptik.widget+multislider,1.2,1.3,1.2
 io.appwrite+sdk-for-android,0.0.0,0.7.0,-
 io.arcblock.forge+android-oauth,0.1.0,0.1.1,-
 io.arcblock.forge+stylize_qr,1.0.0,1.0.0,-
-io.ashdavies.common.view+sliding-tab-layout,-,-,-
 io.atto+atto-data-ktx,1.0.0,1.0.6,-
 io.behindthemath.justifiedtextview+justifiedtextview,0.0.1,0.0.1,-
 io.bitbucket.ccdungnt2+ccmds,1.1,1.1,-
@@ -17166,7 +16833,6 @@ io.elements.pay+core-ui,1.0.0-beta01,1.0.0-beta09,1.0.0-beta01
 io.elements.pay+redirect,1.0.0-beta03,1.0.0-beta09,1.0.0-beta03
 io.engi.android+status-timeline,1.0.0,1.0.0,-
 io.envoyproxy.envoymobile+envoy,0.2.0-TEST,0.4.6.20220815,-
-io.ethanblake4+exponent-core,-,-,-
 io.ethmobile+ethdroid,2.0.0-m1,2.0.0-m1,-
 io.fabianterhorst+apiclient-components,0.1,0.1,-
 io.fabianterhorst+iron,0.1,0.8.0,0.1
@@ -17464,7 +17130,6 @@ io.github.chozzle+compose-macos-theme-android,0.1.0,0.4.2,-
 io.github.chozzle+compose-macos-theme-android-debug,0.1.0,0.4.2,-
 io.github.chungggg+mapbox-android-navigation-ui,0.0.1-alpha.01,0.0.1-alpha.02,-
 io.github.cinpecan+deponder,v-0.01,0.2.8,-
-io.github.ciriti+datalayer,-,-,-
 io.github.ciriti+gdax-datalayer,1.4.5,1.7.0,-
 io.github.citcon-aoyansheng.upi_sdk_adnroid+card-form,4.22.03,4.22.03,4.22.03
 io.github.citcon-aoyansheng.upi_sdk_adnroid+drop-in,4.22.03,4.22.03,4.22.03
@@ -17876,7 +17541,6 @@ io.github.lckjcnWq+qstorage,1.0.0,1.0.0,-
 io.github.leobert-lan+davinci,0.0.2-beta,0.0.8-alpha1,-
 io.github.leobert-lan+davinci-style-viewer,0.0.1,0.0.2,-
 io.github.leobert-lan+pandorarv_kt,0.0.4,0.0.5,-
-io.github.leon406.android+cmp-base,-,-,-
 io.github.leslienan+NetworkCapture,0.0.5-alpha,0.0.5-alpha,-
 io.github.libolf+fast-android-camera,1.0.0,1.0.2,1.0.0
 io.github.libolf+fast-android-common,1.0.0,1.0.11,1.0.0
@@ -18383,8 +18047,6 @@ io.github.wellingtoncosta+convalida-validators,3.0.0-beta01,3.2.0,3.0.0
 io.github.william353.logger+logger-logcat,0.0.3,0.0.3,-
 io.github.windysha+bypassHiddenApiRestriction,1.0.0,1.1.0,-
 io.github.windysha+xposed_module_loader,1.0.0,1.0.4,-
-io.github.wisharetec+lock-sdk-android,-,-,-
-io.github.wisharetec+toast,-,-,-
 io.github.wiwi289+GradualShowTextView,1.0.0,1.0.0,-
 io.github.wonderandroid+common,1.0.5.4,1.3.2.2.2,-
 io.github.wonderandroid+httplib,0.0.4,0.0.51,-
@@ -18609,7 +18271,6 @@ io.github.zhangguangxuan+scanutils,1.0.0,1.0.2,-
 io.github.zhangxinmin528.chuck+library,1.0.1,1.0.3,-
 io.github.zhangxinmin528.chuck+library-no-op,1.0.1,1.0.3,-
 io.github.zhiqiang-series+smart-toast,3.1.9.0,3.1.9.0,-
-io.github.zhitaocai+accessibility-dispatcher,-,-,-
 io.github.zhitaocai+toastcompat,0.1.0,0.1.0,-
 io.github.zlgspace+easy-req-permission,1.0.0,1.0.1,-
 io.github.zncmn.webrtc+libwebrtc-ktx,0.0.1,0.1.0,0.0.1
@@ -18718,7 +18379,6 @@ io.liamju.comm+common,1.0,1.0.1,-
 io.livekit+livekit-android,0.5.1,1.1.2,-
 io.logging+logging-library,1.0,1.0.1,-
 io.logmatic+android-log,0.1,0.1,0.1
-io.mapwize+MapwizeForMapbox,-,-,-
 io.mapwize.mapboxplugin+mapboxplugin,0.0.4,0.0.4,-
 io.maryk.rocksdb+rocksdb-multiplatform-android,6.20.4,7.3.1-1,-
 io.mattcarroll.hover+hover,0.9.1,0.9.8,-
@@ -18756,7 +18416,6 @@ io.metarouter.analytics+analytics,4.5.0-beta.1,4.10.2,-
 io.milkcan+effortless-prefs-gson,1.1.0,2.0.0-alpha6,-
 io.mobitech+analytics,2.1.0,3.2.1,-
 io.mobitech+shopping_sdk,2.2.1,3.3.35,-
-io.mobitech.apk+application_campaign_sdk,-,-,-
 io.mobitech.content+content_api_sdk,4.1.11d,6.1.0,4.1.11d
 io.mobitech.content+content_ui_sdk,4.1.11d,4.1.21,-
 io.mockk+mockk-agent-android,1.8.8.kotlin13,1.12.7,1.12.5
@@ -18889,8 +18548,6 @@ io.mraa.at.upm+upm_yg1006,1.2.0,1.6.0,-
 io.mraa.at.upm+upm_zfm20,1.2.0,1.6.0,-
 io.msgs+android-client,1.1.5,1.1.5,1.1.5
 io.msgs+android-client-okhttp,1.1.5,1.1.5,-
-io.msgs+libmsgs-android,-,-,-
-io.navendra.foggybrowser+foggybrowser,-,-,-
 io.nbos+ids-sdk-android,0.0.1,0.0.1,-
 io.netpie+netpiegear,0.0.1,0.0.1,-
 io.netty.incubator+netty-incubator-codec-native-quic,0.0.21.Final,0.0.21.Final,0.0.21.Final
@@ -18968,7 +18625,6 @@ io.pivotal+arca-service,1.0-beta,1.1.3,-
 io.pivotal+arca-threading,1.0-beta,1.1.3,1.0-beta
 io.pivotal+arca-utils,1.0-beta,1.1.3,1.0-beta
 io.pivotal.android+push,1.6.1,1.7.1,-
-io.pivotal.android+push-baidu,-,-,-
 io.pixel.android+pixel,0.0.2,0.0.3-alpha,-
 io.pkp+androidbluetooth,0.0.1,0.0.2,-
 io.plugy+helpcenter,0.2.0,0.2.7,-
@@ -19164,7 +18820,6 @@ io.vin.android+scanner,1.0.0,1.0.14,-
 io.vin.android+zbar,1.0.0,1.0.2,-
 io.vividtech+pimpmycall,0.0.1,0.0.3,-
 io.vokal.mock+mocklib,1.0.0,1.0.0,1.0.0
-io.vokal.mock+mocktrofit,-,-,-
 io.vokal.mock+mocktrofit2,1.0.0,1.0.0,-
 io.vrinda.kotlinpermissions+kotlinpermissions,1.0,1.1,-
 io.weex+weex_sdk,0.0.2,0.30.2,-
@@ -19194,7 +18849,6 @@ ir.appturi.rtexteditorview+rtexteditorview,1.0.0,1.0.0,-
 ir.basalam.rtlnavigationview+rtl-navigationview,1.0.0,1.3,-
 ir.bebinad.videoservice+videoservice,1.0.0,1.0.1,-
 ir.bpadashi.requester+requester,1.0.4,1.2.4,-
-ir.doorbash+license-checker,-,-,-
 ir.doorbash+update-downloader,1.0.0,1.0.0,-
 ir.mahozad.android+pie-chart,0.1.0,0.7.0,-
 ir.malv.utils+pulp,0.4.2-alpha01,0.4.3,-
@@ -19243,12 +18897,9 @@ ir.metrix.utils+webview,1.2.0-beta1,1.2.0-beta3,1.2.0-beta1
 ir.mobintabaran.android+mt-text-view,0.0,0.0,-
 ir.mohsenafshar.recyclerviewadapter+dynamic-adapter,1.0.0,1.0.1-beta,-
 ir.mstajbakhsh.android+LiveHiddenCamera,0.1.0,0.1.2,-
-ir.mtajik.android+advancedPermissionsHandler,-,-,-
 ir.mtajik.android+advancedsmsmanager,1.0.0,1.1.0,-
 ir.mtapps+WeatherLib,0.9.0,0.9.0,-
 ir.muhammadzadeh+materialkurdishdatetimepicker,0.1.4,0.1.7,-
-ir.scriptestan+jalalimaterialdatetimepicker,-,-,-
-ir.scriptestan.jalalimaterialdatetimepicker+jalalimaterialdatetimepicker,-,-,-
 ir.scriptestan.jalalimaterialdatetimepicker+library,0.1.1,0.1.2,-
 ir.siaray+downloadmanagerplus,1.2.5,1.2.5,-
 ir.sinadalvand.libs+TriangleImageView,1.0.0,1.0.1,-
@@ -19266,7 +18917,6 @@ ir.sotoon.ai+text-recognition-grpc,0.0.1,0.0.1,0.0.1
 ir.tapsell.sdk+tapsell-sdk-android,4.6.4-alpha01,4.7.5-rc01,-
 is.hello+anime-android-go-99,0.4.0,0.5.0,-
 is.hello+buruberi-core,0.9.0,1.0.2,-
-is.hello+buruberi-testing,-,-,-
 is.leap.android+core-sdk,1.0.0-beta1,1.5.4,1.0.0-beta1
 is.leap.android.core+sdk,1.0.0-beta1,1.0.0-beta2,1.0.0-beta1
 is.stokkur.borgunlibrary.lib+lib,0.9.4,0.9.4,-
@@ -19291,7 +18941,6 @@ it.czerwinski.android.lifecycle+lifecycle-livedata-test-junit5,1.0.0-ALPHA1,1.4.
 it.czerwinski.android.room+room-database,1.0.0-ALPHA1,1.2.0,-
 it.czerwinski.android.room+room-database-sql,1.0.0-ALPHA2,1.2.0,1.0.0-ALPHA2
 it.dex.dexmovingimageview+dexmovingimageviewlib,0.1.0,0.1.0,-
-it.edwardday.serialization+kprefs,-,-,-
 it.federicoboschini+resource-file-provider,1.0.0,1.1.0_alpha1,-
 it.gilvegliach.android+transparent-text-textview,1.0,1.0.3,-
 it.greyfox+rxnetwork,0.0.5,0.0.5,-
@@ -19348,7 +18997,6 @@ it.subito+masaccio-library,1.0.0,1.0.0,-
 it.xabaras.android+recyclerview-swipedecorator,1.0,1.2.2,-
 it.xabaras.android+sms-interceptor,1.0,1.0,-
 ja.burhanrashid52+photoeditor,0.0.1,1.1.1,-
-jameido+easy-photo-picker,-,-,-
 james.buttons+buttons,0.0.3,0.0.3,0.0.3
 james.colorpickerdialog+colorpickerdialog,0.0.1,0.0.4,-
 james.palettegetter+palettegetter,0.0.1,0.0.1,-
@@ -19439,7 +19087,6 @@ kim.jeonghyeon+kotlin-simple-architecture-client-android,1.4.1,1.4.52,-
 kim.jeonghyeon+kotlin-simple-architecture-client-android-debug,1.4.1,1.4.52,-
 king.veaer+glass,1.0.0,1.0.1,-
 kkk.tools.sdk+core,1.1.0,1.2.9,-
-konifar+fab-transformation,-,-,-
 kr.co.kdsoft.droidlib+globalcontext,1.0.0,1.0.0,-
 kr.co.kdsoft.droidlib+network,1.0.0,1.0.05,-
 kr.co.kdsoft.droidlib+text,1.0.0,1.0.06,-
@@ -19497,7 +19144,6 @@ land.sungbin.runnerbe+honeycomb,preview-dev01,preview-dev01,-
 landepatil.vishal+sqlitebuilder,1.0.0-beta,1.0.2-beta,-
 lat.trust.background+background,1.0.0,1.0.10,-
 lat.trust.trustdemo+trusttrifles,1.0.0,2.1.38,-
-ldk.util+adapter-adapter,-,-,-
 ldk.util+logger,0.1.0,0.1.12,-
 leduyhung.my.view+my-chart,0.0.1,0.0.3,-
 leduyhung.my.view+my-progress,0.0.1,0.0.4,-
@@ -19508,7 +19154,6 @@ li.vin+vinli-android-sdk,3.0.0,4.1.22,-
 li.xiangyang.android+blebus,0.1,0.6.2,-
 li.xiangyang.android+imagecroper,0.1,0.5.3,-
 li.xiangyang.android+web-explorer,0.1,0.5.4,-
-lib.android.timingbar.com+camera,-,-,-
 lib.image.compress+imagecompress,1.0,1.0,-
 lib.omry.volleylite+volleylite,0.0.1,0.0.3,-
 lib.sehentak+base,1.0,1.0,-
@@ -19516,7 +19161,6 @@ lib.sticky+sticky_lib,1.0.0,1.0.0,-
 library.boltt+health-kit,1.0.0,1.0.4,-
 library.neetoffice.com.adapters+genericadapter,1.0.0,1.0.0,1.0.0
 libs.ben+network-list-fragment,1.0.1,1.0.2,-
-libs.pg.cpm.notification+notification,-,-,-
 life.knowledge4+k4l-video-trimmer,1.0,1.0,-
 liji.library.dev+circleprogressview,0.0.1,0.0.1,-
 liji.library.dev+imagezoom,1.0.0,1.4.10,-
@@ -19541,7 +19185,6 @@ ltd.dolink.arch+arch-rxjava2,0.0.1,0.1.1,-
 ltd.dolink.arch+arch-rxjava2-lifecycle,0.0.2,0.1.0,0.0.2
 ltd.dolink.arch+arch-rxjava3,0.0.1,1.0.1,-
 ltd.dolink.arch+arch-rxjava3-lifecycle,0.0.2,0.1.0,0.0.2
-ly.appsocial+chatcenter,-,-,-
 ly.appsocial+chatcenter-android-sdk,0.0.2,1.1.1,-
 ly.count.android+sdk,20.11.8,22.02.2,20.11.8
 ly.count.android+sdk-messaging,15.03,19.02.3,-
@@ -19628,7 +19271,6 @@ ly.kite+photo-picker,1.0.0,1.1.4,-
 ly.warp+warply-android-sdk,4.5.4-cos,4.5.4.4,-
 ma.hu+compose-charts,0.1.5,0.3.6,-
 madgaze.x5_gesture+development-kit,1.0.0,1.1.8.beta,-
-maimenggroup+paylibrary_res,-,-,-
 mangoo.android.zoomindexview+zoomindexview,0.1.0,0.2.2,-
 marshi.android+catalog,0.0.1,0.0.1,0.0.1
 marshi.android+catalog-hyperion-plugin,0.0.1,0.0.1,-
@@ -19664,12 +19306,10 @@ me.bemind.customfont+customfont,0.0.1,0.0.1,-
 me.blogof.deer+json-serializer,1.0.0,1.0.0,-
 me.bluetooth.detector+BluetoothDetector,1.0.0,1.0.1,-
 me.box.library+foolcamera,1.0.1,1.0.5,-
-me.breaker+android-url-route,-,-,-
 me.cafecode+sample_lib,1.0.0,1.0.0,-
 me.caibou.android+furion,1.0.0,1.0.2,-
 me.caibou.android+rockerview,1.0.0,1.0.0,-
 me.caiying.library+indexlistview,1.0.2,1.0.2,-
-me.cangming+cminitfaster,-,-,-
 me.cangming.cmui+cmui,1.0.0,1.4.0,-
 me.cangming.cmui+library,1.0.0,1.0.0,-
 me.ccj.dbhelper+dbhelper,1.0.0,1.0.1,-
@@ -19690,8 +19330,6 @@ me.darwinlouistoledo+fonto,0.1.0,0.3.0,-
 me.decimo+wheelview,1.1.1,1.1.1,-
 me.decimo.app+wheelview,1.1,1.1,-
 me.decimo.widget+wheelview,1.1.2,1.1.2,-
-me.dkzwm.widget.esl+core,-,-,-
-me.dkzwm.widget.fet+core,-,-,-
 me.dkzwm.widget.srl+ext-classics,1.6.5.androidx,1.6.6.8,-
 me.dkzwm.widget.srl+ext-util,1.6.5.androidx,1.6.6.8,-
 me.dm7.barcodescanner+core,1.0,1.9.8,1.0
@@ -19742,7 +19380,6 @@ me.henrytao+download-manager,0.1.0,1.3.0,-
 me.henrytao+mdcore,1.2.0,23.2.1.2,-
 me.henrytao+mvvm-life-cycle,1.0.0,2.8.0,-
 me.henrytao+recycler-pager-adapter,1.0.0,2.1.0,-
-me.henrytao+recyclerview,-,-,-
 me.henrytao+smooth-app-bar-layout,0.1.0,25.5.3.0,-
 me.himanshusoni+quantum-flux,0.9.3,0.9.3,-
 me.himanshusoni.chatmessageview+chat-message-view,1.0.1,1.0.7,-
@@ -19752,7 +19389,6 @@ me.himanshusoni.iih+iih-library,0.9.1,0.9.1,-
 me.himanshusoni.linearlistview+linear-list-view,1.0,1.0,-
 me.himanshusoni.quantityview+quantity-view,1.0.0,1.2.0,-
 me.himanshusoni.touchconfirmview+touchconfirmview,0.9-beta1,1.0,-
-me.hiyjeain.android+preferofit,-,-,-
 me.huseyinozer+tooltipindicator,0.0.1,0.0.1,-
 me.huteri.analogclock+analogclock,0.0.1,0.0.1,-
 me.hwc+chart,1.0.1,1.0.2,-
@@ -19783,7 +19419,6 @@ me.jahnen.libaums+libusbcommunication,0.2.0,0.2.2,-
 me.jahnen.libaums+storageprovider,0.6.0,0.6.2,-
 me.jason.library+common-sdk,1.0.0,1.1.0,-
 me.jaxvy.guvercin+guvercin,1.0.0,1.0.1,-
-me.jayeshbhadja.ganttchart+GanttChartLibrary,-,-,-
 me.jeeson.android.mvp+arch,1.3.0,1.3.0,-
 me.jeeson.android.mvp+core,1.0.0,1.3.0,1.0.0
 me.jeeson.android.mvp+mvp,1.0.0,1.2.1,-
@@ -19936,7 +19571,6 @@ me.riddhimanadib.form-master+form-master,1.0.0,1.1.0,-
 me.rishabhkhanna+RecyclerviewSwipeDrag,1.0.0,1.3.1,-
 me.saket+inboxrecyclerview,1.0.0-beta1,3.0.0,-
 me.saket+interceptableresources,1.0.0,1.0.0,-
-me.saket+interceptibleresources,-,-,-
 me.saket.resourceinterceptor+resourceinterceptor,1.0.0,1.0.0,-
 me.saket.reuserview+reuserview,4.1.2021,4.1.2021,-
 me.samlss+share-facebook,1.0.0,1.0.1,-
@@ -19965,7 +19599,6 @@ me.songning.LeakCanaryDemo+newtestlib,1.0.0,1.0.0,-
 me.srodrigo+androidhintspinner,1.0.0,1.0.0,-
 me.staufer+mathmagic,1.0.0,1.0.1,-
 me.staufer+textools,1.0.2,1.0.4,-
-me.stefan+bottom-tab-bar,-,-,-
 me.sungbin+kakaotalkbotbasemodule,1.0.0,1.0.1,-
 me.tangke.navigationbar+navigationbar,0.49-jumei,0.50,-
 me.tangke.slidemenu+slidemenu,1.1.0,1.1.0,-
@@ -20082,7 +19715,6 @@ me.zhouzhuo.zztitlebar+zz-title-bar,1.0.0,1.0.0,-
 me.zhouzhuo.zzweatherview+zz-weather-view,1.0.0,1.0.2,-
 me.zhouzhuo810.cameracardcrop+camera-card-crop,1.0.0,1.0.5,-
 me.zongren+pullablelayout,1.7.0,1.7.0,-
-me.zongren+usbserialforandroid,-,-,-
 me.zsr+customviews,1.0.0,1.0.0,-
 mehdi.jahedmanesh.distancehelperlib+distancehelperlib,1.4,1.5,-
 melo.android+mvvm,0.0.1,0.0.3,-
@@ -20095,7 +19727,6 @@ mil.nga+sqlite-android,3240000,3390000,3240000
 mil.nga.gars+gars-android,1.0.0,1.1.0,-
 mil.nga.geopackage.map+geopackage-android-map,1.3.1,6.4.0,-
 mil.nga.mgrs+mgrs-android,1.0.0,2.1.0,-
-milfont.com.tezosj_android+tezosj,-,-,-
 ml.berial+titlebar,1.0.0,1.0.1,-
 ml.dcjz.libs+browser,1.0.2,1.0.2,-
 ml.dcjz.libs+dominate,1.0.2,1.0.2,-
@@ -20170,11 +19801,9 @@ mrfu.refreshgot+refreshgot,0.1,0.2,-
 ms.ralph+quartz,0.0.1,0.0.1,-
 mu.lab+log,1.0.0,1.0.0,-
 mugan86.custom.font.textview+custom-font-textview,1.0,1.2,-
-mx.com.pegasus+RippleCircleButton,-,-,-
 mx.interactivetv+interactive-baz,1.1.5,1.4.3,-
 mx.jesusmartinoza+sweet-password,0.1,0.2,-
 my.gomland.android+BluetoothHelper,v1.0.0,v1.0.1,-
-my.gomland.android.bluetooth+bluetoothhelper,-,-,-
 my.net.xtend.genietemplate+genie_template,0.1,0.4.2,-
 mylovemhz+simplay,0.2.0,0.2.2,-
 name.gudong+action-button,1.0.0,1.0.0,-
@@ -20210,7 +19839,6 @@ net.badgekeeper.android+badgekeeper,0.1.4,0.1.5,-
 net.ballmerlabs.scatterbrainsdk+sdk,0.0040-alpha1,0.0059-alpha,-
 net.bohush.geometricprogressview+geometricprogressview,1.0.0,1.1.1,-
 net.box+androidboxcontentsdk,1.0.0,1.0.0,1.0.0
-net.bozho.easycamera+easycamera,-,-,-
 net.butterflytv.utils+rtmp-client,0.1.0,3.1.1-dev,-
 net.cacheux.crudroid+crudroid,0.1.0,0.1.0,-
 net.calit2.mooc.iot_db410c+db410c_gpiolib,1.0.0,1.0.7,-
@@ -20221,7 +19849,6 @@ net.chinaedu.aedu+aedu_core,2.1.0,2.3.1,-
 net.chinaedu.aedu+aedu_mvp,2.1.0,2.3.1,-
 net.chinaedu.aedu+aedu_ui,2.1.0,2.3.1,-
 net.ciapps.database+ciorm,0.1.0,0.2.7,-
-net.ciapps.widget+ratingview,-,-,-
 net.clintarmstrong+TextSpritzer,1.0.0,1.0.4,-
 net.cpacm.moneytext+moneyview,1.0.0,1.0.0,-
 net.cpacm.moneyview+library,1.0.0,1.0.0,-
@@ -20241,7 +19868,6 @@ net.devslash+easyauth,1.0.1,1.1.2,-
 net.devwiki.common+common,0.0.1,0.0.1,-
 net.devwiki.log+log,0.0.1,0.0.6,0.0.1
 net.devwiki.recycler+recycler,0.0.1,0.0.5,-
-net.devwiki.util+encode,-,-,-
 net.devworld+kitegameengine2d,1.0.0,1.0.1,-
 net.devworld.kitegameengine2d+engine,1.0.0,1.0.0,-
 net.dexecure+dexecure-android,0.0.1,0.0.3,-
@@ -20305,7 +19931,6 @@ net.ikomarov.rxandroid-graph-sdk+api-proxy,0.0.2,0.0.3,-
 net.ikomarov.rxandroid-graph-sdk+authentication,0.0.3,0.0.4,-
 net.imknown+BetterTextClockBackportLibrary,1.0.0,1.0.1,-
 net.iris+mobile-key-assaabloy-iris,5.7.0.rc06,5.7.0.rc06,-
-net.iris+mobile-key-lib,-,-,-
 net.iris+voip-abto,5.7.0.rc01,5.7.0.rc11,-
 net.iris+voip-none,5.7.0.rc01,5.7.0.rc11,-
 net.isspgj.util+util-release,1.0.0,1.0.4,-
@@ -20403,7 +20028,6 @@ net.r00we+uploadservice,4.2.3,4.2.4,-
 net.redwarp.android.library+lazy-database,0.1.0,0.2.3,-
 net.redwarp.gif+android-drawable,0.1.0,0.2.2,-
 net.rimoto+intlphoneinput,0.9.0,1.0.1,-
-net.sample.utilitydemolib+utilitydemolib,-,-,-
 net.samystudio.permissionlauncher+permissionlauncher-ktx,0.9.0,0.9.0,-
 net.scarlettsystems.android+widget,0.0.1,0.1.29,-
 net.servicestack+android,1.0.29,1.0.49,-
@@ -20428,7 +20052,6 @@ net.soulwolf.widget+parallaxRefresh,1.0.0,1.0.1,-
 net.soulwolf.widget+parallaxScaleView,1.0.0,1.1.3,-
 net.soulwolf.widget+ratiolayout,1.0.0,2.1.0,-
 net.soulwolf.widget+speedySelector,1.0.0,1.0.0,-
-net.steamcrafted+load-toast,-,-,-
 net.tajsoft+aywa-payment-gateway,0.0.1,0.0.1,-
 net.take+blip-chat,0.0.26,2.1.12,-
 net.taler+akono,0.2,0.2,-
@@ -20466,7 +20089,6 @@ net.yslibrary.keyboardvisibilityevent+keyboardvisibilityevent,1.0.0,3.0.0-RC3,-
 net.yslibrary.licenseadapter+licenseadapter,1.0.0,3.2.0,-
 net.yslibrary.rxrealm+rxrealm,1.0.0,1.2.0,-
 net.yui+YuiHatano,1.0,1.1.10,-
-net.za.idig.ad_server_library+ad-server-utility,-,-,-
 net.zetetic+android-database-sqlcipher,3.3.1,4.5.2,-
 net.zetetic+sqlcipher-android,4.5.2,4.5.2,-
 net.ziahaqi.robomq+robomq,0.9.2,0.9.2,-
@@ -20566,20 +20188,17 @@ nz.co.delacour.exposure-core+exposurevideoplayer,1.0.0,1.0.5,-
 nz.co.electricbolt+propertylistserialization,1.0.1,1.0.1,-
 nz.co.iswe.android.mediagallery+library,1.0.0,1.0.3,-
 nz.co.nativemobile+cameramodule,0.0.1,0.2.5,-
-nz.co.olympicsoftware+fab-speed-dial,-,-,-
 nz.co.paperkite.pkfontwidgets+pkfontwidgets,1.0.0,1.0.0,-
 nz.geek.android+things-driver-char-display,0.7,1.0.0,-
 nz.geek.android.things+things-driver-char-display,0.5,0.7,-
 nz.org.winters+ssh-lib-trim,2.2,2.40,-
 ocom.kascend+csbridgesdk,1.0.0,1.0.0,-
-offcn.utilslibrary+maven,-,-,-
 om.andrognito.pinlockview+pinlockview,1.0.0,1.0.0,-
 omeronce.android+opencvLib430,1.0.0,1.0.0,-
 one.block+eosioandroidkeystoresignatureprovider,0.0.1,1.0.0,-
 one.block+eosiojavaandroidabieosserializationprovider,0.1.0,1.0.0,-
 one.block+eosiojavarpcprovider,0.1.0,0.1.1,-
 one.xcorp.widget+swipe-picker,1.1.0,1.2.0,-
-onemarket+location-android-sdk,-,-,-
 onl.oss.androidx+concurrent-util,0.1,0.1.2,-
 onl.oss.androidx+lifecycle-util,0.1,0.1.6,-
 onl.oss.androidx+widget-util,0.1,0.1,-
@@ -20665,7 +20284,6 @@ org.bitbucket.frankmonza+kustomdashboard,0.1,1.0,-
 org.bitbucket.frankmonza+kustomweather,0.1,0.4,-
 org.bitbucket.icebergteam+logmanager,0.0.1,0.0.1,-
 org.bitbucket.icebergteam+mupdf-android,0.0.1,0.0.3,-
-org.bitbucket.ivankuo+mylib,-,-,-
 org.bitbucket.level6laserlotus+showDialogLibrary,0.7.5,1.3.0,-
 org.bitbucket.robinye+circleratemenulibrary,1.0.6,1.0.6,-
 org.bitbucket.sic43xx-family+sic-nfc,1.1.4,2.0.8,-
@@ -20679,8 +20297,6 @@ org.blockstack.client+blockstack-client,0.0.13,0.0.13,-
 org.bluecabin.textoo+textoo,0.9.4,1.0.1,-
 org.bonnyfone+brdcompat,0.1,0.1,-
 org.bottomnav+BottomNav,1.0.0-alpha1,1.0.0-alpha1,-
-org.bottomnav+bottomnav,-,-,-
-org.boxes.face+recycler-side-bar,-,-,-
 org.butterproject.torrentstream+torrent-stream,2.5.0,2.5.0,-
 org.byteam.superadapter+superadapter,2.2.0,3.6.8,-
 org.calypsonet.keyple+keyple-plugin-cna-bluebird-specific-nfc-java-lib,2.0.0-rc1,2.0.0-rc1,-
@@ -20701,7 +20317,6 @@ org.codetwisted.android-widget+drawerlayout,1.0,1.3.6,-
 org.codnect.xreflect+xreflect,1.0.0,1.0.0,-
 org.coursera.android+shift,1.0.1,1.0.1,-
 org.daimhim.weakhandler+pictureload,1.0.0,1.0.0,-
-org.dalol.amharickeyboardlibrary+amharic-keyboard-library,-,-,-
 org.danbrough+klog-android,0.0.1-alpha26,0.0.1-beta06,-
 org.danbrough.klog+klog-android,0.0.1-alpha25,0.0.1-alpha25,-
 org.dany2fiona.bzv+test2Jcenterlibrary,1.0.0,1.0.0,-
@@ -20906,7 +20521,6 @@ org.lighthousegames+logging-android-debug,1.0.0,1.2.0,-
 org.litepal+LitePal,1.2.0,1.2.0,-
 org.litepal.android+core,1.3.2-snapshot,3.0.0,1.2.0
 org.litepal.android+kotlin,2.1.0,3.0.0,-
-org.liuzhi.adid.dev+liuzhiSupport,-,-,-
 org.loader+autohideime,1.0,1.0,-
 org.loader+glin-okclient,1.0.0,3.2,-
 org.loader+mdtab,1.0.0,1.0.1,-
@@ -20914,7 +20528,6 @@ org.loader+router,1.0.0,1.0.0,-
 org.loopring.looprwallet+loopr-wallet-network,0.9.1,0.9.3,-
 org.lovebing.reactnative+baidumap,1.0.0,1.0.1,-
 org.lovedev+common-util,0.0.1,0.1.1,-
-org.lovedev+webrtc,-,-,-
 org.lqos.zxing+zxings,1.0.1,1.1.7,-
 org.lucasr.smoothie+smoothie,0.1.0,0.1.0,-
 org.lzh.compiler.parceler+parceler-api,0.1,1.1.4,-
@@ -21019,7 +20632,6 @@ org.mozilla.photon+progress,0.5.1,0.27.0,-
 org.mozilla.sync15+logins,0.2.0,0.19.0,-
 org.mpisws+ebclibrary,0.0.1,0.0.1,-
 org.mrlem.siage3d+siage3d-core,0.2.0,0.2.0,-
-org.mshafeeqkn+msknlib,-,-,-
 org.mylibrary+mylibrary,1.0.0,1.0.2,-
 org.mylibrary2+mylibrary2,1.0.2,1.0.3,-
 org.mym.material+md-colors,1.0.0,1.0.0,-
@@ -21111,7 +20723,6 @@ org.sagebionetworks.research.modules+motor-control,0.0.1,0.3.0,-
 org.sch.permission.library+permission,1.0.1,1.0.1,-
 org.sdkdemo+WebViewOverlayDemo,1.0.0,1.0.0,-
 org.shadracktaeli+network-imageview,1.0.0,1.0.4,-
-org.shadracktaeli+networkimageview,-,-,-
 org.signal+aesgcmprovider,0.0.1,0.0.3,-
 org.signal+libsignal-android,0.15.0,0.20.0,-
 org.signal+signal-metadata-android,0.0.2,0.1.2,0.0.2
@@ -21164,7 +20775,6 @@ org.tensorflow+tensorflow-lite-task-text,0.1.0,0.4.2,-
 org.tensorflow+tensorflow-lite-task-text-play-services,0.4.1-beta02,0.4.2-beta03,-
 org.tensorflow+tensorflow-lite-task-vision,0.1.0,0.4.2,-
 org.tensorflow+tensorflow-lite-task-vision-play-services,0.4.1-beta02,0.4.2-beta03,-
-org.tensorflow+testing,-,-,-
 org.tensorflow+tflite-task-audio-play-services,0.4.1-beta02,0.4.1-beta02,-
 org.tensorflow+tflite-task-text-play-services,0.4.1-beta02,0.4.1-beta02,-
 org.testsdk+testsdk,1.0.0,1.0.0,-
@@ -21284,7 +20894,6 @@ pl.droidsonroids.foqa+foqa,0.0.9,0.2.10,-
 pl.droidsonroids.gif+android-gif-drawable,1.0.6,1.2.25,1.0.6
 pl.droidsonroids.relinker+relinker,1.3.1,1.4.1,1.3.1
 pl.hypeapp+noiseview,1.0,1.0,-
-pl.jakubgrzaslewicz+RoomAssetPersistentLibrary,-,-,-
 pl.jakubgrzaslewicz.android+roomassetpersistent,0.0.6,0.0.6,-
 pl.mareklangiewicz+template-andro-lib,0.0.02,0.0.03,-
 pl.mg6.veni.divi+veni-divi,0.1,0.1,-
@@ -21314,14 +20923,12 @@ pro.acuna+storage,2.3,2.5,-
 pro.adad.client+client,3-beta,3-beta,-
 pro.appus+rangebar,1.0.0,1.0.0,-
 pro.appus+zoom-splash,1.0.0,1.0.1,-
-pro.eluzivespikes+easy-photo-picker,-,-,-
 pro.esigning+SignatureDocumentView,0.0.1,0.0.1,-
 pro.jefferson+sdk,0.0.1,0.0.985,-
 pro.oncreate.easynet+easynet,1.1.0,1.5.4,-
 pro.oncreate.truerecycler+truerecycler,1.0.0,1.1.4,-
 pro.siper.adept+adept-core,1.0.0,2.0.2,-
 pro.siper.adept+adept-extension-experimental,2.0.2,2.0.2,-
-pro.streem.internal+platform-client,-,-,-
 pro.streem.pbandk+pbandk-runtime-android,0.10.0-beta.4,0.14.1,-
 pro.streem.pbandk+pbandk-runtime-android-debug,0.10.0-beta.4,0.14.1,-
 pro.useit.recyclerview+easyrecycler,1.0.6,1.0.8,-
@@ -21367,7 +20974,6 @@ rikkei.android+rikkei-demo,0.9.3,0.9.4,-
 rishi.okhttp.wrapper+okhttp-wrapper,1.1,1.3,-
 rmit.ltif.sensingapp+sensingLibrary,0.1.2,0.1.2,-
 rms.qt.simonlibrary+maven,1.0.0,1.0.0,-
-ro.bogdanmunteanu+custompicker,-,-,-
 ro.dragossusi+errordata,1.0,1.0.1,-
 ro.dragossusi+livedata-validation,1.0.2,3.0.3,-
 ro.dragossusi+logger-android,1.0.0,1.1.0,1.0.0
@@ -21430,7 +21036,6 @@ ru.gildor.databinding+nonnull-observables,3.2.0-androidx,3.4.1,-
 ru.github.igla+ferriswheel,1.0.0,1.2,-
 ru.kolotnev+formatt-edit-text,0.2,0.8,-
 ru.kuchanov.scp+downloads,1.0.9,1.1.2,-
-ru.kuchanov.scp+scp-download,-,-,-
 ru.ldralighieri.corbind+ccorbind-recyclerview,1.0.0-RC,1.0.0,-
 ru.ldralighieri.corbind+corbind,1.0.0-RC,1.5.5,1.0.0
 ru.ldralighieri.corbind+corbind-activity,1.5.0,1.5.5,-
@@ -21491,7 +21096,6 @@ ru.ok+odnoklassniki-android-sdk,2.0.2,2.1.8,-
 ru.pocketbyte.kydra+kydra-log-android,1.0.3,1.1.8,1.0.3
 ru.pocketbyte.kydra+kydra-log-android-debug,1.0.3,1.1.8,-
 ru.prof-itgroup+scorocode_sdk,1.0.2,1.0.2,-
-ru.prof_itgroup+scorocode_sdk,-,-,-
 ru.profi1c.fbatoolkit+engine,1.6.1,1.6.2,1.6.1
 ru.ralnik+myseekbarrange,1.1.1,1.1.5,-
 ru.ryakovlev.android+color-picker,0.0.1,0.0.1,-
@@ -21638,7 +21242,6 @@ sing.searchlayout+library,1.0.1,1.0.3,-
 sing.stickyrecyclerview+library,1.0.1,1.0.1,-
 sing.switchbutton+library,1.0.1,1.0.1,-
 sing.switchpage+library,1.0.1,1.0.7,-
-sing.util+library,-,-,-
 site.business.appslandz+retrobuilder,1.0.0,1.0.2,-
 site.gemus+openingstartanimation,1.0.0,1.0.0,-
 site.hanschen+easyLoader,1.0.0,1.0.1,-
@@ -21716,7 +21319,6 @@ systems.furdei+furdroid-floatingmenu,1.1.1,1.1.1,-
 systems.furdei+furdroid-navigationtoolbar,1.1.1,1.1.1,-
 systems.furdei+furdroid-security,1.1.1,1.1.1,-
 systems.furdei+ripple-drawable,1.0,1.1.1,1.0
-sysu.mobile.limk+indoormapview,-,-,-
 sz.itguy.wxlikevideo+WXLikeVideoRecorderLib,1.0.0,1.0.0,-
 taa1007.net.csdn.blog+ProgressDownloader,0.0.0,0.0.0,-
 task.quiz.flatrocktechnology.famousquotequiz+librarytest,2.0.1,2.0.8,-
@@ -21764,7 +21366,6 @@ tech.liujin+jsonParser,1.0.1,1.0.1,-
 tech.liujin+messengers,1.0.0,1.0.0,-
 tech.liujin+model,1.0.2,1.0.2,-
 tech.liujin+network-state-manager,1.0.1,1.0.1,-
-tech.liujin+object-bus,-,-,-
 tech.liujin+overscroll,1.0.0,1.0.0,-
 tech.liujin+pager-extend,1.0.1,1.0.1,-
 tech.liujin+permission,1.0.3,1.0.5,-
@@ -21773,7 +21374,6 @@ tech.liujin+service,1.0.1,1.0.1,-
 tech.liujin+system-ui,1.0.4,1.0.4,-
 tech.livx+liv-image-picker,0.1.0,0.5.0,-
 tech.livx+restservice,0.1.0,0.1.7,-
-tech.ouyezi+log4j-android,-,-,-
 tech.ouyezi+ormlite-android-sqlcipher,1.0.0,1.0.0,-
 tech.scanto+scantokit,3.0,3.0,-
 tech.schoolhelper+apachextension,0.4.0,1.1.0,-
@@ -21808,7 +21408,6 @@ tech.yaog.widgets+image-edittext,1.0.0,2.0.0,-
 tech.yaog.widgets+image-text-button,0.0.1,2.0.1,-
 tech.yaog.widgets+vlc-videoview,0.0.5,0.1.0,-
 technicalteam.android+forceupdate,0.0.1,0.0.1,-
-tek912.com+lightweight-imageloader,-,-,-
 tenqube.parser+sms-parser,2.2.8-finproduct,2.5.0,-
 test.mylibrary+mylibrary,1.0.0,1.0.0,-
 test.temp.converter+temp-converter,1.0.0,1.0.5,-
@@ -21827,7 +21426,6 @@ thiha.aung.bottomactiondialog+bottomactiondialog,1.0.0,1.0.1,-
 threads.core+api,0.0.1,1.4.3,-
 threads.core+iota,0.0.1,0.1.2,0.0.1
 threads.core+webrtc,0.0.2,0.2.9,-
-threads.mobile+ipfs,-,-,-
 threads.pubsub+ipfs,0.0.2,0.0.3,-
 tk.jamun+country,0.0.1,0.0.1,-
 tk.jamun+language,0.0.1,0.0.1,-
@@ -21954,7 +21552,6 @@ ua.eshcherbinock+reachability,0.0.1,0.0.7,-
 ua.in.iua+iua-debug-tools,1.0.0,1.0.3,-
 ua.in.iua+iua-fullscreen-progress-dialog,1.0.0,1.0.4,-
 ua.org.tenletters.widget+AirBoxSdk,1.0.6,1.0.8,-
-ua.org.tenletters.widget+airboxsdk,-,-,-
 ua.org.tenletters.widget+diagonalscrollview,0.3.2,0.3.3,-
 ua.pl.mik+perspectivedrawer,0.2,0.3.2,-
 ua.polohalo.zoomabletextureview+zoomabletextureview,1.0.0,1.0.0,-
@@ -21962,7 +21559,6 @@ ua.zabelnikiov+swipeLayout,0.6,1.0.1,-
 uicworld.com+UsbSerialHub,0.0.0,0.0.0,-
 uicworld.com+serial,0.0.0,0.0.0,0.0.0
 uicworld.com+uart,0.0.0,0.0.0,-
-uicworld.com+usbserialwithhub,-,-,-
 uk.ac.horizon.artcodes+artcodes-scanner,3.2.0,3.4.2,-
 uk.ac.mdx.cs.ie+acontextlib,0.9.6,0.9.10,-
 uk.ac.standrews.cs+mamoc_client,0.1,0.14,-
@@ -21987,7 +21583,6 @@ unified-logger-public+unified-logger,0.1,0.2,-
 universal-adapter+library,0.0.2,0.0.19,-
 urqa.io+urqa-client,0.9.9,0.9.9,-
 us.originally.dfs+dfs,3.0.0,3.0.4,-
-userkit.client.auth+identity,-,-,-
 userkit.client.v1+sdk,1.0,1.0.3,-
 utils.mg.mgutils+app,0.1,0.1,-
 uu.toolbox+UUAndroid,0.0.4,0.0.4,-
@@ -22053,7 +21648,6 @@ vn.viettelmaps.vtmsdk+vtmap-sdk-release,1.0.7,1.1.0,1.0.7
 vox-cpaas+chatsdk,1.0.2,1.0.2,-
 vox-cpaas+connectsdk,1.4.0.2-lite,1.4.2.8,-
 vtion.in.android+sdk,1.0.0,1.0.4,-
-wang.igood.video+app,-,-,-
 wang.leal.agm+webrtc,1.0.28296,1.0.28296,-
 wang.leal.agm+webrtc-compat,1.0.28296.1,1.0.28296.1,-
 wang.leal.ahel+http,1.0.0,1.0.1,-
@@ -22080,7 +21674,6 @@ win.regin+xmpp,1.0.0,1.0.0,-
 win.reginer+MarkdownView,1.0,1.0.1,-
 win.reginer+Player,1.0,1.0.1,-
 win.reginer+RHttp,1.0,1.1,-
-win.reginer+RvCommon,-,-,-
 win.reginer+adapter,1.0,1.0,-
 win.reginer+rvAdapter,1.0,1.0,-
 win.whitelife.ZFPermission+permission,0.0.1,0.0.1,-
@@ -22092,7 +21685,6 @@ work.curioustools+dog_network,1.0.0,1.0.7,-
 work.lingling.dagtask+dagtsk,1.0.0,1.0.0,-
 wrh.zxing.android+zxing-capture,1.0.0,1.0.0,-
 ws.dyt.stepview+stepview,0.1,0.2,-
-ws.dyt.view+recyclerview-adapter-hf,-,-,-
 wtf.s1.ezlog+ezlog,0.1.1,0.1.5,-
 wtf.s1.ui+nsptr-view,0.1.0-RC1,0.1.0,-
 wu.poker.android+library,0.0.1,0.0.2,-
@@ -22141,7 +21733,6 @@ xyz.reginer.http+httplib,1.0.1,1.0.4,-
 xyz.runnerbe+nestegg,1.0.0,1.0.2,-
 xyz.sahildave+searchviewlayout,0.0.1,0.6,-
 xyz.schwaab+avvylib,1.2.0,1.2.0,-
-xyz.slashg.easy-viewholder+easy-viewholder,-,-,-
 xyz.slashg.spine+spine,0.2,0.40.1,-
 xyz.tangram.log+log,0.0.1,0.0.1,0.0.1
 xyz.tangram.log+logger-xlog,0.0.1,0.0.1,-
@@ -22178,9 +21769,7 @@ yiteng.libs+yibus,1.0.0,1.0.2,-
 ysl.anonymous.lib+maven,1.0.0,1.0.0,-
 yunzhe.plugin+PingBack,1.0.0,1.0.5,-
 ywl.ywl5320+libmusic,1.1.5,1.2.6,-
-z.hol.shellandroid+shellandroid,-,-,-
 za.co.cporm+CPOrm,unspecified,3.0.9,-
-za.co.smileyjoedev.lib+debug,-,-,-
 zac.ling.libs+pdfviewer,1.7.0,1.9.0,-
 zeiss.gesture+development-kit,1.0.0,1.0.19,-
 zh.wang.android+yweathergetter4a,1.3.0,1.3.0,-
@@ -22196,5 +21785,3 @@ zy.keyboard+keyboard,0.0.1,0.0.7,-
 zyj.com.mylibrary+AA,1.0.0,1.0.0,-
 zyj.com.mylibrary+YYY,1.0.0,1.0.0,-
 zyj.com.mylibrary+ZYJ,unspecified,1.0.1,-
-zyl.firstmaven.com+first,-,-,-
-zyl.firstmaven.com+fourthtest,-,-,-
