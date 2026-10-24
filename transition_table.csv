@@ -1,0 +1,21 @@
+feature,gained,gained_pct,removed,removed_pct,persisted,persisted_pct,total,total_pct
+reflection,506,2.32%,427,1.96%,2371,10.88%,3304,15.17%
+installed package queries,247,1.13%,256,1.18%,1258,5.77%,1761,8.08%
+sensitive data access,162,0.74%,195,0.90%,500,2.30%,857,3.93%
+javascript usage,70,0.32%,95,0.44%,425,1.95%,590,2.71%
+classloader,8,0.04%,10,0.05%,22,0.10%,40,0.18%
+
+notes
+metric,value,explanation
+dataset_total_libraries,21786,Distinct libraries in the analysis dataset; all percentages use this denominator.
+percentage_definition,count / 21786,Each cell percentage is the cell count divided by dataset_total_libraries.
+versions_matrix_rows,22199,Rows present in versions-matrix.csv.
+excluded_invalid_versions,413,Rows with a missing or invalid oldest/newest version; not part of the dataset.
+libraries_with_same_oldest_newest,6061,Dataset libraries where oldest == newest; they count in the denominator but cannot contribute a transition.
+libraries_with_distinct_oldest_newest,15725,"Dataset libraries with valid, distinct oldest/newest versions."
+absent_both_omissions,,Libraries with a feature absent in both oldest and newest are omitted from that feature's three transition cells.
+absent_both_reflection,12421,Dataset libraries with no reflection in either endpoint.
+absent_both_installed_package_queries,13964,Dataset libraries with no installed package queries in either endpoint.
+absent_both_sensitive_data_access,14868,Dataset libraries with no sensitive data access in either endpoint.
+absent_both_javascript_usage,15135,Dataset libraries with no javascript usage in either endpoint.
+absent_both_classloader,15685,Dataset libraries with no classloader in either endpoint.

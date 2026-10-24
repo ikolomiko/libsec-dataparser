@@ -1,0 +1,16 @@
+Reflection                  01| ag+
+Javascript                  02| ag+
+Read_installed_packages     03| ag+
+Location                    04| ag+
+Place_phone_call            05| ag+
+List_accounts               06| ag+
+Read_change_calendar        07| fd+
+Read_change_contacts        08| fd+
+Read_browser_bookmarks      09| fd+
+Read_phone_information      10| fd+
+Read_sms                    11| fd+
+Send_sms                    12| ag+
+Uses_classloader            13| ag+
+Uses_camera                 14| ag+
+Uses_sensitive_data         15| fd-leak+
+Included_in_apps            16| libscout+libradar
